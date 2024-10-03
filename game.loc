@@ -20810,14 +20810,14 @@ Oct.Code.LoadGame.Version=Версія
 \\	Oct.Code.LoadGame.Mods.Save=Save Mods
 \\
 \\\\
-Oct.Code.LoadGame.Mods.Save=Зберегти модифікації
+Oct.Code.LoadGame.Mods.Save=Збережені модифікації
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mods.Loaded=Loaded Mods
 \\
 \\\\
-Oct.Code.LoadGame.Mods.Loaded=Завантажено модифікації
+Oct.Code.LoadGame.Mods.Loaded=Завантажені модифікації
 
 \\\\
 \\
@@ -21195,7 +21195,7 @@ Oct.Code.Mods.Name=Ім'я
 \\	Oct.Code.Mods.Order=Order
 \\
 \\\\
-Oct.Code.Mods.Order=Ордер
+Oct.Code.Mods.Order=Пріоритет
 
 \\\\
 \\
@@ -60452,35 +60452,35 @@ Oct.Settings.Game.Sexuality.Attraction.Race.tooltip=\\untranslated
 \\	Oct.Settings.Game.Mods.name=Mods
 \\
 \\\\
-Oct.Settings.Game.Mods.name=\\untranslated
+Oct.Settings.Game.Mods.name=Модифікації
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.name=Graphics
 \\
 \\\\
-Oct.Settings.Global.Graphics.name=\\untranslated
+Oct.Settings.Global.Graphics.name=Графіка
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.Resolution.name=Resolution
 \\
 \\\\
-Oct.Settings.Global.Graphics.Resolution.name=\\untranslated
+Oct.Settings.Global.Graphics.Resolution.name=Розширення
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.RefreshRate.name=Refresh Rate
 \\
 \\\\
-Oct.Settings.Global.Graphics.RefreshRate.name=\\untranslated
+Oct.Settings.Global.Graphics.RefreshRate.name=Частота оновлення
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.Fullscreen.name=Full Screen
 \\
 \\\\
-Oct.Settings.Global.Graphics.Fullscreen.name=\\untranslated
+Oct.Settings.Global.Graphics.Fullscreen.name=Повний екран
 
 \\\\
 \\
