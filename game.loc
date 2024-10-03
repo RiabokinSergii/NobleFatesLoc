@@ -20761,7 +20761,7 @@ Oct.Code.Land=\\untranslated
 \\	Oct.Code.Language.Name=English
 \\
 \\\\
-Oct.Code.Language.Name=\\untranslated
+Oct.Code.Language.Name=Українська
 
 \\\\
 \\
@@ -20803,112 +20803,112 @@ Oct.Code.LivingWorld.CustomOrigin=\\untranslated
 \\	Oct.Code.LoadGame.Version=Version
 \\
 \\\\
-Oct.Code.LoadGame.Version=\\untranslated
+Oct.Code.LoadGame.Version=Версія
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mods.Save=Save Mods
 \\
 \\\\
-Oct.Code.LoadGame.Mods.Save=\\untranslated
+Oct.Code.LoadGame.Mods.Save=Зберегти модифікації
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mods.Loaded=Loaded Mods
 \\
 \\\\
-Oct.Code.LoadGame.Mods.Loaded=\\untranslated
+Oct.Code.LoadGame.Mods.Loaded=Завантажено модифікації
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.FileCorrupt=Corrupt
 \\
 \\\\
-Oct.Code.LoadGame.FileCorrupt=\\untranslated
+Oct.Code.LoadGame.FileCorrupt=Перераховано
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mod.Mismatch=Mod Mismatch!
 \\
 \\\\
-Oct.Code.LoadGame.Mod.Mismatch=\\untranslated
+Oct.Code.LoadGame.Mod.Mismatch=Невідповідність модифікацій!
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Incompatible=Incompatible
 \\
 \\\\
-Oct.Code.LoadGame.Incompatible=\\untranslated
+Oct.Code.LoadGame.Incompatible=Несумісна
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mod.Mismatch.Header=Mod Mismatch!
 \\
 \\\\
-Oct.Code.LoadGame.Mod.Mismatch.Header=\\untranslated
+Oct.Code.LoadGame.Mod.Mismatch.Header=Невідповідність модифікацій!
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mod.Mismatch.Details=The mods in the Save do not match those that are loaded.<br>Generally, adding mods is okay, but removing is not.<br><br>Continue?
 \\
 \\\\
-Oct.Code.LoadGame.Mod.Mismatch.Details=\\untranslated
+Oct.Code.LoadGame.Mod.Mismatch.Details=Модифікації у збереженні не збігаються із завантаженими.<br>Як правило, додавати модифікаціх можна, але видаляти ні.<br><br>Продовжити?
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mods.Match.Header=Match Mods?
 \\
 \\\\
-Oct.Code.LoadGame.Mods.Match.Header=\\untranslated
+Oct.Code.LoadGame.Mods.Match.Header=Модифікації збігаються?
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mods.Match.Details=Attempt to match mods to this save?<br><br>The game will restart.<br><br>
 \\
 \\\\
-Oct.Code.LoadGame.Mods.Match.Details=\\untranslated
+Oct.Code.LoadGame.Mods.Match.Details=Спробувати підібрати модифікації до цього збереження?<br><br>Гра перезапуститься.<br><br>
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.DeleteConfirmation.Header=Delete {name}?
 \\
 \\\\
-Oct.Code.LoadGame.DeleteConfirmation.Header=\\untranslated
+Oct.Code.LoadGame.DeleteConfirmation.Header=Видалити {name}?
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.DeleteConfirmation=The file will be sent to the recycle bin.<br>
 \\
 \\\\
-Oct.Code.LoadGame.DeleteConfirmation=\\untranslated
+Oct.Code.LoadGame.DeleteConfirmation=Файл буде відправлено до кошика.<br>
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Header=Load Game
 \\
 \\\\
-Oct.Code.LoadGame.Header=\\untranslated
+Oct.Code.LoadGame.Header=Завантажити гру
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Load=Load
 \\
 \\\\
-Oct.Code.LoadGame.Load=\\untranslated
+Oct.Code.LoadGame.Load=Завантажити
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Delete=Delete
 \\
 \\\\
-Oct.Code.LoadGame.Delete=\\untranslated
+Oct.Code.LoadGame.Delete=Видалити
 
 \\\\
 \\
 \\	Oct.Code.LoadGame.Mods.Match.Caption=Match
 \\
 \\\\
-Oct.Code.LoadGame.Mods.Match.Caption=\\untranslated
+Oct.Code.LoadGame.Mods.Match.Caption=Відповідність
 
 \\\\
 \\
@@ -21069,7 +21069,7 @@ Oct.Code.Menu.Language=Мова
 \\	Oct.Code.Menu.Credits=Credits
 \\
 \\\\
-Oct.Code.Menu.Credits=\\untranslated
+Oct.Code.Menu.Credits=Титри
 
 \\\\
 \\
@@ -21083,7 +21083,7 @@ Oct.Code.Menu.ExitGame=Вийти з гри
 \\	Oct.Code.Menu.Relaunch=Relaunch for Mod changes to take effect.
 \\
 \\\\
-Oct.Code.Menu.Relaunch=Перезапустіть, щоб зміни модифікацій набули чинності.
+Oct.Code.Menu.Relaunch=Перезапустіть, щоб зміни набрали сили.
 
 \\\\
 \\
@@ -21118,7 +21118,7 @@ Oct.Code.MessengerHawk.Kingdom=\\untranslated
 \\	Oct.Code.Missions.Assassinate.Executed={party} executed!
 \\
 \\\\
-Oct.Code.Missions.Assassinate.Executed=\\untranslated
+Oct.Code.Missions.Assassinate.Executed={party} виконано!
 
 \\\\
 \\
@@ -21132,77 +21132,77 @@ Oct.Code.Missions.Assassinate.Escaping=\\untranslated
 \\	Oct.Code.Mods.Error.RequiredBefore={mod} required before!
 \\
 \\\\
-Oct.Code.Mods.Error.RequiredBefore=\\untranslated
+Oct.Code.Mods.Error.RequiredBefore={mod} обов'язково перед!
 
 \\\\
 \\
 \\	Oct.Code.Mods.Error.RequiredAfter={mod} required after!
 \\
 \\\\
-Oct.Code.Mods.Error.RequiredAfter=\\untranslated
+Oct.Code.Mods.Error.RequiredAfter={mod} обов'язковий після!
 
 \\\\
 \\
 \\	Oct.Code.Mods.Error.NotSetToLoad=Not set to Load!
 \\
 \\\\
-Oct.Code.Mods.Error.NotSetToLoad=\\untranslated
+Oct.Code.Mods.Error.NotSetToLoad=Не вибрано для завантаження!
 
 \\\\
 \\
 \\	Oct.Code.Mods.Source.Local=Local
 \\
 \\\\
-Oct.Code.Mods.Source.Local=\\untranslated
+Oct.Code.Mods.Source.Local=Локальний
 
 \\\\
 \\
-\\	Oct.Code.Mods.Source.Workshop=Workshop
+\\Oct.Code.Mods.Source.Workshop=Workshop
 \\
 \\\\
-Oct.Code.Mods.Source.Workshop=\\untranslated
+Oct.Code.Mods.Source.Workshop=Майстерня
 
 \\\\
 \\
 \\	Oct.Code.Mods.Updated.Header=Mods Updated
 \\
 \\\\
-Oct.Code.Mods.Updated.Header=\\untranslated
+Oct.Code.Mods.Updated.Header=Модифікації оновлено
 
 \\\\
 \\
 \\	Oct.Code.Mods.Updated=You must restart to apply your changes.<br><br>Restart now?
 \\
 \\\\
-Oct.Code.Mods.Updated=\\untranslated
+Oct.Code.Mods.Updated=Потрібно перезапустити, щоб застосувати зміни.<br><br>Перезапустити зараз?
 
 \\\\
 \\
-\\	Oct.Code.Mods.Header=Mods
+\\Oct.Code.Mods.Header=Модифікації
 \\
 \\\\
-Oct.Code.Mods.Header=\\untranslated
+Oct.Code.Mods.Header=Модифікації
 
 \\\\
 \\
 \\	Oct.Code.Mods.Name=Name
 \\
 \\\\
-Oct.Code.Mods.Name=\\untranslated
+Oct.Code.Mods.Name=Ім'я
 
 \\\\
 \\
 \\	Oct.Code.Mods.Order=Order
 \\
 \\\\
-Oct.Code.Mods.Order=\\untranslated
+Oct.Code.Mods.Order=Ордер
 
 \\\\
 \\
 \\	Oct.Code.Mods.Load=Load
 \\
 \\\\
-Oct.Code.Mods.Load=\\untranslated
+Oct.Code.Mods.Load=Завантажити
 
 \\\\
 \\
