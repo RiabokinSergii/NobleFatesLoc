@@ -21279,98 +21279,98 @@ Oct.Code.NewGame.Ready=\\untranslated
 \\	Oct.Code.NewGame.Header=New Game
 \\
 \\\\
-Oct.Code.NewGame.Header=\\untranslated
+Oct.Code.NewGame.Header=Нова гра
 
 \\\\
 \\
 \\	Oct.Code.NewGame.RegionName=Region (Save) Name
 \\
 \\\\
-Oct.Code.NewGame.RegionName=\\untranslated
+Oct.Code.NewGame.RegionName=Назва регіону (збереження).
 
 \\\\
 \\
 \\	Oct.Code.NewGame.Experience=Experience
 \\
 \\\\
-Oct.Code.NewGame.Experience=\\untranslated
+Oct.Code.NewGame.Experience=Складність
 
 \\\\
 \\
 \\	Oct.Code.NewGame.Experience.Customize=Customize
 \\
 \\\\
-Oct.Code.NewGame.Experience.Customize=\\untranslated
+Oct.Code.NewGame.Experience.Customize=Налаштувати
 
 \\\\
 \\
 \\	Oct.Code.NewGame.Scenario=Scenario
 \\
 \\\\
-Oct.Code.NewGame.Scenario=\\untranslated
+Oct.Code.NewGame.Scenario=Сценарій
 
 \\\\
 \\
 \\	Oct.Code.NewGame.Begin=Begin
 \\
 \\\\
-Oct.Code.NewGame.Begin=\\untranslated
+Oct.Code.NewGame.Begin=Розпочати
 
 \\\\
 \\
 \\	Oct.Code.News.ChooseYourFate.Title=The Choose Your Fate Update
 \\
 \\\\
-Oct.Code.News.ChooseYourFate.Title=\\untranslated
+Oct.Code.News.ChooseYourFate.Title=Оновлення «Вибери свою долю».
 
 \\\\
 \\
 \\	Oct.Code.News.Header=Welcome to {title}!
 \\
 \\\\
-Oct.Code.News.Header=\\untranslated
+Oct.Code.News.Header=Вітаємо {title}!
 
 \\\\
 \\
 \\	Oct.Code.News.ChooseYourFate.Details=Begin in a Living World and choose an emergent Origin Story or Create Your Own...<br>Build a Family and Raise Children to secure your Kingdom's Legacy...<br>Ascend and continue on in the same World!
 \\
 \\\\
-Oct.Code.News.ChooseYourFate.Details=\\untranslated
+Oct.Code.News.ChooseYourFate.Details=Почніть у живому світі та оберіть нову історію походження або створіть власну...<br>Створіть сім'ю та виховуйте дітей, щоб зберегти спадщину свого Королівства...<br>Підніміться та продовжуйте далі в тому ж світі!
 
 \\\\
 \\
 \\	Oct.Code.News.Note=NOTE
 \\
 \\\\
-Oct.Code.News.Note=\\untranslated
+Oct.Code.News.Note=ПРИМІТКА
 
 \\\\
 \\
 \\	Oct.Code.News.Version={title} ({version}) is incompatible with {priorVersion} saves.<br>Continue a {priorVersion} save by switching to the {priorBranch} Beta on Steam.
 \\
 \\\\
-Oct.Code.News.Version=\\untranslated
+Oct.Code.News.Version={title} ({version}) несумісне із збереженнями {priorVersion}.<br>Продовжте збереження {priorVersion}, перейшовши на бета-версію {priorBranch} у Steam.
 
 \\\\
 \\
 \\	Oct.Code.News.Workshop.Header=Noble Fates has integrated Steam Workshop Support!
 \\
 \\\\
-Oct.Code.News.Workshop.Header=\\untranslated
+Oct.Code.News.Workshop.Header=У Noble Fates інтегрована підтримка Майстерні Steam!
 
 \\\\
 \\
 \\	Oct.Code.News.Workshop.Details=Browse and Subscribe to Mods through Steam.<br>Compatible Mods are marked with the {tag} Tag.<br>Steam will automatically download them and the game will detect them.
 \\
 \\\\
-Oct.Code.News.Workshop.Details=\\untranslated
+Oct.Code.News.Workshop.Details=Переглядайте моди та підписуйтеся на них через Steam.<br>Сумісні моди позначені тегом {tag}.<br>Steam автоматично завантажить їх, і гра виявить їх.
 
 \\\\
 \\
 \\	Oct.Code.News.Thanks=Thanks for playing,<br>The Noble Fates Team
 \\
 \\\\
-Oct.Code.News.Thanks=\\untranslated
+Oct.Code.News.Thanks=Дякую, що граєте,<br>Команда Noble Fates
 
 \\\\
 \\
@@ -23887,42 +23887,42 @@ Oct.Code.Time.YirOf=\\untranslated
 \\	Oct.Code.Tools.Build=Build
 \\
 \\\\
-Oct.Code.Tools.Build=\\untranslated
+Oct.Code.Tools.Build=Будувати
 
 \\\\
 \\
 \\	Oct.Code.Tools.Work=Work
 \\
 \\\\
-Oct.Code.Tools.Work=\\untranslated
+Oct.Code.Tools.Work=Праця
 
 \\\\
 \\
 \\	Oct.Code.Tools.Stockpiles=Stockpiles
 \\
 \\\\
-Oct.Code.Tools.Stockpiles=\\untranslated
+Oct.Code.Tools.Stockpiles=Сховища
 
 \\\\
 \\
 \\	Oct.Code.Tools.Beliefs=Beliefs
 \\
 \\\\
-Oct.Code.Tools.Beliefs=\\untranslated
+Oct.Code.Tools.Beliefs=Переконання
 
 \\\\
 \\
 \\	Oct.Code.Tools.World=World
 \\
 \\\\
-Oct.Code.Tools.World=\\untranslated
+Oct.Code.Tools.World=Світ
 
 \\\\
 \\
 \\	Oct.Code.Tools.Food=Food
 \\
 \\\\
-Oct.Code.Tools.Food=\\untranslated
+Oct.Code.Tools.Food=Їжа
 
 \\\\
 \\
@@ -23950,28 +23950,28 @@ Oct.Code.Tools.Belongings=\\untranslated
 \\	Oct.Code.Tools.Jobs=Jobs
 \\
 \\\\
-Oct.Code.Tools.Jobs=\\untranslated
+Oct.Code.Tools.Jobs=Вакансії
 
 \\\\
 \\
 \\	Oct.Code.Tools.Learning=Learning
 \\
 \\\\
-Oct.Code.Tools.Learning=\\untranslated
+Oct.Code.Tools.Learning=Навчання
 
 \\\\
 \\
 \\	Oct.Code.Tools.Schedule=Schedule
 \\
 \\\\
-Oct.Code.Tools.Schedule=\\untranslated
+Oct.Code.Tools.Schedule=Розклад
 
 \\\\
 \\
 \\	Oct.Code.Tools.Petitions=Petitions
 \\
 \\\\
-Oct.Code.Tools.Petitions=\\untranslated
+Oct.Code.Tools.Petitions=Петиції
 
 \\\\
 \\
@@ -37515,42 +37515,42 @@ Oct.Kingdoms.Traitor.plural=\\untranslated
 \\	Oct.Lists.Animals.name=Animals
 \\
 \\\\
-Oct.Lists.Animals.name=\\untranslated
+Oct.Lists.Animals.name=Тварини
 
 \\\\
 \\
 \\	Oct.Lists.Culture.name=Beliefs
 \\
 \\\\
-Oct.Lists.Culture.name=\\untranslated
+Oct.Lists.Culture.name=Переконання
 
 \\\\
 \\
 \\	Oct.Lists.Items.name=Items
 \\
 \\\\
-Oct.Lists.Items.name=\\untranslated
+Oct.Lists.Items.name=Предмети
 
 \\\\
 \\
 \\	Oct.Lists.Learning.name=Learning
 \\
 \\\\
-Oct.Lists.Learning.name=\\untranslated
+Oct.Lists.Learning.name=Навчання
 
 \\\\
 \\
 \\	Oct.Lists.Log.name=Recent Events
 \\
 \\\\
-Oct.Lists.Log.name=\\untranslated
+Oct.Lists.Log.name=Останні події
 
 \\\\
 \\
 \\	Oct.Lists.Visitors.name=Mortals
 \\
 \\\\
-Oct.Lists.Visitors.name=\\untranslated
+Oct.Lists.Visitors.name=Смертні
 
 \\\\
 \\
@@ -59612,70 +59612,70 @@ Oct.Schemes.Assassination.EvictionFight.Evicted.steps.lines+=\\untranslated
 \\	Oct.Settings.Experiences.Peaceful.name=Peaceful
 \\
 \\\\
-Oct.Settings.Experiences.Peaceful.name=\\untranslated
+Oct.Settings.Experiences.Peaceful.name=Миролюбна
 
 \\\\
 \\
 \\	Oct.Settings.Experiences.Peaceful.tooltip=A Peaceful Experience in Noberia.<br><br>Trouble won't seek you out, but you can find it if you go looking.
 \\
 \\\\
-Oct.Settings.Experiences.Peaceful.tooltip=\\untranslated
+Oct.Settings.Experiences.Peaceful.tooltip=Миролюбна складність у Ноберії.<br><br>Неприємності не шукатимуть вас, але ви можете знайти їх, якщо підете на пошуки.
 
 \\\\
 \\
 \\	Oct.Settings.Experiences.Easy.name=Easy
 \\
 \\\\
-Oct.Settings.Experiences.Easy.name=\\untranslated
+Oct.Settings.Experiences.Easy.name=Легка
 
 \\\\
 \\
 \\	Oct.Settings.Experiences.Easy.tooltip=An Easier Path through Noberia.<br><br>Food lasts longer, you are attacked less often, and those attacks are weaker.
 \\
 \\\\
-Oct.Settings.Experiences.Easy.tooltip=\\untranslated
+Oct.Settings.Experiences.Easy.tooltip=Простіший шлях через Ноберію.<br><br>Їжа зберігається довше, вас атакують рідше, і ці атаки слабші.
 
 \\\\
 \\
 \\	Oct.Settings.Experiences.Medium.name=Medium
 \\
 \\\\
-Oct.Settings.Experiences.Medium.name=\\untranslated
+Oct.Settings.Experiences.Medium.name=Середня
 
 \\\\
 \\
 \\	Oct.Settings.Experiences.Medium.tooltip=The Default Noble Fates Experience.<br><br>Expect hardships with Food and Temperature, attacks of appropriate size and difficulty for your Kingdom, and occassional failure.
 \\
 \\\\
-Oct.Settings.Experiences.Medium.tooltip=\\untranslated
+Oct.Settings.Experiences.Medium.tooltip=Складність Noble Fates за замовчуванням.<br><br>Очікуйте труднощів із їжею та температурою, атак відповідного розміру та складності для вашого Королівства, а також випадкових невдач.
 
 \\\\
 \\
 \\	Oct.Settings.Experiences.Hard.name=Hard
 \\
 \\\\
-Oct.Settings.Experiences.Hard.name=\\untranslated
+Oct.Settings.Experiences.Hard.name=Важка
 
 \\\\
 \\
 \\	Oct.Settings.Experiences.Hard.tooltip=A Hard Journey through Noberia.<br><br>Difficulty doesn't ramp over time, Food decays more quickly, you are attacked more often, and those attacks are stronger.<br><br>Expect a challenge.
 \\
 \\\\
-Oct.Settings.Experiences.Hard.tooltip=\\untranslated
+Oct.Settings.Experiences.Hard.tooltip=Важка подорож через Ноберію.<br><br>Складність не зростає з часом, їжа розкладається швидше, вас атакують частіше, і ці атаки сильніші.<br><br>Очікуйте виклику.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Basic.name=Simplified
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Basic.name=\\untranslated
+Oct.Settings.Game.Sexuality.Basic.name=Спрощено
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Basic.tooltip=When Enabled - Mortals are Male or Female. Adult Mortals are Attracted to the opposite Sex.<br><br>Disable to Customize Sexes, Traits, Attraction, and Titles.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Basic.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Basic.tooltip=Якщо ввімкнено, смертні є чоловіками чи жінками. Дорослих смертних приваблює протилежна стать.<br><br>Вимкніть, щоб налаштувати стать, риси, привабливість і звання.
 
 \\\\
 \\
@@ -59689,287 +59689,287 @@ Oct.Settings.Game.name=\\untranslated
 \\	Oct.Settings.Game.Sexuality.name=Sexuality
 \\
 \\\\
-Oct.Settings.Game.Sexuality.name=\\untranslated
+Oct.Settings.Game.Sexuality.name=Сексуальність
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.NonBinary.name=Trait: Non-Binary
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.NonBinary.name=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.NonBinary.name=Риса: Небінарний
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.NonBinary.tooltip=When Enabled - Adults can be Non-Binary - exhibiting Characteristics of both Sexes.<br><br>NOTE: Non-Binary Mortals will still have either Male or Female Sex (if Enabled).
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.NonBinary.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.NonBinary.tooltip=Якщо ввімкнено – дорослі можуть бути небінарними – демонструючи характеристики обох статей.<br><br>ПРИМІТКА: небінарні смертні все одно матимуть чоловічу чи жіночу стать (якщо ввімкнено).
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.Straight.name=Trait: Straight (Hidden)
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.Straight.name=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.Straight.name=Риса: прямий (прихований)
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.Straight.tooltip=When Enabled - Adults can be Attracted to the opposite Sex.<br><br>NOTE: This is the default behavior, this trait is Hidden.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.Straight.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.Straight.tooltip=Якщо ввімкнено, дорослі можуть приваблюватися протилежною статтю.<br><br>ПРИМІТКА: це типова поведінка, ця риса прихована.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.Gay.name=Trait: Gay
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.Gay.name=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.Gay.name=Риса: Гей
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.Gay.tooltip=When Enabled - Adults can be Attracted to the same Sex.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.Gay.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.Gay.tooltip=Якщо ввімкнено – дорослих може приваблювати одна стать.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.Bisexual.name=Trait: Bisexual
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.Bisexual.name=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.Bisexual.name=Риса: Бісексуал
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.Bisexual.tooltip=When Enabled - Adults can be Attracted to both Sexes.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.Bisexual.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.Bisexual.tooltip=Якщо ввімкнено, дорослі можуть мати приваблення обох статей.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.Asexual.name=Trait: Asexual
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.Asexual.name=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.Asexual.name=Риса: Безстатевий
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Trait.Asexual.tooltip=When Enabled - Adults can be Attracted to neither Sex.<br><br>NOTE: They may still be attracted to Suitors based on other things like Opinion, Race, Age, Prestige.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Trait.Asexual.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Trait.Asexual.tooltip=Якщо ввімкнено, дорослих не може приваблювати жодна стать.<br><br>ПРИМІТКА: їх можуть приваблювати залицяльники на основі інших факторів, таких як думка, раса, вік, престиж.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Titles.Male.Masculine.name=Titles: Male - Masculine
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Titles.Male.Masculine.name=\\untranslated
+Oct.Settings.Game.Sexuality.Titles.Male.Masculine.name=Титули: чоловічий - чоловічий рід
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Titles.Male.Masculine.tooltip=When Enabled - Male Adults can choose Masculine Titles.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Titles.Male.Masculine.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Titles.Male.Masculine.tooltip=Якщо ввімкнено, дорослі чоловіки можуть вибирати титули чоловічого роду.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Titles.Female.Masculine.name=Titles: Female - Masculine
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Titles.Female.Masculine.name=\\untranslated
+Oct.Settings.Game.Sexuality.Titles.Female.Masculine.name=Титули: Жіночий - Чоловічий рід
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Titles.Female.Masculine.tooltip=When Enabled - Female Adults can choose Masculine Titles.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Titles.Female.Masculine.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Titles.Female.Masculine.tooltip=Коли ввімкнено – дорослі жінки можуть вибирати титули чоловічого роду.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Titles.Male.Feminine.name=Titles: Male - Feminine
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Titles.Male.Feminine.name=\\untranslated
+Oct.Settings.Game.Sexuality.Titles.Male.Feminine.name=Титули: Чоловічий - Жіночий рід
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Titles.Male.Feminine.tooltip=When Enabled - Male Adults can choose Feminine Titles.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Titles.Male.Feminine.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Titles.Male.Feminine.tooltip=Якщо ввімкнено, дорослі чоловіки можуть вибирати титули жіночого роду.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Titles.Female.Feminine.name=Titles: Female - Feminine
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Titles.Female.Feminine.name=\\untranslated
+Oct.Settings.Game.Sexuality.Titles.Female.Feminine.name=Титули: Жіночий – Жіночий рід
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Titles.Female.Feminine.tooltip=When Enabled - Female Adults can choose Feminine Titles.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Titles.Female.Feminine.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Titles.Female.Feminine.tooltip=Якщо ввімкнено, дорослі жінки можуть вибирати титули жіночого роду.
 
 \\\\
 \\
 \\	Oct.Settings.Game.RaidChance.name=Raid Chance
 \\
 \\\\
-Oct.Settings.Game.RaidChance.name=\\untranslated
+Oct.Settings.Game.RaidChance.name=Шанс рейдів
 
 \\\\
 \\
 \\	Oct.Settings.Game.Raids.name=Raids
 \\
 \\\\
-Oct.Settings.Game.Raids.name=\\untranslated
+Oct.Settings.Game.Raids.name=Рейди
 
 \\\\
 \\
 \\	Oct.Settings.Game.BanditChance.name=Bandit Chance
 \\
 \\\\
-Oct.Settings.Game.BanditChance.name=\\untranslated
+Oct.Settings.Game.BanditChance.name=Шанс бандитів
 
 \\\\
 \\
 \\	Oct.Settings.Game.Bandits.name=Bandits
 \\
 \\\\
-Oct.Settings.Game.Bandits.name=\\untranslated
+Oct.Settings.Game.Bandits.name=Бандити
 
 \\\\
 \\
 \\	Oct.Settings.Game.DangerousAnimalsChance.name=Dangerous Animals Chance
 \\
 \\\\
-Oct.Settings.Game.DangerousAnimalsChance.name=\\untranslated
+Oct.Settings.Game.DangerousAnimalsChance.name=Шанс небезпечних тварин
 
 \\\\
 \\
 \\	Oct.Settings.Game.Animals.name=Animals
 \\
 \\\\
-Oct.Settings.Game.Animals.name=\\untranslated
+Oct.Settings.Game.Animals.name=Тварини
 
 \\\\
 \\
 \\	Oct.Settings.Game.KinChance.name=Kin Chance
 \\
 \\\\
-Oct.Settings.Game.KinChance.name=\\untranslated
+Oct.Settings.Game.KinChance.name=Родинний шанс
 
 \\\\
 \\
 \\	Oct.Settings.Game.Monsters.name=Monsters
 \\
 \\\\
-Oct.Settings.Game.Monsters.name=\\untranslated
+Oct.Settings.Game.Monsters.name=Потвори
 
 \\\\
 \\
 \\	Oct.Settings.Game.KinDifficulty.name=Kin Difficulty
 \\
 \\\\
-Oct.Settings.Game.KinDifficulty.name=\\untranslated
+Oct.Settings.Game.KinDifficulty.name=Родинні труднощі
 
 \\\\
 \\
 \\	Oct.Settings.Game.ImpChance.name=Imp Chance
 \\
 \\\\
-Oct.Settings.Game.ImpChance.name=\\untranslated
+Oct.Settings.Game.ImpChance.name=Шанс бісенят
 
 \\\\
 \\
 \\	Oct.Settings.Game.RabidChance.name=Rabid Animals Chance
 \\
 \\\\
-Oct.Settings.Game.RabidChance.name=\\untranslated
+Oct.Settings.Game.RabidChance.name=Шанс скажених тварин
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Sex.Male.name=Sex: Male
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Sex.Male.name=\\untranslated
+Oct.Settings.Game.Sexuality.Sex.Male.name=Стать: чоловіча
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Sex.Male.tooltip=When Enabled - Mortals can be Male.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Sex.Male.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Sex.Male.tooltip=Коли ввімкнено, смертні можуть бути чоловіками.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Sex.Female.name=Sex: Female
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Sex.Female.name=\\untranslated
+Oct.Settings.Game.Sexuality.Sex.Female.name=Стать: жіноча
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Sex.Female.tooltip=When Enabled - Mortals can be Female.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Sex.Female.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Sex.Female.tooltip=Якщо ввімкнено, смертні можуть бути жінками.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Attraction.NonBinary.name=Attraction: Non-Binary
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Attraction.NonBinary.name=\\untranslated
+Oct.Settings.Game.Sexuality.Attraction.NonBinary.name=Приваблення: небінарне
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Attraction.NonBinary.tooltip=When Enabled - Adults can be Attracted to other Adults that have the Non-Binary Trait.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Attraction.NonBinary.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Attraction.NonBinary.tooltip=Якщо ввімкнено – Дорослих можна приваблювати іншими Дорослими, які мають небінарну рису.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Attraction.Age.name=Attraction: Age
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Attraction.Age.name=\\untranslated
+Oct.Settings.Game.Sexuality.Attraction.Age.name=Приваблення: Вік
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Attraction.Age.tooltip=When Enabled - Adults can be Attracted to other Adults based on Age.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Attraction.Age.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Attraction.Age.tooltip=Якщо ввімкнено – дорослі можуть приваблюватися іншими дорослими залежно від віку.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Attraction.Prestige.name=Attraction: Prestige
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Attraction.Prestige.name=\\untranslated
+Oct.Settings.Game.Sexuality.Attraction.Prestige.name=Приваблення: Престиж
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Attraction.Prestige.tooltip=When Enabled - Adults can be Attracted to other Adults based on Prestige.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Attraction.Prestige.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Attraction.Prestige.tooltip=Якщо ввімкнено – Дорослих можна приваблювати до інших Дорослих на основі престижу.
 
 \\\\
 \\
 \\	Oct.Settings.Game.General.name=General
 \\
 \\\\
-Oct.Settings.Game.General.name=\\untranslated
+Oct.Settings.Game.General.name=Загальні
 
 \\\\
 \\
@@ -59990,462 +59990,462 @@ Oct.Settings.Game.GuidedExperience.name=\\untranslated
 \\	Oct.Settings.Game.DaysPerYear.name=Days Per Yir
 \\
 \\\\
-Oct.Settings.Game.DaysPerYear.name=\\untranslated
+Oct.Settings.Game.DaysPerYear.name=Днів на рік
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.name=Difficulty
 \\
 \\\\
-Oct.Settings.Game.Difficulty.name=\\untranslated
+Oct.Settings.Game.Difficulty.name=Складність
 
 \\\\
 \\
 \\	Oct.Settings.Game.DifficultyRamp.name=Difficulty Ramp
 \\
 \\\\
-Oct.Settings.Game.DifficultyRamp.name=\\untranslated
+Oct.Settings.Game.DifficultyRamp.name=Наростання складності
 
 \\\\
 \\
 \\	Oct.Settings.Game.DifficultyRamp.tooltip=Ramp up to the desired Difficulty level over the first X Yirs.
 \\
 \\\\
-Oct.Settings.Game.DifficultyRamp.tooltip=\\untranslated
+Oct.Settings.Game.DifficultyRamp.tooltip=Наростання рівеня складності до бажаного протягом перших X років.
 
 \\\\
 \\
 \\	Oct.Settings.Game.DifficultMoment.Frequency.name=Difficult Moment Frequency
 \\
 \\\\
-Oct.Settings.Game.DifficultMoment.Frequency.name=\\untranslated
+Oct.Settings.Game.DifficultMoment.Frequency.name=Частота важких моментів
 
 \\\\
 \\
 \\	Oct.Settings.Game.DifficultMoment.Frequency.tooltip=Difficult Moments include Weather, Combat, Fight, and Escapee Events.<br><br>Frequency determines how often these events happen.
 \\
 \\\\
-Oct.Settings.Game.DifficultMoment.Frequency.tooltip=\\untranslated
+Oct.Settings.Game.DifficultMoment.Frequency.tooltip=Складні моменти включають погодні умови, бої, бійки та події з втечею.<br><br>Частота визначає, як часто відбуваються ці події.
 
 \\\\
 \\
 \\	Oct.Settings.Game.DifficultMoment.Variance.name=Difficult Moment Frequency Variance
 \\
 \\\\
-Oct.Settings.Game.DifficultMoment.Variance.name=\\untranslated
+Oct.Settings.Game.DifficultMoment.Variance.name=Дисперсія частоти складних моментів
 
 \\\\
 \\
 \\	Oct.Settings.Game.DifficultMoment.Variance.tooltip=Difficult Moments include Weather, Combat, Fight, and Escapee Events.<br><br>Variance determines the variation in time between these events.
 \\
 \\\\
-Oct.Settings.Game.DifficultMoment.Variance.tooltip=\\untranslated
+Oct.Settings.Game.DifficultMoment.Variance.tooltip=Складні моменти включають події погоди, бою, бійки та втечі.<br><br>Відхилення визначає різницю в часі між цими подіями.
 
 \\\\
 \\
 \\	Oct.Settings.Game.DifficultMoment.Scale.name=Difficult Moment Scale
 \\
 \\\\
-Oct.Settings.Game.DifficultMoment.Scale.name=\\untranslated
+Oct.Settings.Game.DifficultMoment.Scale.name=Шкала важких моментів
 
 \\\\
 \\
 \\	Oct.Settings.Game.DifficultMoment.Scale.tooltip=Difficult Moments include Weather, Combat, Fight, and Escapee Events.<br><br>Scale determines the size of these events.
 \\
 \\\\
-Oct.Settings.Game.DifficultMoment.Scale.tooltip=\\untranslated
+Oct.Settings.Game.DifficultMoment.Scale.tooltip=Складні моменти включають події погоди, бою, бійки та втечі.<br><br>Масштаб визначає розмір цих подій.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.Needs.Scale.name=Negative Need Esteem
 \\
 \\\\
-Oct.Settings.Game.Difficulty.Needs.Scale.name=\\untranslated
+Oct.Settings.Game.Difficulty.Needs.Scale.name=Оцінка негативної потреби
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.Needs.Scale.tooltip=Scale of the Power (o) of Unmet Needs on Esteem.
 \\
 \\\\
-Oct.Settings.Game.Difficulty.Needs.Scale.tooltip=\\untranslated
+Oct.Settings.Game.Difficulty.Needs.Scale.tooltip=Шкала впливу (о) незадоволених потреб на повагу.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.Ambition.Cap.name=Ambition Cap
 \\
 \\\\
-Oct.Settings.Game.Difficulty.Ambition.Cap.name=\\untranslated
+Oct.Settings.Game.Difficulty.Ambition.Cap.name=Амбіційна шапка
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.Ambition.Cap.tooltip=How much individual Ambition is Clamped by Kingdom Prestige.
 \\
 \\\\
-Oct.Settings.Game.Difficulty.Ambition.Cap.tooltip=\\untranslated
+Oct.Settings.Game.Difficulty.Ambition.Cap.tooltip=Наскільки індивідуальні амбіції обмежені престижем Королівства.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.Want.Frequency.name=Want Frequency
 \\
 \\\\
-Oct.Settings.Game.Difficulty.Want.Frequency.name=\\untranslated
+Oct.Settings.Game.Difficulty.Want.Frequency.name=Потрібна частота
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.Want.Frequency.tooltip=How frequently Mortals ask for something.
 \\
 \\\\
-Oct.Settings.Game.Difficulty.Want.Frequency.tooltip=\\untranslated
+Oct.Settings.Game.Difficulty.Want.Frequency.tooltip=Як часто смертні про щось просять.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.PregnancyDifficulty.name=Pregnancy Difficulty
 \\
 \\\\
-Oct.Settings.Game.Difficulty.PregnancyDifficulty.name=\\untranslated
+Oct.Settings.Game.Difficulty.PregnancyDifficulty.name=Ускладнення вагітності
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.PregnancyDifficulty.tooltip=Difficulty of Pregnancy (affects chance of Miscarriage).
 \\
 \\\\
-Oct.Settings.Game.Difficulty.PregnancyDifficulty.tooltip=\\untranslated
+Oct.Settings.Game.Difficulty.PregnancyDifficulty.tooltip=Вагітність (впливає на ймовірність викидня).
 
 \\\\
 \\
 \\	Oct.Settings.Game.Characters.name=Characters
 \\
 \\\\
-Oct.Settings.Game.Characters.name=\\untranslated
+Oct.Settings.Game.Characters.name=Персонажі
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.LaborDifficulty.name=Labor Difficulty
 \\
 \\\\
-Oct.Settings.Game.Difficulty.LaborDifficulty.name=\\untranslated
+Oct.Settings.Game.Difficulty.LaborDifficulty.name=Складність праці
 
 \\\\
 \\
 \\	Oct.Settings.Game.Difficulty.LaborDifficulty.tooltip=Difficulty of treating Labor (affects chance of Stillbirth).
 \\
 \\\\
-Oct.Settings.Game.Difficulty.LaborDifficulty.tooltip=\\untranslated
+Oct.Settings.Game.Difficulty.LaborDifficulty.tooltip=Складність лікування пологів (впливає на ймовірність мертвонародження).
 
 \\\\
 \\
 \\	Oct.Settings.Game.Desertion.Warning.name=Desertion Warning
 \\
 \\\\
-Oct.Settings.Game.Desertion.Warning.name=\\untranslated
+Oct.Settings.Game.Desertion.Warning.name=Попередження про дезертирство
 
 \\\\
 \\
 \\	Oct.Settings.Game.Desertion.Warning.tooltip=Scale of Desertion Warnings Timeouts.
 \\
 \\\\
-Oct.Settings.Game.Desertion.Warning.tooltip=\\untranslated
+Oct.Settings.Game.Desertion.Warning.tooltip=Шкала тайм-аутів попереджень про дезертирство.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Survival.name=Survival
 \\
 \\\\
-Oct.Settings.Game.Survival.name=\\untranslated
+Oct.Settings.Game.Survival.name=Виживання
 
 \\\\
 \\
 \\	Oct.Settings.Game.TemperatureSensitivity.Comfort.name=Temperature Sensitivity (Comfort)
 \\
 \\\\
-Oct.Settings.Game.TemperatureSensitivity.Comfort.name=\\untranslated
+Oct.Settings.Game.TemperatureSensitivity.Comfort.name=Температурна чутливість (комфорт)
 
 \\\\
 \\
 \\	Oct.Settings.Game.TemperatureSensitivity.Survival.name=Temperature Sensitivity (Survival)
 \\
 \\\\
-Oct.Settings.Game.TemperatureSensitivity.Survival.name=\\untranslated
+Oct.Settings.Game.TemperatureSensitivity.Survival.name=Температурна чутливість (виживання)
 
 \\\\
 \\
 \\	Oct.Settings.Game.FoodDecayRate.name=Food Decay Rate
 \\
 \\\\
-Oct.Settings.Game.FoodDecayRate.name=\\untranslated
+Oct.Settings.Game.FoodDecayRate.name=Швидкість розкладання їжі
 
 \\\\
 \\
 \\	Oct.Settings.Game.RaidDifficulty.name=Raid Difficulty
 \\
 \\\\
-Oct.Settings.Game.RaidDifficulty.name=\\untranslated
+Oct.Settings.Game.RaidDifficulty.name=Складність рейду
 
 \\\\
 \\
 \\	Oct.Settings.Game.RaidUnannounced.name=Surprise Raids
 \\
 \\\\
-Oct.Settings.Game.RaidUnannounced.name=\\untranslated
+Oct.Settings.Game.RaidUnannounced.name=Несподівані рейди
 
 \\\\
 \\
 \\	Oct.Settings.Game.RaidUnannounced.tooltip=When Enabled - Raids have a chance of Engaging without Warning.
 \\
 \\\\
-Oct.Settings.Game.RaidUnannounced.tooltip=\\untranslated
+Oct.Settings.Game.RaidUnannounced.tooltip=Коли ввімкнено – рейди можуть атакувати без попередження.
 
 \\\\
 \\
 \\	Oct.Settings.Game.ImpDifficulty.name=Imp Difficulty
 \\
 \\\\
-Oct.Settings.Game.ImpDifficulty.name=\\untranslated
+Oct.Settings.Game.ImpDifficulty.name=Складність бісенят
 
 \\\\
 \\
 \\	Oct.Settings.Game.PauseWhenKinDisturbed.name=Pause When Kin Disturbed
 \\
 \\\\
-Oct.Settings.Game.PauseWhenKinDisturbed.name=\\untranslated
+Oct.Settings.Game.PauseWhenKinDisturbed.name=Пауза, коли рідні турбуються
 
 \\\\
 \\
 \\	Oct.Settings.Game.RabidDifficulty.name=Rabid Animals Difficulty
 \\
 \\\\
-Oct.Settings.Game.RabidDifficulty.name=\\untranslated
+Oct.Settings.Game.RabidDifficulty.name=Складність скажених тварини.
 
 \\\\
 \\
 \\	Oct.Settings.Game.DangerousAnimalsDifficulty.name=Dangerous Animals Difficulty
 \\
 \\\\
-Oct.Settings.Game.DangerousAnimalsDifficulty.name=\\untranslated
+Oct.Settings.Game.DangerousAnimalsDifficulty.name=Складність небезпечних тварини
 
 \\\\
 \\
 \\	Oct.Settings.Game.BanditDifficulty.name=Bandit Difficulty
 \\
 \\\\
-Oct.Settings.Game.BanditDifficulty.name=\\untranslated
+Oct.Settings.Game.BanditDifficulty.name=Складність бандитів
 
 \\\\
 \\
 \\	Oct.Settings.Game.Building.name=Building
 \\
 \\\\
-Oct.Settings.Game.Building.name=\\untranslated
+Oct.Settings.Game.Building.name=Будівлі
 
 \\\\
 \\
 \\	Oct.Settings.Game.Building.Reachability.Construction.name=Expanded Build Reachability
 \\
 \\\\
-Oct.Settings.Game.Building.Reachability.Construction.name=\\untranslated
+Oct.Settings.Game.Building.Reachability.Construction.name=Розширена доступність будівлі
 
 \\\\
 \\
 \\	Oct.Settings.Game.Building.Reachability.Construction.tooltip=Whether Mortals can Build Props by interacting with connected Props.
 \\
 \\\\
-Oct.Settings.Game.Building.Reachability.Construction.tooltip=\\untranslated
+Oct.Settings.Game.Building.Reachability.Construction.tooltip=Чи можуть смертні будувати об’єкти, взаємодіяти з підключеними об’єктами.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Building.Reachability.Rebuild.name=Expanded Rebuild Reachability
 \\
 \\\\
-Oct.Settings.Game.Building.Reachability.Rebuild.name=\\untranslated
+Oct.Settings.Game.Building.Reachability.Rebuild.name=Розширена доступність відновлення
 
 \\\\
 \\
 \\	Oct.Settings.Game.Building.Reachability.Rebuild.tooltip=Whether Mortals can Rebuild Props by interacting with connected Props.
 \\
 \\\\
-Oct.Settings.Game.Building.Reachability.Rebuild.tooltip=\\untranslated
+Oct.Settings.Game.Building.Reachability.Rebuild.tooltip=Чи можуть смертні відновлювати об’єкти, взаємодіяти з підключеними об’єктами.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Building.Reachability.Repair.name=Expanded Repair Reachability
 \\
 \\\\
-Oct.Settings.Game.Building.Reachability.Repair.name=\\untranslated
+Oct.Settings.Game.Building.Reachability.Repair.name=Розширена доступність для ремонту
 
 \\\\
 \\
 \\	Oct.Settings.Game.Building.Reachability.Repair.tooltip=Whether Mortals can Repair Props by interacting with connected Props.
 \\
 \\\\
-Oct.Settings.Game.Building.Reachability.Repair.tooltip=\\untranslated
+Oct.Settings.Game.Building.Reachability.Repair.tooltip=Чи можуть смертні ремонтувати об’єкти, взаємодіяти з підключеними об’єктами.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Information.name=Information
 \\
 \\\\
-Oct.Settings.Game.Information.name=\\untranslated
+Oct.Settings.Game.Information.name=Інформація
 
 \\\\
 \\
 \\	Oct.Settings.Game.PreachingRate.name=Preaching Rate
 \\
 \\\\
-Oct.Settings.Game.PreachingRate.name=\\untranslated
+Oct.Settings.Game.PreachingRate.name=Ставка проповіді
 
 \\\\
 \\
 \\	Oct.Settings.Game.HiddenOpinions.name=Hidden Opinions
 \\
 \\\\
-Oct.Settings.Game.HiddenOpinions.name=\\untranslated
+Oct.Settings.Game.HiddenOpinions.name=Приховані думки
 
 \\\\
 \\
 \\	Oct.Settings.Game.HiddenAlignments.name=Hidden Alignments
 \\
 \\\\
-Oct.Settings.Game.HiddenAlignments.name=\\untranslated
+Oct.Settings.Game.HiddenAlignments.name=Приховані узгодження
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.name=Origins
 \\
 \\\\
-Oct.Settings.Game.Origin.name=\\untranslated
+Oct.Settings.Game.Origin.name=Походження
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditMaxMortals.name=Max Origin Size
 \\
 \\\\
-Oct.Settings.Game.Origin.EditMaxMortals.name=\\untranslated
+Oct.Settings.Game.Origin.EditMaxMortals.name=Максимальний вихідний розмір
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditMaxMortals.tooltip=The maximum number of Mortals in an Origin.
 \\
 \\\\
-Oct.Settings.Game.Origin.EditMaxMortals.tooltip=\\untranslated
+Oct.Settings.Game.Origin.EditMaxMortals.tooltip=Максимальна кількість смертних у Походженні.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditMaxLevel.name=Max Origin Level
 \\
 \\\\
-Oct.Settings.Game.Origin.EditMaxLevel.name=\\untranslated
+Oct.Settings.Game.Origin.EditMaxLevel.name=Максимальний рівень походження
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditMaxLevel.tooltip=The maximum starting Level for a Mortal in an Origin.
 \\
 \\\\
-Oct.Settings.Game.Origin.EditMaxLevel.tooltip=\\untranslated
+Oct.Settings.Game.Origin.EditMaxLevel.tooltip=Максимальний початковий рівень для смертного в Походженні.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditTraitBudget.name=Bonus Development Pts
 \\
 \\\\
-Oct.Settings.Game.Origin.EditTraitBudget.name=\\untranslated
+Oct.Settings.Game.Origin.EditTraitBudget.name=Бонусні очки розвитку
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditTraitBudget.tooltip=The number of Bonus Development Points awarded to each Mortal when editing an Origin.
 \\
 \\\\
-Oct.Settings.Game.Origin.EditTraitBudget.tooltip=\\untranslated
+Oct.Settings.Game.Origin.EditTraitBudget.tooltip=Кількість бонусних очок розвитку, нарахованих кожному Смертному під час редагування Походження.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditSkillBudget.name=Bonus Skill Pts
 \\
 \\\\
-Oct.Settings.Game.Origin.EditSkillBudget.name=\\untranslated
+Oct.Settings.Game.Origin.EditSkillBudget.name=Бонусні очки вміння
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditSkillBudget.tooltip=The number of Bonus Skill Points awarded to each Mortal when editing an Origin.
 \\
 \\\\
-Oct.Settings.Game.Origin.EditSkillBudget.tooltip=\\untranslated
+Oct.Settings.Game.Origin.EditSkillBudget.tooltip=Кількість бонусних очок вміння, нарахованих кожному Смертному під час редагування Походження.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditPotentialBudget.name=Bonus Potential Pts
 \\
 \\\\
-Oct.Settings.Game.Origin.EditPotentialBudget.name=\\untranslated
+Oct.Settings.Game.Origin.EditPotentialBudget.name=Бонусні потенційні очоки
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditPotentialBudget.tooltip=The number of Bonus Potential Points awarded to each Mortal when editing an Origin.
 \\
 \\\\
-Oct.Settings.Game.Origin.EditPotentialBudget.tooltip=\\untranslated
+Oct.Settings.Game.Origin.EditPotentialBudget.tooltip=Кількість бонусних потенційних очок, нарахованих кожному Смертному під час редагування Походження.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditOpinionBudget.name=Bonus Opinion Pts
 \\
 \\\\
-Oct.Settings.Game.Origin.EditOpinionBudget.name=\\untranslated
+Oct.Settings.Game.Origin.EditOpinionBudget.name=Бонус балів думок
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.EditOpinionBudget.tooltip=The number of Bonus Opinion Points awarded to each Mortal when editing an Origin.
 \\
 \\\\
-Oct.Settings.Game.Origin.EditOpinionBudget.tooltip=\\untranslated
+Oct.Settings.Game.Origin.EditOpinionBudget.tooltip=Кількість бонусних балів думок, нарахованих кожному Смертному під час редагування Походження.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.PrincipleAdoption.name=Origin Principle Adoption
 \\
 \\\\
-Oct.Settings.Game.Origin.PrincipleAdoption.name=\\untranslated
+Oct.Settings.Game.Origin.PrincipleAdoption.name=Прийняття принципу походження
 
 \\\\
 \\
 \\	Oct.Settings.Game.Origin.PrincipleAdoption.tooltip=How strongly the Starting Group Believes to the chosen Principles at the start.
 \\
 \\\\
-Oct.Settings.Game.Origin.PrincipleAdoption.tooltip=\\untranslated
+Oct.Settings.Game.Origin.PrincipleAdoption.tooltip=Наскільки сильно Початкова група вірить у обрані Принципи на початку.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Extremes
 \\
 \\\\
-Oct.Settings.Game.Characters.VisualExtremes.name=\\untranslated
+Oct.Settings.Game.Characters.VisualExtremes.name=Візуальні екстремуми
 
 \\\\
 \\
 \\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls the Extremes of Character Visuals.
 \\
 \\\\
-Oct.Settings.Game.Characters.VisualExtremes.tooltip=\\untranslated
+Oct.Settings.Game.Characters.VisualExtremes.tooltip=Контролює екстремальні візуальні ефекти персонажів.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.InProgress.name=Changes to Sexuality Settings are not retroactive.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.InProgress.name=\\untranslated
+Oct.Settings.Game.Sexuality.InProgress.name=Зміни в налаштуваннях сексуальності не мають зворотної сили.
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Attraction.Race.name=Attraction: Race
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Attraction.Race.name=\\untranslated
+Oct.Settings.Game.Sexuality.Attraction.Race.name=Атракціон: Раса
 
 \\\\
 \\
 \\	Oct.Settings.Game.Sexuality.Attraction.Race.tooltip=When Enabled - Adults can be Attracted to other Adults based on Race.
 \\
 \\\\
-Oct.Settings.Game.Sexuality.Attraction.Race.tooltip=\\untranslated
+Oct.Settings.Game.Sexuality.Attraction.Race.tooltip=Якщо ввімкнено – дорослих можна приваблювати іншими дорослими залежно від раси.
 
 \\\\
 \\
@@ -60487,420 +60487,420 @@ Oct.Settings.Global.Graphics.Fullscreen.name=Повний екран
 \\	Oct.Settings.Global.Graphics.Fullscreen.choices.1=Borderless Window
 \\
 \\\\
-Oct.Settings.Global.Graphics.Fullscreen.choices.1=\\untranslated
+Oct.Settings.Global.Graphics.Fullscreen.choices.1=Вікно без рамок
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.Fullscreen.choices.2=Full Screen
 \\
 \\\\
-Oct.Settings.Global.Graphics.Fullscreen.choices.2=\\untranslated
+Oct.Settings.Global.Graphics.Fullscreen.choices.2=Повний екран
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.Fullscreen.choices.3=Windowed
 \\
 \\\\
-Oct.Settings.Global.Graphics.Fullscreen.choices.3=\\untranslated
+Oct.Settings.Global.Graphics.Fullscreen.choices.3=Віконний
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.VSync.name=VSync
 \\
 \\\\
-Oct.Settings.Global.Graphics.VSync.name=\\untranslated
+Oct.Settings.Global.Graphics.VSync.name=В. Синхронізація
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MaxFramerate.name=Max Framerate
 \\
 \\\\
-Oct.Settings.Global.Graphics.MaxFramerate.name=\\untranslated
+Oct.Settings.Global.Graphics.MaxFramerate.name=Максимальна частота кадрів
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MaxFramerate.choices.1=Unlimited
 \\
 \\\\
-Oct.Settings.Global.Graphics.MaxFramerate.choices.1=\\untranslated
+Oct.Settings.Global.Graphics.MaxFramerate.choices.1=Необмежено
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MaxFramerate.choices.2=30
 \\
 \\\\
-Oct.Settings.Global.Graphics.MaxFramerate.choices.2=\\untranslated
+Oct.Settings.Global.Graphics.MaxFramerate.choices.2=30
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MaxFramerate.choices.3=60
 \\
 \\\\
-Oct.Settings.Global.Graphics.MaxFramerate.choices.3=\\untranslated
+Oct.Settings.Global.Graphics.MaxFramerate.choices.3=60
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.name=Shadow Quality
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.name=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.name=Якість тіней
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.1=None
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.1=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.1=Відсутні
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.2=Low
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.2=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.2=Низькі
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.ShadowQuality.choices.3=High
 \\
 \\\\
-Oct.Settings.Global.Graphics.ShadowQuality.choices.3=\\untranslated
+Oct.Settings.Global.Graphics.ShadowQuality.choices.3=Високі
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.DepthOfField.name=Depth of Field
 \\
 \\\\
-Oct.Settings.Global.Graphics.DepthOfField.name=\\untranslated
+Oct.Settings.Global.Graphics.DepthOfField.name=Глибина різкості
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.AntiAliasing.name=Anti-Aliasing
 \\
 \\\\
-Oct.Settings.Global.Graphics.AntiAliasing.name=\\untranslated
+Oct.Settings.Global.Graphics.AntiAliasing.name=Згладжування
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.AmbientOcclusion.name=Ambient Occlusion
 \\
 \\\\
-Oct.Settings.Global.Graphics.AmbientOcclusion.name=\\untranslated
+Oct.Settings.Global.Graphics.AmbientOcclusion.name=Навколишня оклюзія
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.MotionBlur.name=Motion Blur
 \\
 \\\\
-Oct.Settings.Global.Graphics.MotionBlur.name=\\untranslated
+Oct.Settings.Global.Graphics.MotionBlur.name=Розмиття в русі
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.FilmGrain.name=Film Grain
 \\
 \\\\
-Oct.Settings.Global.Graphics.FilmGrain.name=\\untranslated
+Oct.Settings.Global.Graphics.FilmGrain.name=Зернистість плівки
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.VolumetricClouds.name=Volumetric Clouds & Fog
 \\
 \\\\
-Oct.Settings.Global.Graphics.VolumetricClouds.name=\\untranslated
+Oct.Settings.Global.Graphics.VolumetricClouds.name=Об'ємні хмари та туман
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.LivePortraits.name=Live Portraits
 \\
 \\\\
-Oct.Settings.Global.Graphics.LivePortraits.name=\\untranslated
+Oct.Settings.Global.Graphics.LivePortraits.name=Живі портрети
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.FootstepDecals.name=Footstep Decals
 \\
 \\\\
-Oct.Settings.Global.Graphics.FootstepDecals.name=\\untranslated
+Oct.Settings.Global.Graphics.FootstepDecals.name=Сліди кроків
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.Destruction.name=Destruction
 \\
 \\\\
-Oct.Settings.Global.Graphics.Destruction.name=\\untranslated
+Oct.Settings.Global.Graphics.Destruction.name=Руйнування
 
 \\\\
 \\
 \\	Oct.Settings.Global.Audio.name=Audio
 \\
 \\\\
-Oct.Settings.Global.Audio.name=\\untranslated
+Oct.Settings.Global.Audio.name=Аудіо
 
 \\\\
 \\
 \\	Oct.Settings.Global.Audio.Master.name=Master Volume
 \\
 \\\\
-Oct.Settings.Global.Audio.Master.name=\\untranslated
+Oct.Settings.Global.Audio.Master.name=Основний обсяг
 
 \\\\
 \\
 \\	Oct.Settings.Global.Audio.Music.name=Music Volume
 \\
 \\\\
-Oct.Settings.Global.Audio.Music.name=\\untranslated
+Oct.Settings.Global.Audio.Music.name=Гучність музики
 
 \\\\
 \\
 \\	Oct.Settings.Global.Audio.UI.name=UI SFX Volume
 \\
 \\\\
-Oct.Settings.Global.Audio.UI.name=\\untranslated
+Oct.Settings.Global.Audio.UI.name=Гучність UI SFX
 
 \\\\
 \\
 \\	Oct.Settings.Global.Audio.InWorld.name=In World SFX Volume
 \\
 \\\\
-Oct.Settings.Global.Audio.InWorld.name=\\untranslated
+Oct.Settings.Global.Audio.InWorld.name=У світовому томі SFX
 
 \\\\
 \\
 \\	Oct.Settings.Global.Audio.Ambient.name=Ambient SFX Volume
 \\
 \\\\
-Oct.Settings.Global.Audio.Ambient.name=\\untranslated
+Oct.Settings.Global.Audio.Ambient.name=Гучність навколишнього SFX
 
 \\\\
 \\
 \\	Oct.Settings.Global.Audio.Confirmation.name=Confirm Speech Volume
 \\
 \\\\
-Oct.Settings.Global.Audio.Confirmation.name=\\untranslated
+Oct.Settings.Global.Audio.Confirmation.name=Підтвердьте гучність мовлення
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.name=Interface
 \\
 \\\\
-Oct.Settings.Global.Interface.name=\\untranslated
+Oct.Settings.Global.Interface.name=Інтерфейс
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.UIScale.name=UI Scale
 \\
 \\\\
-Oct.Settings.Global.Graphics.UIScale.name=\\untranslated
+Oct.Settings.Global.Graphics.UIScale.name=Розмір інтерфейсу користувача
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.PortraitCount.name=Portrait Count
 \\
 \\\\
-Oct.Settings.Global.Graphics.PortraitCount.name=\\untranslated
+Oct.Settings.Global.Graphics.PortraitCount.name=Портрет графа
 
 \\\\
 \\
 \\	Oct.Settings.Global.Graphics.PortraitCount.tooltip=The Number of Portraits at the top of the Screen.
 \\
 \\\\
-Oct.Settings.Global.Graphics.PortraitCount.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.PortraitCount.tooltip=Кількість портретів у верхній частині екрана.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.Temperature.name=Temperature
 \\
 \\\\
-Oct.Settings.Global.Interface.Temperature.name=\\untranslated
+Oct.Settings.Global.Interface.Temperature.name=Температура
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.Temperature.choices.1=Celsius
 \\
 \\\\
-Oct.Settings.Global.Interface.Temperature.choices.1=\\untranslated
+Oct.Settings.Global.Interface.Temperature.choices.1=Цельсій
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.Temperature.choices.2=Fahrenheit
 \\
 \\\\
-Oct.Settings.Global.Interface.Temperature.choices.2=\\untranslated
+Oct.Settings.Global.Interface.Temperature.choices.2=Фаренгейт
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.CloseTradeWindow.name=Close Trade Window after Deal
 \\
 \\\\
-Oct.Settings.Global.Interface.CloseTradeWindow.name=\\untranslated
+Oct.Settings.Global.Interface.CloseTradeWindow.name=Закрийте торгове вікно після угоди
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=When enabled, the Trade Window is Closed after you make a deal.
 \\
 \\\\
-Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=\\untranslated
+Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=Якщо ввімкнено, торгове вікно закривається після укладення угоди.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.BelongingsPortraitResort.name=Belongings Portrait Resort
 \\
 \\\\
-Oct.Settings.Global.Interface.BelongingsPortraitResort.name=\\untranslated
+Oct.Settings.Global.Interface.BelongingsPortraitResort.name=Приналежності Portrait Resort
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=When enabled, Portraits can Re-sort from Prestige changes while you are on the Belongings Screen.
 \\
 \\\\
-Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=\\untranslated
+Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=Якщо ввімкнено, портрети можуть повторно сортувати зі змін престижу, поки ви перебуваєте на екрані речей.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.name=Untuck Tools When
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.name=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.name=Від’єднати інструменти, коли
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.1=Any Hovered
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.1=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.1=Будь-яке наведення
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.2=When Hovered
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.2=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.2=При наведенні
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.3=Always
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.3=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.3=Завжди
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.tooltip=Controls when the Tabs on the Toolbar are untucked.
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.tooltip=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.tooltip=Контролює, коли вкладки на панелі інструментів розгорнуті.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.name=Controls
 \\
 \\\\
-Oct.Settings.Global.Controls.name=\\untranslated
+Oct.Settings.Global.Controls.name=Елементи керування
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.UI.name=UI
 \\
 \\\\
-Oct.Settings.Global.Controls.UI.name=\\untranslated
+Oct.Settings.Global.Controls.UI.name=Інтерфейс користувача
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.ToggleTemperature.name=Toggle Temp Overlay
 \\
 \\\\
-Oct.Settings.Global.Controls.ToggleTemperature.name=\\untranslated
+Oct.Settings.Global.Controls.ToggleTemperature.name=Перемкнути тимчасове накладання
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.UI.PauseMenu.name=Open Pause Menu
 \\
 \\\\
-Oct.Settings.Global.Controls.UI.PauseMenu.name=\\untranslated
+Oct.Settings.Global.Controls.UI.PauseMenu.name=Відкрийте меню паузи
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.UI.Back.name=Back
 \\
 \\\\
-Oct.Settings.Global.Controls.UI.Back.name=\\untranslated
+Oct.Settings.Global.Controls.UI.Back.name=Назад
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.UI.ScaleDown.name=Scale Down
 \\
 \\\\
-Oct.Settings.Global.Controls.UI.ScaleDown.name=\\untranslated
+Oct.Settings.Global.Controls.UI.ScaleDown.name=Зменшити масштаб
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.UI.ScaleUp.name=Scale Up
 \\
 \\\\
-Oct.Settings.Global.Controls.UI.ScaleUp.name=\\untranslated
+Oct.Settings.Global.Controls.UI.ScaleUp.name=Збільшити масштаб
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.AutoSave.name=Auto Save
 \\
 \\\\
-Oct.Settings.Global.Controls.AutoSave.name=\\untranslated
+Oct.Settings.Global.Controls.AutoSave.name=Автоматичне збереження
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.UI.Toggle.name=Toggle UI
 \\
 \\\\
-Oct.Settings.Global.Controls.UI.Toggle.name=\\untranslated
+Oct.Settings.Global.Controls.UI.Toggle.name=Перемкнути інтерфейс користувача
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.name=Camera
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.name=Камера
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Move.Forward.name=Move Forward
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.Forward.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.Forward.name=Рух вперед
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Move.Back.name=Move Backward
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.Back.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.Back.name=Рух назад
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Move.Left.name=Move Left
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.Left.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.Left.name=Рух ліворуч
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Move.Right.name=Move Right
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.Right.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.Right.name=Рух праворуч
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Edge Scroll
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Прокручування біля країв
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Rotate.name=Rotate
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.name=Обертання
 
 \\\\
 \\
@@ -60914,14 +60914,14 @@ Oct.Settings.Global.Controls.Camera.Rotate.defaultValue=\\untranslated
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Invert Pitch
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Інвертувати висоту тону
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Invert Pitch (Controlled)
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Інвертувати висоту тону (контрольовано)
 
 \\\\
 \\
@@ -61733,84 +61733,84 @@ Oct.Settings.Global.Controls.Maps.DeletePocket.name=\\untranslated
 \\	Oct.Settings.Global.Reporting.name=Reporting
 \\
 \\\\
-Oct.Settings.Global.Reporting.name=\\untranslated
+Oct.Settings.Global.Reporting.name=Звітність
 
 \\\\
 \\
 \\	Oct.Settings.Global.Reporting.Crashes.name=Auto-Report Crashes
 \\
 \\\\
-Oct.Settings.Global.Reporting.Crashes.name=\\untranslated
+Oct.Settings.Global.Reporting.Crashes.name=Автоматичний звіт про збої
 
 \\\\
 \\
 \\	Oct.Settings.Global.Reporting.Crashes.tooltip=When enabled, crashes are automatically be reported so that we can improve the game.<BR>See https://noblefates.userecho.com/ for our privacy policy and additional details.
 \\
 \\\\
-Oct.Settings.Global.Reporting.Crashes.tooltip=\\untranslated
+Oct.Settings.Global.Reporting.Crashes.tooltip=Якщо ввімкнено, автоматично надсилаються звіти про збої, щоб ми могли покращити гру.<BR>Див. https://noblefates.userecho.com/ для нашої політики конфіденційності та додаткових відомостей.
 
 \\\\
 \\
 \\	Oct.Settings.Global.Saves.name=Saves
 \\
 \\\\
-Oct.Settings.Global.Saves.name=\\untranslated
+Oct.Settings.Global.Saves.name=Збереження
 
 \\\\
 \\
 \\	Oct.Settings.Global.Saves.AutoSave.name=Auto Save (In Minutes)
 \\
 \\\\
-Oct.Settings.Global.Saves.AutoSave.name=\\untranslated
+Oct.Settings.Global.Saves.AutoSave.name=Автоматичне збереження (в хвилинах)
 
 \\\\
 \\
 \\	Oct.Settings.Global.Saves.AutoSave.minText=Never
 \\
 \\\\
-Oct.Settings.Global.Saves.AutoSave.minText=\\untranslated
+Oct.Settings.Global.Saves.AutoSave.minText=Ніколи
 
 \\\\
 \\
 \\	Oct.Settings.Global.AutoSaves.Keep.name=Auto Saves to Keep
 \\
 \\\\
-Oct.Settings.Global.AutoSaves.Keep.name=\\untranslated
+Oct.Settings.Global.AutoSaves.Keep.name=Тримати автоматичні збереження
 
 \\\\
 \\
 \\	Oct.Settings.Global.AutoSaves.Keep.maxText=Unlimited
 \\
 \\\\
-Oct.Settings.Global.AutoSaves.Keep.maxText=\\untranslated
+Oct.Settings.Global.AutoSaves.Keep.maxText=Необмежено
 
 \\\\
 \\
 \\	Oct.Settings.Scenarios.HeavyIsTheCrown.name=Heavy is The Crown
 \\
 \\\\
-Oct.Settings.Scenarios.HeavyIsTheCrown.name=\\untranslated
+Oct.Settings.Scenarios.HeavyIsTheCrown.name=Важка корона
 
 \\\\
 \\
 \\	Oct.Settings.Scenarios.HeavyIsTheCrown.tooltip=The Noble Fates Guided Experience.<br><br>You're trapped in the corpse of a Dead King.<br><br>Wanderers happen upon the corpse and take up the Crown to start a new Kingdom.<br><br>Difficulty increases over time.<br><br>Continue after the Guided Experience or Ascend and choose a new Origin Story in the same world.
 \\
 \\\\
-Oct.Settings.Scenarios.HeavyIsTheCrown.tooltip=\\untranslated
+Oct.Settings.Scenarios.HeavyIsTheCrown.tooltip=Досвід під керівництвом шляхетних доль.<br><br>Ви потрапили в пастку в трупі Мертвого Короля.<br><br>Мандрівники трапляють біля трупа і забирають Корону, щоб заснувати нове Королівство.<br>< br>Складність зростає з часом.<br><br>Продовжте після досвіду під керівництвом або підніміться та виберіть нову історію походження в тому ж світі.
 
 \\\\
 \\
 \\	Oct.Settings.Scenarios.Custom.name=Choose Your Fate
 \\
 \\\\
-Oct.Settings.Scenarios.Custom.name=\\untranslated
+Oct.Settings.Scenarios.Custom.name=Виберіть свою долю
 
 \\\\
 \\
 \\	Oct.Settings.Scenarios.Custom.tooltip=Begin as an Ascended Kontra observing the Living World.<br><br>Witness the rise and fall of Kingdoms and Families as time passes.<br><br>Choose an Origin Story that emerges or Create your own. See how your Group fairs in a reactive world.<br><br>Ascend and choose a new Origin Story to continue on in the same World.
 \\
 \\\\
-Oct.Settings.Scenarios.Custom.tooltip=\\untranslated
+Oct.Settings.Scenarios.Custom.tooltip=Почніть як Піднесена Контра, яка спостерігає за Живим Світом.<br><br>Будьте свідками підйому та падіння Королівств і Родин з плином часу.<br><br>Виберіть історію походження, яка з’явиться, або створіть власну. Подивіться, як працює ваша група в реактивному світі.<br><br>Підніміться та виберіть нову історію походження, щоб продовжити в тому ж світі.
 
 \\\\
 \\
