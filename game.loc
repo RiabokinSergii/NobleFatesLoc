@@ -23019,14 +23019,14 @@ Oct.Code.Rules.Allowed=\\untranslated
 \\	Oct.Code.Save.Autosaving=Autosaving
 \\
 \\\\
-Oct.Code.Save.Autosaving=\\untranslated
+Oct.Code.Save.Autosaving=Автозбереження
 
 \\\\
 \\
 \\	Oct.Code.Save.Failed=Save Failed!
 \\
 \\\\
-Oct.Code.Save.Failed=\\untranslated
+Oct.Code.Save.Failed=Зберегти не вдалося!
 
 \\\\
 \\
@@ -23040,35 +23040,35 @@ Oct.Code.Save.Failed.Details=\\untranslated
 \\	Oct.Code.Save.DiscardProgress.Header=Discard Progress?
 \\
 \\\\
-Oct.Code.Save.DiscardProgress.Header=\\untranslated
+Oct.Code.Save.DiscardProgress.Header=Відкинути прогрес?
 
 \\\\
 \\
 \\	Oct.Code.Save.DiscardProgress=Unsaved progress will be lost.<br><br>Continue?<br>
 \\
 \\\\
-Oct.Code.Save.DiscardProgress=\\untranslated
+Oct.Code.Save.DiscardProgress=Незбережений прогрес буде втрачено.<br><br>Продовжити?<br>
 
 \\\\
 \\
 \\	Oct.Code.Saved.Header=Game Saved!
 \\
 \\\\
-Oct.Code.Saved.Header=\\untranslated
+Oct.Code.Saved.Header=Гра збережена!
 
 \\\\
 \\
 \\	Oct.Code.Saved.File=Filename
 \\
 \\\\
-Oct.Code.Saved.File=\\untranslated
+Oct.Code.Saved.File=Ім'я файлу
 
 \\\\
 \\
 \\	Oct.Code.SaveFailed.Header=Save Failed!
 \\
 \\\\
-Oct.Code.SaveFailed.Header=\\untranslated
+Oct.Code.SaveFailed.Header=Зберегти не вдалося!
 
 \\\\
 \\
@@ -23887,7 +23887,7 @@ Oct.Code.Time.YirOf=\\untranslated
 \\	Oct.Code.Tools.Build=Build
 \\
 \\\\
-Oct.Code.Tools.Build=Будувати
+Oct.Code.Tools.Build=Будування
 
 \\\\
 \\
@@ -24195,14 +24195,14 @@ Oct.Code.Trade.YourKingdom=\\untranslated
 \\	Oct.Code.UI.Dismiss=Dismiss
 \\
 \\\\
-Oct.Code.UI.Dismiss=\\untranslated
+Oct.Code.UI.Dismiss=Відхилити
 
 \\\\
 \\
 \\	Oct.Code.UI.Rename.Done=Done
 \\
 \\\\
-Oct.Code.UI.Rename.Done=\\untranslated
+Oct.Code.UI.Rename.Done=Гаразд!
 
 \\\\
 \\
@@ -43662,21 +43662,21 @@ Oct.Props.Adventures.TreasureChest.colorSlots.3.name=\\untranslated
 \\	Oct.Props.AngledWall.Hollow.name=Hollow Angled Wall
 \\
 \\\\
-Oct.Props.AngledWall.Hollow.name=\\untranslated
+Oct.Props.AngledWall.Hollow.name=Порожниста кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.Hollow.pluralName=Hollow Angled Walls
 \\
 \\\\
-Oct.Props.AngledWall.Hollow.pluralName=\\untranslated
+Oct.Props.AngledWall.Hollow.pluralName=Порожниста кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.Hollow.toolName=Hollow
 \\
 \\\\
-Oct.Props.AngledWall.Hollow.toolName=\\untranslated
+Oct.Props.AngledWall.Hollow.toolName=Порожниста
 
 \\\\
 \\
@@ -43690,21 +43690,21 @@ Oct.Props.AngledWall.Hollow.colorSlots.1.name=\\untranslated
 \\	Oct.Props.AngledWall.Wood.name=Wooden Angled Wall
 \\
 \\\\
-Oct.Props.AngledWall.Wood.name=\\untranslated
+Oct.Props.AngledWall.Wood.name=Дерев'яна кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.Wood.pluralName=Wooden Angled Walls
 \\
 \\\\
-Oct.Props.AngledWall.Wood.pluralName=\\untranslated
+Oct.Props.AngledWall.Wood.pluralName=Дерев'яна кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.Wood.toolName=Wooden
 \\
 \\\\
-Oct.Props.AngledWall.Wood.toolName=\\untranslated
+Oct.Props.AngledWall.Wood.toolName=Дерев'яна
 
 \\\\
 \\
@@ -43725,21 +43725,21 @@ Oct.Props.AngledWall.Wood.colorSlots.2.name=\\untranslated
 \\	Oct.Props.AngledWall.FineWood.name=Fine Wood Angled Wall
 \\
 \\\\
-Oct.Props.AngledWall.FineWood.name=\\untranslated
+Oct.Props.AngledWall.FineWood.name=Гарна дерев'яна кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.FineWood.pluralName=Fine Wood Angled Walls
 \\
 \\\\
-Oct.Props.AngledWall.FineWood.pluralName=\\untranslated
+Oct.Props.AngledWall.FineWood.pluralName=Гарна дерев'яна кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.FineWood.toolName=Fine Wood
 \\
 \\\\
-Oct.Props.AngledWall.FineWood.toolName=\\untranslated
+Oct.Props.AngledWall.FineWood.toolName=Гарна дерев'яна
 
 \\\\
 \\
@@ -43760,21 +43760,21 @@ Oct.Props.AngledWall.FineWood.colorSlots.2.name=\\untranslated
 \\	Oct.Props.AngledWall.Stone.name=Stone Angled Wall
 \\
 \\\\
-Oct.Props.AngledWall.Stone.name=\\untranslated
+Oct.Props.AngledWall.Stone.name=Кам'яна кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.Stone.pluralName=Stone Angled Walls
 \\
 \\\\
-Oct.Props.AngledWall.Stone.pluralName=\\untranslated
+Oct.Props.AngledWall.Stone.pluralName=Кам'яна кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.Stone.toolName=Stone
 \\
 \\\\
-Oct.Props.AngledWall.Stone.toolName=\\untranslated
+Oct.Props.AngledWall.Stone.toolName=Кам'яна
 
 \\\\
 \\
@@ -43809,21 +43809,21 @@ Oct.Props.AngledWall.Stone.colorSlots.4.name=\\untranslated
 \\	Oct.Props.AngledWall.FineStone.name=Fine Stone Angled Wall
 \\
 \\\\
-Oct.Props.AngledWall.FineStone.name=\\untranslated
+Oct.Props.AngledWall.FineStone.name=Гарна кам'яна кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.FineStone.pluralName=Fine Stone Angled Walls
 \\
 \\\\
-Oct.Props.AngledWall.FineStone.pluralName=\\untranslated
+Oct.Props.AngledWall.FineStone.pluralName=Гарна кам'яна кутова стіна
 
 \\\\
 \\
 \\	Oct.Props.AngledWall.FineStone.toolName=Fine Stone
 \\
 \\\\
-Oct.Props.AngledWall.FineStone.toolName=\\untranslated
+Oct.Props.AngledWall.FineStone.toolName=Гарна кам'яна
 
 \\\\
 \\
@@ -43949,21 +43949,21 @@ Oct.Props.AngledWall.Wood.prefabs.2.name=\\untranslated
 \\	Oct.Props.Arches.Hollow.name=Hollow Brace
 \\
 \\\\
-Oct.Props.Arches.Hollow.name=\\untranslated
+Oct.Props.Arches.Hollow.name=Порожниста підпора
 
 \\\\
 \\
 \\	Oct.Props.Arches.Hollow.pluralName=Hollow Braces
 \\
 \\\\
-Oct.Props.Arches.Hollow.pluralName=\\untranslated
+Oct.Props.Arches.Hollow.pluralName=Порожниста підпора
 
 \\\\
 \\
 \\	Oct.Props.Arches.Hollow.toolName=Hollow Brc
 \\
 \\\\
-Oct.Props.Arches.Hollow.toolName=\\untranslated
+Oct.Props.Arches.Hollow.toolName=Порож підп
 
 \\\\
 \\
@@ -43977,21 +43977,21 @@ Oct.Props.Arches.Hollow.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Arches.Wooden.name=Wooden Brace
 \\
 \\\\
-Oct.Props.Arches.Wooden.name=\\untranslated
+Oct.Props.Arches.Wooden.name=Дерев'яна підпора
 
 \\\\
 \\
 \\	Oct.Props.Arches.Wooden.pluralName=Wooden Braces
 \\
 \\\\
-Oct.Props.Arches.Wooden.pluralName=\\untranslated
+Oct.Props.Arches.Wooden.pluralName=Дерев'яна підпора
 
 \\\\
 \\
 \\	Oct.Props.Arches.Wooden.toolName=Wooden Brc
 \\
 \\\\
-Oct.Props.Arches.Wooden.toolName=\\untranslated
+Oct.Props.Arches.Wooden.toolName=Дерев'яна
 
 \\\\
 \\
@@ -44012,21 +44012,21 @@ Oct.Props.Arches.Wooden.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Arches.FineWood.name=Fine Wood Brace
 \\
 \\\\
-Oct.Props.Arches.FineWood.name=\\untranslated
+Oct.Props.Arches.FineWood.name=Гарна дерев'яна підпора
 
 \\\\
 \\
 \\	Oct.Props.Arches.FineWood.pluralName=Fine Wood Braces
 \\
 \\\\
-Oct.Props.Arches.FineWood.pluralName=\\untranslated
+Oct.Props.Arches.FineWood.pluralName=Гарна дерев'яна підпора
 
 \\\\
 \\
 \\	Oct.Props.Arches.FineWood.toolName=Fine Wd Brc
 \\
 \\\\
-Oct.Props.Arches.FineWood.toolName=\\untranslated
+Oct.Props.Arches.FineWood.toolName=Гарна дер під
 
 \\\\
 \\
@@ -44089,21 +44089,21 @@ Oct.Props.Arches.FineStone.colorSlots.6.name=\\untranslated
 \\	Oct.Props.Arches.FineStone.Merged.name=Fine Stone Arch
 \\
 \\\\
-Oct.Props.Arches.FineStone.Merged.name=\\untranslated
+Oct.Props.Arches.FineStone.Merged.name=Гарна кам'яна підпора
 
 \\\\
 \\
 \\	Oct.Props.Arches.FineStone.Merged.pluralName=Fine Stone Arches
 \\
 \\\\
-Oct.Props.Arches.FineStone.Merged.pluralName=\\untranslated
+Oct.Props.Arches.FineStone.Merged.pluralName=Гарна кам'яна підпора
 
 \\\\
 \\
 \\	Oct.Props.Arches.FineStone.Merged.toolName=Fine Stn Arch
 \\
 \\\\
-Oct.Props.Arches.FineStone.Merged.toolName=\\untranslated
+Oct.Props.Arches.FineStone.Merged.toolName=Гарна кам підп
 
 \\\\
 \\
@@ -46525,294 +46525,294 @@ Oct.Props.Catapult.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Categories.Work.name=Work
 \\
 \\\\
-Oct.Props.Categories.Work.name=\\untranslated
+Oct.Props.Categories.Work.name=Праця
 
 \\\\
 \\
 \\	Oct.Props.Categories.Work.toolName=Work
 \\
 \\\\
-Oct.Props.Categories.Work.toolName=\\untranslated
+Oct.Props.Categories.Work.toolName=Праця
 
 \\\\
 \\
 \\	Oct.Props.Categories.Workbenches.name=Workbenches
 \\
 \\\\
-Oct.Props.Categories.Workbenches.name=\\untranslated
+Oct.Props.Categories.Workbenches.name=Верстаки
 
 \\\\
 \\
 \\	Oct.Props.Categories.Workbenches.toolName=Benches
 \\
 \\\\
-Oct.Props.Categories.Workbenches.toolName=\\untranslated
+Oct.Props.Categories.Workbenches.toolName=Варстати
 
 \\\\
 \\
 \\	Oct.Props.Categories.Temperature.name=Temperature
 \\
 \\\\
-Oct.Props.Categories.Temperature.name=\\untranslated
+Oct.Props.Categories.Temperature.name=Температура
 
 \\\\
 \\
 \\	Oct.Props.Categories.Temperature.toolName=Temp
 \\
 \\\\
-Oct.Props.Categories.Temperature.toolName=\\untranslated
+Oct.Props.Categories.Temperature.toolName=Тепло
 
 \\\\
 \\
 \\	Oct.Props.Categories.Furniture.name=Furniture
 \\
 \\\\
-Oct.Props.Categories.Furniture.name=\\untranslated
+Oct.Props.Categories.Furniture.name=Меблі
 
 \\\\
 \\
 \\	Oct.Props.Categories.Furniture.toolName=Furniture
 \\
 \\\\
-Oct.Props.Categories.Furniture.toolName=\\untranslated
+Oct.Props.Categories.Furniture.toolName=Меблі
 
 \\\\
 \\
 \\	Oct.Props.Categories.Beds.name=Beds
 \\
 \\\\
-Oct.Props.Categories.Beds.name=\\untranslated
+Oct.Props.Categories.Beds.name=Ліжка
 
 \\\\
 \\
 \\	Oct.Props.Categories.Beds.toolName=Beds
 \\
 \\\\
-Oct.Props.Categories.Beds.toolName=\\untranslated
+Oct.Props.Categories.Beds.toolName=Ліжка
 
 \\\\
 \\
 \\	Oct.Props.Categories.Resources.name=Resources
 \\
 \\\\
-Oct.Props.Categories.Resources.name=\\untranslated
+Oct.Props.Categories.Resources.name=Ресурси
 
 \\\\
 \\
 \\	Oct.Props.Categories.Resources.toolName=Resources
 \\
 \\\\
-Oct.Props.Categories.Resources.toolName=\\untranslated
+Oct.Props.Categories.Resources.toolName=Ресурси
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.name=Decorations
 \\
 \\\\
-Oct.Props.Categories.Decorations.name=\\untranslated
+Oct.Props.Categories.Decorations.name=Прикраси
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.toolName=Decor
 \\
 \\\\
-Oct.Props.Categories.Decorations.toolName=\\untranslated
+Oct.Props.Categories.Decorations.toolName=Декор
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.name=Wall Decorations
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.name=\\untranslated
+Oct.Props.Categories.WallDecorations.name=Настінні прикраси
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.toolName=Walls
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.toolName=\\untranslated
+Oct.Props.Categories.WallDecorations.toolName=Стіни
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Standing.name=Standing
 \\
 \\\\
-Oct.Props.Categories.Decorations.Standing.name=\\untranslated
+Oct.Props.Categories.Decorations.Standing.name=Стоячі
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Standing.toolName=Standing
 \\
 \\\\
-Oct.Props.Categories.Decorations.Standing.toolName=\\untranslated
+Oct.Props.Categories.Decorations.Standing.toolName=Стоячі
 
 \\\\
 \\
 \\	Oct.Props.Categories.Storage.name=Storage
 \\
 \\\\
-Oct.Props.Categories.Storage.name=\\untranslated
+Oct.Props.Categories.Storage.name=Сховища
 
 \\\\
 \\
 \\	Oct.Props.Categories.Storage.toolName=Storage
 \\
 \\\\
-Oct.Props.Categories.Storage.toolName=\\untranslated
+Oct.Props.Categories.Storage.toolName=Сховища
 
 \\\\
 \\
 \\	Oct.Props.Categories.Tables.name=Tables
 \\
 \\\\
-Oct.Props.Categories.Tables.name=\\untranslated
+Oct.Props.Categories.Tables.name=Столи
 
 \\\\
 \\
 \\	Oct.Props.Categories.Tables.toolName=Tables
 \\
 \\\\
-Oct.Props.Categories.Tables.toolName=\\untranslated
+Oct.Props.Categories.Tables.toolName=Столи
 
 \\\\
 \\
 \\	Oct.Props.Categories.Chairs.name=Chairs
 \\
 \\\\
-Oct.Props.Categories.Chairs.name=\\untranslated
+Oct.Props.Categories.Chairs.name=Стільці
 
 \\\\
 \\
 \\	Oct.Props.Categories.Chairs.toolName=Chairs
 \\
 \\\\
-Oct.Props.Categories.Chairs.toolName=\\untranslated
+Oct.Props.Categories.Chairs.toolName=Стільці
 
 \\\\
 \\
 \\	Oct.Props.Categories.Floors.name=Floors
 \\
 \\\\
-Oct.Props.Categories.Floors.name=\\untranslated
+Oct.Props.Categories.Floors.name=Підлоги
 
 \\\\
 \\
 \\	Oct.Props.Categories.Floors.toolName=Floors
 \\
 \\\\
-Oct.Props.Categories.Floors.toolName=\\untranslated
+Oct.Props.Categories.Floors.toolName=Підлоги
 
 \\\\
 \\
 \\	Oct.Props.Categories.Structure.name=Structure
 \\
 \\\\
-Oct.Props.Categories.Structure.name=\\untranslated
+Oct.Props.Categories.Structure.name=Структури
 
 \\\\
 \\
 \\	Oct.Props.Categories.Structure.toolName=Structure
 \\
 \\\\
-Oct.Props.Categories.Structure.toolName=\\untranslated
+Oct.Props.Categories.Structure.toolName=Структури
 
 \\\\
 \\
 \\	Oct.Props.Categories.Walls.name=Walls
 \\
 \\\\
-Oct.Props.Categories.Walls.name=\\untranslated
+Oct.Props.Categories.Walls.name=Стіни
 
 \\\\
 \\
 \\	Oct.Props.Categories.Walls.toolName=Walls
 \\
 \\\\
-Oct.Props.Categories.Walls.toolName=\\untranslated
+Oct.Props.Categories.Walls.toolName=Стіни
 
 \\\\
 \\
 \\	Oct.Props.Categories.Doors.name=Doors
 \\
 \\\\
-Oct.Props.Categories.Doors.name=\\untranslated
+Oct.Props.Categories.Doors.name=Двері
 
 \\\\
 \\
 \\	Oct.Props.Categories.Doors.toolName=Doors
 \\
 \\\\
-Oct.Props.Categories.Doors.toolName=\\untranslated
+Oct.Props.Categories.Doors.toolName=Двері
 
 \\\\
 \\
 \\	Oct.Props.Categories.Roofs.name=Roofs
 \\
 \\\\
-Oct.Props.Categories.Roofs.name=\\untranslated
+Oct.Props.Categories.Roofs.name=Дахи
 
 \\\\
 \\
 \\	Oct.Props.Categories.Roofs.toolName=Roofs
 \\
 \\\\
-Oct.Props.Categories.Roofs.toolName=\\untranslated
+Oct.Props.Categories.Roofs.toolName=Дахи
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.name=Lighting
 \\
 \\\\
-Oct.Props.Categories.Lighting.name=\\untranslated
+Oct.Props.Categories.Lighting.name=Освітлення
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.toolName=Lighting
 \\
 \\\\
-Oct.Props.Categories.Lighting.toolName=\\untranslated
+Oct.Props.Categories.Lighting.toolName=Освітлення
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.Large.name=Large
 \\
 \\\\
-Oct.Props.Categories.Lighting.Large.name=\\untranslated
+Oct.Props.Categories.Lighting.Large.name=Велике
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.Large.toolName=Large
 \\
 \\\\
-Oct.Props.Categories.Lighting.Large.toolName=\\untranslated
+Oct.Props.Categories.Lighting.Large.toolName=Велике
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.Tabletop.name=Tabletop
 \\
 \\\\
-Oct.Props.Categories.Lighting.Tabletop.name=\\untranslated
+Oct.Props.Categories.Lighting.Tabletop.name=Стільниче
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.Tabletop.toolName=Tabletop
 \\
 \\\\
-Oct.Props.Categories.Lighting.Tabletop.toolName=\\untranslated
+Oct.Props.Categories.Lighting.Tabletop.toolName=Стільниче
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Banners.name=Banners
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Banners.name=\\untranslated
+Oct.Props.Categories.WallDecorations.Banners.name=Банери
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Banners.toolName=Banners
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Banners.toolName=\\untranslated
+Oct.Props.Categories.WallDecorations.Banners.toolName=Банери
 
 \\\\
 \\
@@ -46833,56 +46833,56 @@ Oct.Props.Categories.Plans.toolName=\\untranslated
 \\	Oct.Props.Categories.Lighting.Walls.name=Walls
 \\
 \\\\
-Oct.Props.Categories.Lighting.Walls.name=\\untranslated
+Oct.Props.Categories.Lighting.Walls.name=Стінне
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.Walls.toolName=Walls
 \\
 \\\\
-Oct.Props.Categories.Lighting.Walls.toolName=\\untranslated
+Oct.Props.Categories.Lighting.Walls.toolName=Стінне
 
 \\\\
 \\
 \\	Oct.Props.Categories.Stairs.name=Stairs
 \\
 \\\\
-Oct.Props.Categories.Stairs.name=\\untranslated
+Oct.Props.Categories.Stairs.name=Сходи
 
 \\\\
 \\
 \\	Oct.Props.Categories.Stairs.toolName=Stairs
 \\
 \\\\
-Oct.Props.Categories.Stairs.toolName=\\untranslated
+Oct.Props.Categories.Stairs.toolName=Сходи
 
 \\\\
 \\
 \\	Oct.Props.Categories.Fences.name=Fences
 \\
 \\\\
-Oct.Props.Categories.Fences.name=\\untranslated
+Oct.Props.Categories.Fences.name=Паркани
 
 \\\\
 \\
 \\	Oct.Props.Categories.Fences.toolName=Fences
 \\
 \\\\
-Oct.Props.Categories.Fences.toolName=\\untranslated
+Oct.Props.Categories.Fences.toolName=Паркани
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallPosts.name=Columns
 \\
 \\\\
-Oct.Props.Categories.WallPosts.name=\\untranslated
+Oct.Props.Categories.WallPosts.name=Колони
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallPosts.toolName=Columns
 \\
 \\\\
-Oct.Props.Categories.WallPosts.toolName=\\untranslated
+Oct.Props.Categories.WallPosts.toolName=Колони
 
 \\\\
 \\
@@ -46903,266 +46903,266 @@ Oct.Props.Categories.WallPosts.FineStone.Toppers.toolName=\\untranslated
 \\	Oct.Props.Categories.Attached.name=Accents
 \\
 \\\\
-Oct.Props.Categories.Attached.name=\\untranslated
+Oct.Props.Categories.Attached.name=Акценти
 
 \\\\
 \\
 \\	Oct.Props.Categories.Attached.toolName=Accents
 \\
 \\\\
-Oct.Props.Categories.Attached.toolName=\\untranslated
+Oct.Props.Categories.Attached.toolName=Акценти
 
 \\\\
 \\
 \\	Oct.Props.Categories.Attached.FineStone.Support.name=Supports
 \\
 \\\\
-Oct.Props.Categories.Attached.FineStone.Support.name=\\untranslated
+Oct.Props.Categories.Attached.FineStone.Support.name=Підтримка
 
 \\\\
 \\
 \\	Oct.Props.Categories.Attached.FineStone.Support.toolName=Supports
 \\
 \\\\
-Oct.Props.Categories.Attached.FineStone.Support.toolName=\\untranslated
+Oct.Props.Categories.Attached.FineStone.Support.toolName=Підтримка
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Trophies.name=Trophies
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Trophies.name=\\untranslated
+Oct.Props.Categories.WallDecorations.Trophies.name=Трофеї
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Trophies.toolName=Trophies
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Trophies.toolName=\\untranslated
+Oct.Props.Categories.WallDecorations.Trophies.toolName=Трофеї
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.Small.name=Small
 \\
 \\\\
-Oct.Props.Categories.Lighting.Small.name=\\untranslated
+Oct.Props.Categories.Lighting.Small.name=Мале
 
 \\\\
 \\
 \\	Oct.Props.Categories.Lighting.Small.toolName=Small
 \\
 \\\\
-Oct.Props.Categories.Lighting.Small.toolName=\\untranslated
+Oct.Props.Categories.Lighting.Small.toolName=Мале
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Tabletop.name=Tabletop
 \\
 \\\\
-Oct.Props.Categories.Decorations.Tabletop.name=\\untranslated
+Oct.Props.Categories.Decorations.Tabletop.name=Стільниці
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Tabletop.toolName=Tabletop
 \\
 \\\\
-Oct.Props.Categories.Decorations.Tabletop.toolName=\\untranslated
+Oct.Props.Categories.Decorations.Tabletop.toolName=Стільниці
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Tabletop.Skulls.name=Skulls
 \\
 \\\\
-Oct.Props.Categories.Decorations.Tabletop.Skulls.name=\\untranslated
+Oct.Props.Categories.Decorations.Tabletop.Skulls.name=Черепа
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Tabletop.Skulls.toolName=Skulls
 \\
 \\\\
-Oct.Props.Categories.Decorations.Tabletop.Skulls.toolName=\\untranslated
+Oct.Props.Categories.Decorations.Tabletop.Skulls.toolName=Черепа
 
 \\\\
 \\
 \\	Oct.Props.Categories.Hearths.name=Hearths
 \\
 \\\\
-Oct.Props.Categories.Hearths.name=\\untranslated
+Oct.Props.Categories.Hearths.name=Вогнища
 
 \\\\
 \\
 \\	Oct.Props.Categories.Hearths.toolName=Hearths
 \\
 \\\\
-Oct.Props.Categories.Hearths.toolName=\\untranslated
+Oct.Props.Categories.Hearths.toolName=Вогнища
 
 \\\\
 \\
 \\	Oct.Props.Categories.Chimneys.name=Chimneys
 \\
 \\\\
-Oct.Props.Categories.Chimneys.name=\\untranslated
+Oct.Props.Categories.Chimneys.name=Димоходи
 
 \\\\
 \\
 \\	Oct.Props.Categories.Chimneys.toolName=Chimneys
 \\
 \\\\
-Oct.Props.Categories.Chimneys.toolName=\\untranslated
+Oct.Props.Categories.Chimneys.toolName=Димоходи
 
 \\\\
 \\
 \\	Oct.Props.Categories.Carpets.name=Carpets
 \\
 \\\\
-Oct.Props.Categories.Carpets.name=\\untranslated
+Oct.Props.Categories.Carpets.name=Килими
 
 \\\\
 \\
 \\	Oct.Props.Categories.Carpets.toolName=Carpets
 \\
 \\\\
-Oct.Props.Categories.Carpets.toolName=\\untranslated
+Oct.Props.Categories.Carpets.toolName=Килими
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Standing.Chests.name=Chests
 \\
 \\\\
-Oct.Props.Categories.Decorations.Standing.Chests.name=\\untranslated
+Oct.Props.Categories.Decorations.Standing.Chests.name=Скрині
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Standing.Chests.toolName=Chests
 \\
 \\\\
-Oct.Props.Categories.Decorations.Standing.Chests.toolName=\\untranslated
+Oct.Props.Categories.Decorations.Standing.Chests.toolName=Скрині
 
 \\\\
 \\
 \\	Oct.Props.Categories.Graves.name=Graves
 \\
 \\\\
-Oct.Props.Categories.Graves.name=\\untranslated
+Oct.Props.Categories.Graves.name=Могили
 
 \\\\
 \\
 \\	Oct.Props.Categories.Graves.toolName=Graves
 \\
 \\\\
-Oct.Props.Categories.Graves.toolName=\\untranslated
+Oct.Props.Categories.Graves.toolName=Могили
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Drapes.name=Drapes
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Drapes.name=\\untranslated
+Oct.Props.Categories.WallDecorations.Drapes.name=Штори
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Drapes.toolName=Drapes
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Drapes.toolName=\\untranslated
+Oct.Props.Categories.WallDecorations.Drapes.toolName=Штори
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Standing.Bushes.name=Bushes
 \\
 \\\\
-Oct.Props.Categories.Decorations.Standing.Bushes.name=\\untranslated
+Oct.Props.Categories.Decorations.Standing.Bushes.name=Кущі
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Standing.Bushes.toolName=Bushes
 \\
 \\\\
-Oct.Props.Categories.Decorations.Standing.Bushes.toolName=\\untranslated
+Oct.Props.Categories.Decorations.Standing.Bushes.toolName=Кущі
 
 \\\\
 \\
 \\	Oct.Props.Categories.Tactical.name=Tactical
 \\
 \\\\
-Oct.Props.Categories.Tactical.name=\\untranslated
+Oct.Props.Categories.Tactical.name=Тактичні
 
 \\\\
 \\
 \\	Oct.Props.Categories.Tactical.toolName=Tactical
 \\
 \\\\
-Oct.Props.Categories.Tactical.toolName=\\untranslated
+Oct.Props.Categories.Tactical.toolName=Тактичні
 
 \\\\
 \\
 \\	Oct.Props.Categories.Training.name=Training
 \\
 \\\\
-Oct.Props.Categories.Training.name=\\untranslated
+Oct.Props.Categories.Training.name=Навчальні
 
 \\\\
 \\
 \\	Oct.Props.Categories.Training.toolName=Training
 \\
 \\\\
-Oct.Props.Categories.Training.toolName=\\untranslated
+Oct.Props.Categories.Training.toolName=Навчальні
 
 \\\\
 \\
 \\	Oct.Props.Categories.Walls.Angled.name=Angled Walls
 \\
 \\\\
-Oct.Props.Categories.Walls.Angled.name=\\untranslated
+Oct.Props.Categories.Walls.Angled.name=Кутові стіни
 
 \\\\
 \\
 \\	Oct.Props.Categories.Walls.Angled.toolName=Angled Walls
 \\
 \\\\
-Oct.Props.Categories.Walls.Angled.toolName=\\untranslated
+Oct.Props.Categories.Walls.Angled.toolName=Кутові стіни
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Art.name=Art
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Art.name=\\untranslated
+Oct.Props.Categories.WallDecorations.Art.name=Творчість
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Art.toolName=Art
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Art.toolName=\\untranslated
+Oct.Props.Categories.WallDecorations.Art.toolName=Творчість
 
 \\\\
 \\
 \\	Oct.Props.Categories.Braces.name=Braces
 \\
 \\\\
-Oct.Props.Categories.Braces.name=\\untranslated
+Oct.Props.Categories.Braces.name=Підпори
 
 \\\\
 \\
 \\	Oct.Props.Categories.Braces.toolName=Braces
 \\
 \\\\
-Oct.Props.Categories.Braces.toolName=\\untranslated
+Oct.Props.Categories.Braces.toolName=Підпори
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Tabletop.Games.name=Games
 \\
 \\\\
-Oct.Props.Categories.Decorations.Tabletop.Games.name=\\untranslated
+Oct.Props.Categories.Decorations.Tabletop.Games.name=Ігри
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Tabletop.Games.toolName=Games
 \\
 \\\\
-Oct.Props.Categories.Decorations.Tabletop.Games.toolName=\\untranslated
+Oct.Props.Categories.Decorations.Tabletop.Games.toolName=Ігри
 
 \\\\
 \\
@@ -47183,126 +47183,126 @@ Oct.Props.Categories.WallPosts.FineStone.Spire.toolName=\\untranslated
 \\	Oct.Props.Categories.Attached.FineStone.Spire.name=Spires
 \\
 \\\\
-Oct.Props.Categories.Attached.FineStone.Spire.name=\\untranslated
+Oct.Props.Categories.Attached.FineStone.Spire.name=Шпилі
 
 \\\\
 \\
 \\	Oct.Props.Categories.Attached.FineStone.Spire.toolName=Spires
 \\
 \\\\
-Oct.Props.Categories.Attached.FineStone.Spire.toolName=\\untranslated
+Oct.Props.Categories.Attached.FineStone.Spire.toolName=Шпилі
 
 \\\\
 \\
 \\	Oct.Props.Categories.Cribs.name=Cribs
 \\
 \\\\
-Oct.Props.Categories.Cribs.name=\\untranslated
+Oct.Props.Categories.Cribs.name=Ліжечка
 
 \\\\
 \\
 \\	Oct.Props.Categories.Cribs.toolName=Cribs
 \\
 \\\\
-Oct.Props.Categories.Cribs.toolName=\\untranslated
+Oct.Props.Categories.Cribs.toolName=Ліжечка
 
 \\\\
 \\
 \\	Oct.Props.Categories.Usable.name=Usable
 \\
 \\\\
-Oct.Props.Categories.Usable.name=\\untranslated
+Oct.Props.Categories.Usable.name=Корисні
 
 \\\\
 \\
 \\	Oct.Props.Categories.Usable.toolName=Usable
 \\
 \\\\
-Oct.Props.Categories.Usable.toolName=\\untranslated
+Oct.Props.Categories.Usable.toolName=Корисні
 
 \\\\
 \\
 \\	Oct.Props.Categories.Paths.name=Paths
 \\
 \\\\
-Oct.Props.Categories.Paths.name=\\untranslated
+Oct.Props.Categories.Paths.name=Доріжки
 
 \\\\
 \\
 \\	Oct.Props.Categories.Paths.toolName=Paths
 \\
 \\\\
-Oct.Props.Categories.Paths.toolName=\\untranslated
+Oct.Props.Categories.Paths.toolName=Доріжки
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Tabletop.Art.name=Art
 \\
 \\\\
-Oct.Props.Categories.Decorations.Tabletop.Art.name=\\untranslated
+Oct.Props.Categories.Decorations.Tabletop.Art.name=Творчість
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Tabletop.Art.toolName=Art
 \\
 \\\\
-Oct.Props.Categories.Decorations.Tabletop.Art.toolName=\\untranslated
+Oct.Props.Categories.Decorations.Tabletop.Art.toolName=Творчість
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Dishes.name=Dishes
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Dishes.name=\\untranslated
+Oct.Props.Categories.WallDecorations.Dishes.name=Посуд
 
 \\\\
 \\
 \\	Oct.Props.Categories.WallDecorations.Dishes.toolName=Dishes
 \\
 \\\\
-Oct.Props.Categories.WallDecorations.Dishes.toolName=\\untranslated
+Oct.Props.Categories.WallDecorations.Dishes.toolName=Посуд
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Seasonal.name=Seasonal
 \\
 \\\\
-Oct.Props.Categories.Decorations.Seasonal.name=\\untranslated
+Oct.Props.Categories.Decorations.Seasonal.name=Сезонні
 
 \\\\
 \\
 \\	Oct.Props.Categories.Decorations.Seasonal.toolName=Seasonal
 \\
 \\\\
-Oct.Props.Categories.Decorations.Seasonal.toolName=\\untranslated
+Oct.Props.Categories.Decorations.Seasonal.toolName=Сезонні
 
 \\\\
 \\
 \\	Oct.Props.Categories.Coolers.name=Coolers
 \\
 \\\\
-Oct.Props.Categories.Coolers.name=\\untranslated
+Oct.Props.Categories.Coolers.name=Хлодники
 
 \\\\
 \\
 \\	Oct.Props.Categories.Coolers.toolName=Coolers
 \\
 \\\\
-Oct.Props.Categories.Coolers.toolName=\\untranslated
+Oct.Props.Categories.Coolers.toolName=Хлодники
 
 \\\\
 \\
 \\	Oct.Props.Categories.Training.BookSets.name=Book Sets
 \\
 \\\\
-Oct.Props.Categories.Training.BookSets.name=\\untranslated
+Oct.Props.Categories.Training.BookSets.name=Комплекти книг
 
 \\\\
 \\
 \\	Oct.Props.Categories.Training.BookSets.toolName=Book Sets
 \\
 \\\\
-Oct.Props.Categories.Training.BookSets.toolName=\\untranslated
+Oct.Props.Categories.Training.BookSets.toolName=Комплекти книг
 
 \\\\
 \\
@@ -47379,21 +47379,21 @@ Oct.Props.Categories.Terrain.toolName=\\untranslated
 \\	Oct.Props.Chair.Stool.Stone.name=Stone Stool
 \\
 \\\\
-Oct.Props.Chair.Stool.Stone.name=\\untranslated
+Oct.Props.Chair.Stool.Stone.name=Кам'яний табурет
 
 \\\\
 \\
 \\	Oct.Props.Chair.Stool.Stone.pluralName=Stone Stools
 \\
 \\\\
-Oct.Props.Chair.Stool.Stone.pluralName=\\untranslated
+Oct.Props.Chair.Stool.Stone.pluralName=Кам'яний табурет
 
 \\\\
 \\
 \\	Oct.Props.Chair.Stool.Stone.toolName=Stn Stool
 \\
 \\\\
-Oct.Props.Chair.Stool.Stone.toolName=\\untranslated
+Oct.Props.Chair.Stool.Stone.toolName=Кам табур
 
 \\\\
 \\
@@ -47414,21 +47414,21 @@ Oct.Props.Chair.Stool.Stone.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Chair.Stone.name=Stone Chair
 \\
 \\\\
-Oct.Props.Chair.Stone.name=\\untranslated
+Oct.Props.Chair.Stone.name=Кам'яний стілець
 
 \\\\
 \\
 \\	Oct.Props.Chair.Stone.pluralName=Stone Chairs
 \\
 \\\\
-Oct.Props.Chair.Stone.pluralName=\\untranslated
+Oct.Props.Chair.Stone.pluralName=Кам'яний стілець
 
 \\\\
 \\
 \\	Oct.Props.Chair.Stone.toolName=Chair
 \\
 \\\\
-Oct.Props.Chair.Stone.toolName=\\untranslated
+Oct.Props.Chair.Stone.toolName=Стілець
 
 \\\\
 \\
@@ -47456,21 +47456,21 @@ Oct.Props.Chair.Stone.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Chair.Stone.Fine.name=Fine Stone Chair
 \\
 \\\\
-Oct.Props.Chair.Stone.Fine.name=\\untranslated
+Oct.Props.Chair.Stone.Fine.name=Гарний кам'яний стілець
 
 \\\\
 \\
 \\	Oct.Props.Chair.Stone.Fine.pluralName=Fine Stone Chairs
 \\
 \\\\
-Oct.Props.Chair.Stone.Fine.pluralName=\\untranslated
+Oct.Props.Chair.Stone.Fine.pluralName=Гарний кам'яний стілець
 
 \\\\
 \\
 \\	Oct.Props.Chair.Stone.Fine.toolName=Fine Stone
 \\
 \\\\
-Oct.Props.Chair.Stone.Fine.toolName=\\untranslated
+Oct.Props.Chair.Stone.Fine.toolName=Гарний кам
 
 \\\\
 \\
@@ -47743,21 +47743,21 @@ Oct.Props.Chimney.TallPrefab.name=\\untranslated
 \\	Oct.Props.Chimney.FineStone.name=Fine Stone Chimney
 \\
 \\\\
-Oct.Props.Chimney.FineStone.name=\\untranslated
+Oct.Props.Chimney.FineStone.name=Гарний кам'яний димарь
 
 \\\\
 \\
 \\	Oct.Props.Chimney.FineStone.pluralName=Fine Stone Chimneys
 \\
 \\\\
-Oct.Props.Chimney.FineStone.pluralName=\\untranslated
+Oct.Props.Chimney.FineStone.pluralName=Гарний кам'яний димарь
 
 \\\\
 \\
 \\	Oct.Props.Chimney.FineStone.toolName=Fn Stn Chimney
 \\
 \\\\
-Oct.Props.Chimney.FineStone.toolName=\\untranslated
+Oct.Props.Chimney.FineStone.toolName=Гар кам дима
 
 \\\\
 \\
@@ -47960,21 +47960,21 @@ Oct.Props.CraftingTable.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Crate.name=Wooden Crate
 \\
 \\\\
-Oct.Props.Crate.name=\\untranslated
+Oct.Props.Crate.name=Дерев'яний ящик
 
 \\\\
 \\
 \\	Oct.Props.Crate.pluralName=Wooden Crates
 \\
 \\\\
-Oct.Props.Crate.pluralName=\\untranslated
+Oct.Props.Crate.pluralName=Дерев'яний ящик
 
 \\\\
 \\
 \\	Oct.Props.Crate.toolName=Crate
 \\
 \\\\
-Oct.Props.Crate.toolName=\\untranslated
+Oct.Props.Crate.toolName=Ящик
 
 \\\\
 \\
@@ -48464,21 +48464,21 @@ Oct.Props.Details.Bottles.prefabs.4.name=\\untranslated
 \\	Oct.Props.Door.FineStone.name=Fine Stone Door
 \\
 \\\\
-Oct.Props.Door.FineStone.name=\\untranslated
+Oct.Props.Door.FineStone.name=Гарні кам'яні двері
 
 \\\\
 \\
 \\	Oct.Props.Door.FineStone.pluralName=Fine Stone Doors
 \\
 \\\\
-Oct.Props.Door.FineStone.pluralName=\\untranslated
+Oct.Props.Door.FineStone.pluralName=Гарні кам'яні двері
 
 \\\\
 \\
 \\	Oct.Props.Door.FineStone.toolName=Fine Stone
 \\
 \\\\
-Oct.Props.Door.FineStone.toolName=\\untranslated
+Oct.Props.Door.FineStone.toolName=Гарні кам'яні
 
 \\\\
 \\
@@ -48541,21 +48541,21 @@ Oct.Props.Door.FineStone.colorSlots.8.name=\\untranslated
 \\	Oct.Props.Door.Stone.name=Stone Door
 \\
 \\\\
-Oct.Props.Door.Stone.name=\\untranslated
+Oct.Props.Door.Stone.name=Кам'яні двері
 
 \\\\
 \\
 \\	Oct.Props.Door.Stone.pluralName=Stone Doors
 \\
 \\\\
-Oct.Props.Door.Stone.pluralName=\\untranslated
+Oct.Props.Door.Stone.pluralName=Кам'яні двері
 
 \\\\
 \\
 \\	Oct.Props.Door.Stone.toolName=Stone
 \\
 \\\\
-Oct.Props.Door.Stone.toolName=\\untranslated
+Oct.Props.Door.Stone.toolName=Кам'яні
 
 \\\\
 \\
@@ -48611,21 +48611,21 @@ Oct.Props.Door.Stone.colorSlots.7.name=\\untranslated
 \\	Oct.Props.Doorway.Ramshackle.name=Ramshackle Doorway
 \\
 \\\\
-Oct.Props.Doorway.Ramshackle.name=\\untranslated
+Oct.Props.Doorway.Ramshackle.name=Вутлий дверний отвір
 
 \\\\
 \\
 \\	Oct.Props.Doorway.Ramshackle.pluralName=Ramshackle Doorways
 \\
 \\\\
-Oct.Props.Doorway.Ramshackle.pluralName=\\untranslated
+Oct.Props.Doorway.Ramshackle.pluralName=Вутлий дверний отвір
 
 \\\\
 \\
 \\	Oct.Props.Doorway.Ramshackle.toolName=Ram Way
 \\
 \\\\
-Oct.Props.Doorway.Ramshackle.toolName=\\untranslated
+Oct.Props.Doorway.Ramshackle.toolName=Вутлий отв
 
 \\\\
 \\
@@ -48660,21 +48660,21 @@ Oct.Props.Doorway.Ramshackle.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Doorway.Wooden.name=Wooden Doorway
 \\
 \\\\
-Oct.Props.Doorway.Wooden.name=\\untranslated
+Oct.Props.Doorway.Wooden.name=Дерев'яний дверний отвір
 
 \\\\
 \\
 \\	Oct.Props.Doorway.Wooden.pluralName=Wooden Doorways
 \\
 \\\\
-Oct.Props.Doorway.Wooden.pluralName=\\untranslated
+Oct.Props.Doorway.Wooden.pluralName=Дерев'яний дверний отвір
 
 \\\\
 \\
 \\	Oct.Props.Doorway.Wooden.toolName=Wood Way
 \\
 \\\\
-Oct.Props.Doorway.Wooden.toolName=\\untranslated
+Oct.Props.Doorway.Wooden.toolName=Дерев'яний
 
 \\\\
 \\
@@ -48695,21 +48695,21 @@ Oct.Props.Doorway.Wooden.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Doorway.Stone.name=Stone Doorway
 \\
 \\\\
-Oct.Props.Doorway.Stone.name=\\untranslated
+Oct.Props.Doorway.Stone.name=Кам'яний дверний отвір
 
 \\\\
 \\
 \\	Oct.Props.Doorway.Stone.pluralName=Stone Doorways
 \\
 \\\\
-Oct.Props.Doorway.Stone.pluralName=\\untranslated
+Oct.Props.Doorway.Stone.pluralName=Кам'яний дверний отвір
 
 \\\\
 \\
 \\	Oct.Props.Doorway.Stone.toolName=Stone Way
 \\
 \\\\
-Oct.Props.Doorway.Stone.toolName=\\untranslated
+Oct.Props.Doorway.Stone.toolName=Кам'яний отв
 
 \\\\
 \\
@@ -48744,21 +48744,21 @@ Oct.Props.Doorway.Stone.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Doorway.FineStone.name=Fine Stone Doorway
 \\
 \\\\
-Oct.Props.Doorway.FineStone.name=\\untranslated
+Oct.Props.Doorway.FineStone.name=Гарний кам'яний дверний отвір
 
 \\\\
 \\
 \\	Oct.Props.Doorway.FineStone.pluralName=Fine Stone Doorways
 \\
 \\\\
-Oct.Props.Doorway.FineStone.pluralName=\\untranslated
+Oct.Props.Doorway.FineStone.pluralName=Гарний кам'яний дверний отвір
 
 \\\\
 \\
 \\	Oct.Props.Doorway.FineStone.toolName=Fine Stone Way
 \\
 \\\\
-Oct.Props.Doorway.FineStone.toolName=\\untranslated
+Oct.Props.Doorway.FineStone.toolName=Гарний кам отв
 
 \\\\
 \\
@@ -49122,21 +49122,21 @@ Oct.Props.FineStone.Stairs.Corner.colorSlots.5.name=\\untranslated
 \\	Oct.Props.FineStone.Stairs.name=Fine Stone Stairs
 \\
 \\\\
-Oct.Props.FineStone.Stairs.name=\\untranslated
+Oct.Props.FineStone.Stairs.name=Гарні кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Stairs.pluralName=Stone Stairs
 \\
 \\\\
-Oct.Props.FineStone.Stairs.pluralName=\\untranslated
+Oct.Props.FineStone.Stairs.pluralName=Гарні кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Stairs.toolName=FineStone
 \\
 \\\\
-Oct.Props.FineStone.Stairs.toolName=\\untranslated
+Oct.Props.FineStone.Stairs.toolName=Гарні кам'яні
 
 \\\\
 \\
@@ -49171,42 +49171,42 @@ Oct.Props.FineStone.Stairs.colorSlots.4.name=\\untranslated
 \\	Oct.Props.FineStone.Stairs.Corner.Right.name=Right Curved Fine Stone Stairs
 \\
 \\\\
-Oct.Props.FineStone.Stairs.Corner.Right.name=\\untranslated
+Oct.Props.FineStone.Stairs.Corner.Right.name=Праві вигнуті гарні кам’яні сходи
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Stairs.Corner.Right.pluralName=Right Curved Fine Stone Stairs
 \\
 \\\\
-Oct.Props.FineStone.Stairs.Corner.Right.pluralName=\\untranslated
+Oct.Props.FineStone.Stairs.Corner.Right.pluralName=Праві вигнуті гарні кам’яні сходи
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Stairs.Corner.Right.toolName=Fine Stone Right
 \\
 \\\\
-Oct.Props.FineStone.Stairs.Corner.Right.toolName=\\untranslated
+Oct.Props.FineStone.Stairs.Corner.Right.toolName=Гарні кам праві
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Roof.name=Fine Stone Roof
 \\
 \\\\
-Oct.Props.FineStone.Roof.name=\\untranslated
+Oct.Props.FineStone.Roof.name=Гарний кам'яний дах
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Roof.pluralName=Fine Stone Roofs
 \\
 \\\\
-Oct.Props.FineStone.Roof.pluralName=\\untranslated
+Oct.Props.FineStone.Roof.pluralName=Гарний кам'яний дах
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Roof.toolName=FineStone
 \\
 \\\\
-Oct.Props.FineStone.Roof.toolName=\\untranslated
+Oct.Props.FineStone.Roof.toolName=Гарний кам'яний
 
 \\\\
 \\
@@ -49262,42 +49262,42 @@ Oct.Props.FineStone.Roof.colorSlots.7.name=\\untranslated
 \\	Oct.Props.FineStone.Stairs.Corner.Left.name=Left Curved Fine Stone Stairs
 \\
 \\\\
-Oct.Props.FineStone.Stairs.Corner.Left.name=\\untranslated
+Oct.Props.FineStone.Stairs.Corner.Left.name=Ліві вигнуті гарні кам’яні сходи
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Stairs.Corner.Left.pluralName=Left Curved Fine Stone Stairs
 \\
 \\\\
-Oct.Props.FineStone.Stairs.Corner.Left.pluralName=\\untranslated
+Oct.Props.FineStone.Stairs.Corner.Left.pluralName=Ліві вигнуті гарні кам’яні сходи
 
 \\\\
 \\
 \\	Oct.Props.FineStone.Stairs.Corner.Left.toolName=Fine Stone Left
 \\
 \\\\
-Oct.Props.FineStone.Stairs.Corner.Left.toolName=\\untranslated
+Oct.Props.FineStone.Stairs.Corner.Left.toolName=Гарні кам ліві
 
 \\\\
 \\
 \\	Oct.Props.FineWood.Floor.name=Fine Wooden Floor
 \\
 \\\\
-Oct.Props.FineWood.Floor.name=\\untranslated
+Oct.Props.FineWood.Floor.name=Гарна дерев'яна підлога
 
 \\\\
 \\
 \\	Oct.Props.FineWood.Floor.pluralName=Fine Wooden Floors
 \\
 \\\\
-Oct.Props.FineWood.Floor.pluralName=\\untranslated
+Oct.Props.FineWood.Floor.pluralName=Гарна дерев'яна підлога
 
 \\\\
 \\
 \\	Oct.Props.FineWood.Floor.toolName=Fine Wood
 \\
 \\\\
-Oct.Props.FineWood.Floor.toolName=\\untranslated
+Oct.Props.FineWood.Floor.toolName=Гарна дерев'яна
 
 \\\\
 \\
@@ -49318,21 +49318,21 @@ Oct.Props.FineWood.Floor.colorSlots.2.name=\\untranslated
 \\	Oct.Props.FineWood.Wall.name=Fine Wooden Wall
 \\
 \\\\
-Oct.Props.FineWood.Wall.name=\\untranslated
+Oct.Props.FineWood.Wall.name=Гарна дерев'яна стіна
 
 \\\\
 \\
 \\	Oct.Props.FineWood.Wall.pluralName=Fine Wooden Walls
 \\
 \\\\
-Oct.Props.FineWood.Wall.pluralName=\\untranslated
+Oct.Props.FineWood.Wall.pluralName=Гарна дерев'яна стіна
 
 \\\\
 \\
 \\	Oct.Props.FineWood.Wall.toolName=Fine Wood
 \\
 \\\\
-Oct.Props.FineWood.Wall.toolName=\\untranslated
+Oct.Props.FineWood.Wall.toolName=Гарна дерев'яна
 
 \\\\
 \\
@@ -49416,42 +49416,42 @@ Oct.Props.FirePit.pluralName=\\untranslated
 \\	Oct.Props.Floor.FineStone.name=Fine Stone Floor
 \\
 \\\\
-Oct.Props.Floor.FineStone.name=\\untranslated
+Oct.Props.Floor.FineStone.name=Гарна кам'яна підлога
 
 \\\\
 \\
 \\	Oct.Props.Floor.FineStone.pluralName=Fine Stone Floors
 \\
 \\\\
-Oct.Props.Floor.FineStone.pluralName=\\untranslated
+Oct.Props.Floor.FineStone.pluralName=Гарна кам'яна підлога
 
 \\\\
 \\
 \\	Oct.Props.Floor.FineStone.toolName=Fine Stone
 \\
 \\\\
-Oct.Props.Floor.FineStone.toolName=\\untranslated
+Oct.Props.Floor.FineStone.toolName=Гарна кам'яна
 
 \\\\
 \\
 \\	Oct.Props.Floor.Stone.name=Stone Floor
 \\
 \\\\
-Oct.Props.Floor.Stone.name=\\untranslated
+Oct.Props.Floor.Stone.name=Кам'яна підлога
 
 \\\\
 \\
 \\	Oct.Props.Floor.Stone.pluralName=Stone Floors
 \\
 \\\\
-Oct.Props.Floor.Stone.pluralName=\\untranslated
+Oct.Props.Floor.Stone.pluralName=Кам'яна підлога
 
 \\\\
 \\
 \\	Oct.Props.Floor.Stone.toolName=Stone
 \\
 \\\\
-Oct.Props.Floor.Stone.toolName=\\untranslated
+Oct.Props.Floor.Stone.toolName=Кам'яна
 
 \\\\
 \\
@@ -49927,18 +49927,18 @@ Oct.Props.Hearth.FineStone.colorSlots.7.name=\\untranslated
 \\	Oct.Props.Keg.name=Wooden Keg
 \\
 \\\\
-Oct.Props.Keg.name=\\untranslated
+Oct.Props.Keg.name=Дерев'яна діжка
 
 \\\\
 \\
 \\	Oct.Props.Keg.pluralName=Wooden Kegs
 \\
 \\\\
-Oct.Props.Keg.pluralName=\\untranslated
+Oct.Props.Keg.pluralName=Дерев'яна діжка
 
 \\\\
 \\
-\\	Oct.Props.Keg.toolName=Keg
+\\	Oct.Props.Keg.toolName=Діжка
 \\
 \\\\
 Oct.Props.Keg.toolName=\\untranslated
@@ -50305,21 +50305,21 @@ Oct.Props.Pipes.3D6Port.name=\\untranslated
 \\	Oct.Props.Portcullis.Steel.name=Steel Portcullis
 \\
 \\\\
-Oct.Props.Portcullis.Steel.name=\\untranslated
+Oct.Props.Portcullis.Steel.name=Сталевий порткуліс
 
 \\\\
 \\
 \\	Oct.Props.Portcullis.Steel.pluralName=Steel Portcullis
 \\
 \\\\
-Oct.Props.Portcullis.Steel.pluralName=\\untranslated
+Oct.Props.Portcullis.Steel.pluralName=Сталевий порткуліс
 
 \\\\
 \\
 \\	Oct.Props.Portcullis.Steel.toolName=Steel Portcullis
 \\
 \\\\
-Oct.Props.Portcullis.Steel.toolName=\\untranslated
+Oct.Props.Portcullis.Steel.toolName=Сталевий порткуліс
 
 \\\\
 \\
@@ -50361,21 +50361,21 @@ Oct.Props.Potted Plant.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Ramshackle.Bed.name=Ramshackle Bed
 \\
 \\\\
-Oct.Props.Ramshackle.Bed.name=\\untranslated
+Oct.Props.Ramshackle.Bed.name=Вутле ліжко
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Bed.pluralName=Ramshackle Beds
 \\
 \\\\
-Oct.Props.Ramshackle.Bed.pluralName=\\untranslated
+Oct.Props.Ramshackle.Bed.pluralName=Вутле ліжко
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Bed.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.Ramshackle.Bed.toolName=\\untranslated
+Oct.Props.Ramshackle.Bed.toolName=Вутле
 
 \\\\
 \\
@@ -50424,21 +50424,21 @@ Oct.Props.Ramshackle.Bed.colorSlots.6.name=\\untranslated
 \\	Oct.Props.Ramshackle.Bed.Double.name=Ramshackle Double Bed
 \\
 \\\\
-Oct.Props.Ramshackle.Bed.Double.name=\\untranslated
+Oct.Props.Ramshackle.Bed.Double.name=Вутле двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Bed.Double.pluralName=Ramshackle Double Beds
 \\
 \\\\
-Oct.Props.Ramshackle.Bed.Double.pluralName=\\untranslated
+Oct.Props.Ramshackle.Bed.Double.pluralName=Вутле двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Bed.Double.toolName=Ramshackle Dbl
 \\
 \\\\
-Oct.Props.Ramshackle.Bed.Double.toolName=\\untranslated
+Oct.Props.Ramshackle.Bed.Double.toolName=Вутле дво
 
 \\\\
 \\
@@ -50484,24 +50484,24 @@ Oct.Props.Ramshackle.Bed.Double.colorSlots.6.name=\\untranslated
 
 \\\\
 \\
-\\	Oct.Props.Ramshackle.Floor.name=Ramshackle Floor
+\\	Oct.Props.Ramshackle.Floor.name=Ramshackle Floors
 \\
 \\\\
-Oct.Props.Ramshackle.Floor.name=\\untranslated
+Oct.Props.Ramshackle.Floor.name=Вутла підлога
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Floor.pluralName=Ramshackle Floors
 \\
 \\\\
-Oct.Props.Ramshackle.Floor.pluralName=\\untranslated
+Oct.Props.Ramshackle.Floor.pluralName=Вутла підлога
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Floor.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.Ramshackle.Floor.toolName=\\untranslated
+Oct.Props.Ramshackle.Floor.toolName=Вутла
 
 \\\\
 \\
@@ -50536,21 +50536,21 @@ Oct.Props.Ramshackle.Floor.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Ramshackle.Wall.name=Ramshackle Wall
 \\
 \\\\
-Oct.Props.Ramshackle.Wall.name=\\untranslated
+Oct.Props.Ramshackle.Wall.name=Вутла стіна
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Wall.pluralName=Ramshackle Walls
 \\
 \\\\
-Oct.Props.Ramshackle.Wall.pluralName=\\untranslated
+Oct.Props.Ramshackle.Wall.pluralName=Вутла стіна
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Wall.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.Ramshackle.Wall.toolName=\\untranslated
+Oct.Props.Ramshackle.Wall.toolName=Вутла
 
 \\\\
 \\
@@ -50620,21 +50620,21 @@ Oct.Props.Ramshackle.Wall.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Ramshackle.Door.name=Ramshackle Door
 \\
 \\\\
-Oct.Props.Ramshackle.Door.name=\\untranslated
+Oct.Props.Ramshackle.Door.name=Вутлі двері
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Door.pluralName=Ramshackle Doors
 \\
 \\\\
-Oct.Props.Ramshackle.Door.pluralName=\\untranslated
+Oct.Props.Ramshackle.Door.pluralName=Вутлі двері
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Door.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.Ramshackle.Door.toolName=\\untranslated
+Oct.Props.Ramshackle.Door.toolName=Вутлі
 
 \\\\
 \\
@@ -50669,21 +50669,21 @@ Oct.Props.Ramshackle.Door.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Ramshackle.Roof.name=Ramshackle Roof
 \\
 \\\\
-Oct.Props.Ramshackle.Roof.name=\\untranslated
+Oct.Props.Ramshackle.Roof.name=Вутлий дах
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Roof.pluralName=Ramshackle Roofs
 \\
 \\\\
-Oct.Props.Ramshackle.Roof.pluralName=\\untranslated
+Oct.Props.Ramshackle.Roof.pluralName=Вутлий дах
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Roof.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.Ramshackle.Roof.toolName=\\untranslated
+Oct.Props.Ramshackle.Roof.toolName=Вутлий
 
 \\\\
 \\
@@ -50711,21 +50711,21 @@ Oct.Props.Ramshackle.Roof.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Ramshackle.Ramp.name=Ramshackle Ramp
 \\
 \\\\
-Oct.Props.Ramshackle.Ramp.name=\\untranslated
+Oct.Props.Ramshackle.Ramp.name=Вутла рампа
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Ramp.pluralName=Ramshackle Ramps
 \\
 \\\\
-Oct.Props.Ramshackle.Ramp.pluralName=\\untranslated
+Oct.Props.Ramshackle.Ramp.pluralName=Вутла рампа
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Ramp.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.Ramshackle.Ramp.toolName=\\untranslated
+Oct.Props.Ramshackle.Ramp.toolName=Вутла
 
 \\\\
 \\
@@ -50760,21 +50760,21 @@ Oct.Props.Ramshackle.Ramp.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Ramshackle.Crib.name=Ramshackle Crib
 \\
 \\\\
-Oct.Props.Ramshackle.Crib.name=\\untranslated
+Oct.Props.Ramshackle.Crib.name=Вутле ліжечко
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Crib.pluralName=Ramshackle Cribs
 \\
 \\\\
-Oct.Props.Ramshackle.Crib.pluralName=\\untranslated
+Oct.Props.Ramshackle.Crib.pluralName=Вутле ліжечко
 
 \\\\
 \\
 \\	Oct.Props.Ramshackle.Crib.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.Ramshackle.Crib.toolName=\\untranslated
+Oct.Props.Ramshackle.Crib.toolName=Вутле
 
 \\\\
 \\
@@ -50823,21 +50823,21 @@ Oct.Props.Ramshackle.Crib.colorSlots.6.name=\\untranslated
 \\	Oct.Props.RamshackleTable.name=Ramshackle Table
 \\
 \\\\
-Oct.Props.RamshackleTable.name=\\untranslated
+Oct.Props.RamshackleTable.name=Вутлий стіл
 
 \\\\
 \\
 \\	Oct.Props.RamshackleTable.pluralName=Ramshackle Tables
 \\
 \\\\
-Oct.Props.RamshackleTable.pluralName=\\untranslated
+Oct.Props.RamshackleTable.pluralName=Вутлий стіл
 
 \\\\
 \\
 \\	Oct.Props.RamshackleTable.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.RamshackleTable.toolName=\\untranslated
+Oct.Props.RamshackleTable.toolName=Вутлий
 
 \\\\
 \\
@@ -51166,56 +51166,56 @@ Oct.Props.ShortWall.FineStone.colorSlots.4.name=\\untranslated
 \\	Oct.Props.ShortWall.FineStone.Parapet.name=Fine Stone Parapet
 \\
 \\\\
-Oct.Props.ShortWall.FineStone.Parapet.name=\\untranslated
+Oct.Props.ShortWall.FineStone.Parapet.name=Гарний кам'яний парапет
 
 \\\\
 \\
-\\	Oct.Props.ShortWall.FineStone.Parapet.pluralName=Fine Stone Parapets
+\\	Oct.Props.ShortWall.FineStone.Parapet.pluralName=Fine Stone Parapets 
 \\
 \\\\
-Oct.Props.ShortWall.FineStone.Parapet.pluralName=\\untranslated
+Oct.Props.ShortWall.FineStone.Parapet.pluralName=Гарний кам'яний парапет
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.FineStone.Parapet.toolName=Fine Para
 \\
 \\\\
-Oct.Props.ShortWall.FineStone.Parapet.toolName=\\untranslated
+Oct.Props.ShortWall.FineStone.Parapet.toolName=Гарний пара
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.FineStone.Parapet.resolvablePrefabs.1.name=Fine Stone Parapets
 \\
 \\\\
-Oct.Props.ShortWall.FineStone.Parapet.resolvablePrefabs.1.name=\\untranslated
+Oct.Props.ShortWall.FineStone.Parapet.resolvablePrefabs.1.name=Гарний кам'яний парапет
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.FineStoneRailing.name=Fine Stone Railing
 \\
 \\\\
-Oct.Props.ShortWall.FineStoneRailing.name=\\untranslated
+Oct.Props.ShortWall.FineStoneRailing.name=Гарне кам'яне перило
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.FineStoneRailing.pluralName=Fine Stone Railings
 \\
 \\\\
-Oct.Props.ShortWall.FineStoneRailing.pluralName=\\untranslated
+Oct.Props.ShortWall.FineStoneRailing.pluralName=Гарне кам'яне перило
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.FineStoneRailing.toolName=Fine Rail
 \\
 \\\\
-Oct.Props.ShortWall.FineStoneRailing.toolName=\\untranslated
+Oct.Props.ShortWall.FineStoneRailing.toolName=Гарне пер
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.FineStoneRailing.resolvablePrefabs.1.name=Fine Stone Railing
 \\
 \\\\
-Oct.Props.ShortWall.FineStoneRailing.resolvablePrefabs.1.name=\\untranslated
+Oct.Props.ShortWall.FineStoneRailing.resolvablePrefabs.1.name=Гарне кам'яне перило
 
 \\\\
 \\
@@ -51236,21 +51236,21 @@ Oct.Props.ShortWall.FineStoneRailing.colorSlots.2.name=\\untranslated
 \\	Oct.Props.ShortWall.Stone.name=Stone Parapet
 \\
 \\\\
-Oct.Props.ShortWall.Stone.name=\\untranslated
+Oct.Props.ShortWall.Stone.name=Кам'яний парапет
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.Stone.pluralName=Stone Parapets
 \\
 \\\\
-Oct.Props.ShortWall.Stone.pluralName=\\untranslated
+Oct.Props.ShortWall.Stone.pluralName=Кам'яний парапет
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.Stone.toolName=Stone Para
 \\
 \\\\
-Oct.Props.ShortWall.Stone.toolName=\\untranslated
+Oct.Props.ShortWall.Stone.toolName=Кам'яний пар
 
 \\\\
 \\
@@ -51292,21 +51292,21 @@ Oct.Props.ShortWall.Stone.colorSlots.4.name=\\untranslated
 \\	Oct.Props.ShortWall.FineStone.Parapet.Decorated.name=Fine Stone Decorated Parapet
 \\
 \\\\
-Oct.Props.ShortWall.FineStone.Parapet.Decorated.name=\\untranslated
+Oct.Props.ShortWall.FineStone.Parapet.Decorated.name=Гарний кам'яний прикрашений парапет
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.FineStone.Parapet.Decorated.pluralName=Fine Stone Decorated Parapets
 \\
 \\\\
-Oct.Props.ShortWall.FineStone.Parapet.Decorated.pluralName=\\untranslated
+Oct.Props.ShortWall.FineStone.Parapet.Decorated.pluralName=Гарний кам'яний прикрашений парапет
 
 \\\\
 \\
 \\	Oct.Props.ShortWall.FineStone.Parapet.Decorated.toolName=Fine Deco
 \\
 \\\\
-Oct.Props.ShortWall.FineStone.Parapet.Decorated.toolName=\\untranslated
+Oct.Props.ShortWall.FineStone.Parapet.Decorated.toolName=Гарний прик
 
 \\\\
 \\
@@ -51495,21 +51495,21 @@ Oct.Props.StandingTorch.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Stone.Bed.name=Stone Bed
 \\
 \\\\
-Oct.Props.Stone.Bed.name=\\untranslated
+Oct.Props.Stone.Bed.name=Кам'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Bed.pluralName=Stone Beds
 \\
 \\\\
-Oct.Props.Stone.Bed.pluralName=\\untranslated
+Oct.Props.Stone.Bed.pluralName=Кам'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Bed.toolName=Stone
 \\
 \\\\
-Oct.Props.Stone.Bed.toolName=\\untranslated
+Oct.Props.Stone.Bed.toolName=Кам'яне
 
 \\\\
 \\
@@ -51544,21 +51544,21 @@ Oct.Props.Stone.Bed.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Stone.Bed.Double.name=Stone Double Bed
 \\
 \\\\
-Oct.Props.Stone.Bed.Double.name=\\untranslated
+Oct.Props.Stone.Bed.Double.name=Кам'яне двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Bed.Double.pluralName=Stone Double Beds
 \\
 \\\\
-Oct.Props.Stone.Bed.Double.pluralName=\\untranslated
+Oct.Props.Stone.Bed.Double.pluralName=Кам'яне двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Bed.Double.toolName=Stone Dbl
 \\
 \\\\
-Oct.Props.Stone.Bed.Double.toolName=\\untranslated
+Oct.Props.Stone.Bed.Double.toolName=Кам'яне дво
 
 \\\\
 \\
@@ -51600,21 +51600,21 @@ Oct.Props.Stone.Bed.Double.colorSlots.5.name=\\untranslated
 \\	Oct.Props.Stone.Fine.Bed.name=Fine Stone Bed
 \\
 \\\\
-Oct.Props.Stone.Fine.Bed.name=\\untranslated
+Oct.Props.Stone.Fine.Bed.name=Гарне кам'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Fine.Bed.pluralName=Fine Stone Beds
 \\
 \\\\
-Oct.Props.Stone.Fine.Bed.pluralName=\\untranslated
+Oct.Props.Stone.Fine.Bed.pluralName=Гарне кам'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Fine.Bed.toolName=Fin Stone
 \\
 \\\\
-Oct.Props.Stone.Fine.Bed.toolName=\\untranslated
+Oct.Props.Stone.Fine.Bed.toolName=Гар кам'яне
 
 \\\\
 \\
@@ -51677,21 +51677,21 @@ Oct.Props.Stone.Fine.Bed.colorSlots.8.name=\\untranslated
 \\	Oct.Props.Stone.Fine.Bed.Double.name=Fine Stone Double Bed
 \\
 \\\\
-Oct.Props.Stone.Fine.Bed.Double.name=\\untranslated
+Oct.Props.Stone.Fine.Bed.Double.name=Гарне кам'яне двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Fine.Bed.Double.pluralName=Fine Stone Double Beds
 \\
 \\\\
-Oct.Props.Stone.Fine.Bed.Double.pluralName=\\untranslated
+Oct.Props.Stone.Fine.Bed.Double.pluralName=Гарне кам'яне двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Fine.Bed.Double.toolName=Fin Stone Dbl
 \\
 \\\\
-Oct.Props.Stone.Fine.Bed.Double.toolName=\\untranslated
+Oct.Props.Stone.Fine.Bed.Double.toolName=Гар кам двом
 
 \\\\
 \\
@@ -51754,21 +51754,21 @@ Oct.Props.Stone.Fine.Bed.Double.colorSlots.8.name=\\untranslated
 \\	Oct.Props.Stone.Stairs.name=Stone Stairs
 \\
 \\\\
-Oct.Props.Stone.Stairs.name=\\untranslated
+Oct.Props.Stone.Stairs.name=Кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Stone.Stairs.pluralName=Stone Stairs
 \\
 \\\\
-Oct.Props.Stone.Stairs.pluralName=\\untranslated
+Oct.Props.Stone.Stairs.pluralName=Кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Stone.Stairs.toolName=Stone
 \\
 \\\\
-Oct.Props.Stone.Stairs.toolName=\\untranslated
+Oct.Props.Stone.Stairs.toolName=Кам'яні
 
 \\\\
 \\
@@ -51817,63 +51817,63 @@ Oct.Props.Stone.Stairs.Corner.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Stone.Stairs.Corner.Right.name=Right Curved Stone Stairs
 \\
 \\\\
-Oct.Props.Stone.Stairs.Corner.Right.name=\\untranslated
+Oct.Props.Stone.Stairs.Corner.Right.name=Праві вигнуті кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Stone.Stairs.Corner.Right.pluralName=Curved Stone Stairs
 \\
 \\\\
-Oct.Props.Stone.Stairs.Corner.Right.pluralName=\\untranslated
+Oct.Props.Stone.Stairs.Corner.Right.pluralName=Вигнуті кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Stone.Stairs.Corner.Right.toolName=Stone Right
 \\
 \\\\
-Oct.Props.Stone.Stairs.Corner.Right.toolName=\\untranslated
+Oct.Props.Stone.Stairs.Corner.Right.toolName=Кам'яні праві
 
 \\\\
 \\
 \\	Oct.Props.Stone.Stairs.Corner.Left.name=Left Curved Stone Stairs
 \\
 \\\\
-Oct.Props.Stone.Stairs.Corner.Left.name=\\untranslated
+Oct.Props.Stone.Stairs.Corner.Left.name=Ліві вигнуті кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Stone.Stairs.Corner.Left.pluralName=Curved Stone Stairs
 \\
 \\\\
-Oct.Props.Stone.Stairs.Corner.Left.pluralName=\\untranslated
+Oct.Props.Stone.Stairs.Corner.Left.pluralName=Вигнуті кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Stone.Stairs.Corner.Left.toolName=Stone Left
 \\
 \\\\
-Oct.Props.Stone.Stairs.Corner.Left.toolName=\\untranslated
+Oct.Props.Stone.Stairs.Corner.Left.toolName=Кам'яні ліві
 
 \\\\
 \\
 \\	Oct.Props.Stone.Crib.name=Stone Crib
 \\
 \\\\
-Oct.Props.Stone.Crib.name=\\untranslated
+Oct.Props.Stone.Crib.name=Кам'яне ліжечко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Crib.pluralName=Stone Cribs
 \\
 \\\\
-Oct.Props.Stone.Crib.pluralName=\\untranslated
+Oct.Props.Stone.Crib.pluralName=Кам'яне ліжечко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Crib.toolName=Stone
 \\
 \\\\
-Oct.Props.Stone.Crib.toolName=\\untranslated
+Oct.Props.Stone.Crib.toolName=Кам'яне
 
 \\\\
 \\
@@ -51901,21 +51901,21 @@ Oct.Props.Stone.Crib.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Stone.Fine.Crib.name=Fine Stone Crib
 \\
 \\\\
-Oct.Props.Stone.Fine.Crib.name=\\untranslated
+Oct.Props.Stone.Fine.Crib.name=Гарне кам'яне ліжечко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Fine.Crib.pluralName=Fine Stone Cribs
 \\
 \\\\
-Oct.Props.Stone.Fine.Crib.pluralName=\\untranslated
+Oct.Props.Stone.Fine.Crib.pluralName=Гарне кам'яне ліжечко
 
 \\\\
 \\
 \\	Oct.Props.Stone.Fine.Crib.toolName=Fin Stone
 \\
 \\\\
-Oct.Props.Stone.Fine.Crib.toolName=\\untranslated
+Oct.Props.Stone.Fine.Crib.toolName=Гарне кам
 
 \\\\
 \\
@@ -52174,21 +52174,21 @@ Oct.Props.Stove.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Straw.Bed.name=Straw Bed
 \\
 \\\\
-Oct.Props.Straw.Bed.name=\\untranslated
+Oct.Props.Straw.Bed.name=Солом'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Straw.Bed.pluralName=Straw Beds
 \\
 \\\\
-Oct.Props.Straw.Bed.pluralName=\\untranslated
+Oct.Props.Straw.Bed.pluralName=Солом'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Straw.Bed.toolName=Straw
 \\
 \\\\
-Oct.Props.Straw.Bed.toolName=\\untranslated
+Oct.Props.Straw.Bed.toolName=Солом'яне
 
 \\\\
 \\
@@ -52216,21 +52216,21 @@ Oct.Props.Straw.Bed.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Straw.Roof.name=Straw Roof
 \\
 \\\\
-Oct.Props.Straw.Roof.name=\\untranslated
+Oct.Props.Straw.Roof.name=Солом'яний дах
 
 \\\\
 \\
 \\	Oct.Props.Straw.Roof.pluralName=Straw Roofs
 \\
 \\\\
-Oct.Props.Straw.Roof.pluralName=\\untranslated
+Oct.Props.Straw.Roof.pluralName=Солом'яний дах
 
 \\\\
 \\
 \\	Oct.Props.Straw.Roof.toolName=Straw
 \\
 \\\\
-Oct.Props.Straw.Roof.toolName=\\untranslated
+Oct.Props.Straw.Roof.toolName=Солом'яний
 
 \\\\
 \\
@@ -52258,21 +52258,21 @@ Oct.Props.Straw.Roof.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Stump.name=Stump
 \\
 \\\\
-Oct.Props.Stump.name=\\untranslated
+Oct.Props.Stump.name=Пеньок
 
 \\\\
 \\
 \\	Oct.Props.Stump.pluralName=Stumps
 \\
 \\\\
-Oct.Props.Stump.pluralName=\\untranslated
+Oct.Props.Stump.pluralName=Пеньок
 
 \\\\
 \\
 \\	Oct.Props.Stump.toolName=Stump
 \\
 \\\\
-Oct.Props.Stump.toolName=\\untranslated
+Oct.Props.Stump.toolName=Пеньок
 
 \\\\
 \\
@@ -52986,21 +52986,21 @@ Oct.Props.Terrain.Block.Ridge.toolName=\\untranslated
 \\	Oct.Props.Throne.Stone.Fine.name=Fine Stone Throne
 \\
 \\\\
-Oct.Props.Throne.Stone.Fine.name=\\untranslated
+Oct.Props.Throne.Stone.Fine.name=Гарний кам'яний трон
 
 \\\\
 \\
 \\	Oct.Props.Throne.Stone.Fine.pluralName=Fine Stone Thrones
 \\
 \\\\
-Oct.Props.Throne.Stone.Fine.pluralName=\\untranslated
+Oct.Props.Throne.Stone.Fine.pluralName=Гарний кам'яний трон
 
 \\\\
 \\
 \\	Oct.Props.Throne.Stone.Fine.toolName=Fin Stn Thrn
 \\
 \\\\
-Oct.Props.Throne.Stone.Fine.toolName=\\untranslated
+Oct.Props.Throne.Stone.Fine.toolName=Гар кам трон
 
 \\\\
 \\
@@ -53320,105 +53320,105 @@ Oct.Props.Usable.WeddingArch.pluralName=\\untranslated
 \\	Oct.Props.Vent.Roof.Ramshackle.name=Ramshackle Roof Vent
 \\
 \\\\
-Oct.Props.Vent.Roof.Ramshackle.name=\\untranslated
+Oct.Props.Vent.Roof.Ramshackle.name=Вутлий вент. отвір даху
 
 \\\\
 \\
 \\	Oct.Props.Vent.Roof.Ramshackle.pluralName=Ramshackle Roof Vents
 \\
 \\\\
-Oct.Props.Vent.Roof.Ramshackle.pluralName=\\untranslated
+Oct.Props.Vent.Roof.Ramshackle.pluralName=Вутлий вент. отвір даху
 
 \\\\
 \\
 \\	Oct.Props.Vent.Roof.Ramshackle.toolName=R Roof Vnt
 \\
 \\\\
-Oct.Props.Vent.Roof.Ramshackle.toolName=\\untranslated
+Oct.Props.Vent.Roof.Ramshackle.toolName=В отвір даху
 
 \\\\
 \\
 \\	Oct.Props.Vent.Roof.Ramshackle.description=Vent that transfers Temperature and Smoke between both interior and exterior levels.
 \\
 \\\\
-Oct.Props.Vent.Roof.Ramshackle.description=\\untranslated
+Oct.Props.Vent.Roof.Ramshackle.description=Вентиляційний отвір, який передає температуру й дим між внутрішнім і зовнішнім рівнями.
 
 \\\\
 \\
 \\	Oct.Props.Vent.Roof.Wooden.name=Wooden Roof Vent
 \\
 \\\\
-Oct.Props.Vent.Roof.Wooden.name=\\untranslated
+Oct.Props.Vent.Roof.Wooden.name=Дерев'яний даховий вент отвір
 
 \\\\
 \\
 \\	Oct.Props.Vent.Roof.Wooden.pluralName=Wooden Roof Vents
 \\
 \\\\
-Oct.Props.Vent.Roof.Wooden.pluralName=\\untranslated
+Oct.Props.Vent.Roof.Wooden.pluralName=Дерев'яний даховий вент отвір
 
 \\\\
 \\
 \\	Oct.Props.Vent.Roof.Wooden.toolName=W Roof Vnt
 \\
 \\\\
-Oct.Props.Vent.Roof.Wooden.toolName=\\untranslated
+Oct.Props.Vent.Roof.Wooden.toolName=Д отвір даху
 
 \\\\
 \\
 \\	Oct.Props.Vent.Roof.Wooden.description=Closeable Vent that transfers Temperature and Smoke between both interior and exterior levels.
 \\
 \\\\
-Oct.Props.Vent.Roof.Wooden.description=\\untranslated
+Oct.Props.Vent.Roof.Wooden.description=Вентиляційний отвір, що закривається, передає температуру й дим між внутрішнім і зовнішнім рівнями.
 
 \\\\
 \\
 \\	Oct.Props.Vent.Wall.Ramshackle.name=Ramshackle Wall Vent
 \\
 \\\\
-Oct.Props.Vent.Wall.Ramshackle.name=\\untranslated
+Oct.Props.Vent.Wall.Ramshackle.name=Вутлий стінний вент. отвір
 
 \\\\
 \\
 \\	Oct.Props.Vent.Wall.Ramshackle.pluralName=Ramshackle Wall Vents
 \\
 \\\\
-Oct.Props.Vent.Wall.Ramshackle.pluralName=\\untranslated
+Oct.Props.Vent.Wall.Ramshackle.pluralName=Вутлий стінний вент. отвір
 
 \\\\
 \\
 \\	Oct.Props.Vent.Wall.Ramshackle.toolName=R Wall Vnt
 \\
 \\\\
-Oct.Props.Vent.Wall.Ramshackle.toolName=\\untranslated
+Oct.Props.Vent.Wall.Ramshackle.toolName=В стіний отвір
 
 \\\\
 \\
 \\	Oct.Props.Vent.Wall.Ramshackle.description=Vent that transfers Temperature and Smoke between both interior and exterior spaces.
 \\
 \\\\
-Oct.Props.Vent.Wall.Ramshackle.description=\\untranslated
+Oct.Props.Vent.Wall.Ramshackle.description=Вентиляційний отвір, який передає температуру й дим між внутрішніми та зовнішніми просторами.
 
 \\\\
 \\
 \\	Oct.Props.Vent.Wall.Wooden.name=Wooden Wall Vent
 \\
 \\\\
-Oct.Props.Vent.Wall.Wooden.name=\\untranslated
+Oct.Props.Vent.Wall.Wooden.name=Дерев'яний настінний вент отвір
 
 \\\\
 \\
 \\	Oct.Props.Vent.Wall.Wooden.pluralName=Wooden Wall Vents
 \\
 \\\\
-Oct.Props.Vent.Wall.Wooden.pluralName=\\untranslated
+Oct.Props.Vent.Wall.Wooden.pluralName=Дерев'яний настінний вент отвір
 
 \\\\
 \\
 \\	Oct.Props.Vent.Wall.Wooden.toolName=W Wall Vnt
 \\
 \\\\
-Oct.Props.Vent.Wall.Wooden.toolName=\\untranslated
+Oct.Props.Vent.Wall.Wooden.toolName=Д наст отвір
 
 \\\\
 \\
@@ -53432,42 +53432,42 @@ Oct.Props.Vent.Wall.Wooden.description=\\untranslated
 \\	Oct.Props.Wall.FineStone.name=Fine Stone Wall
 \\
 \\\\
-Oct.Props.Wall.FineStone.name=\\untranslated
+Oct.Props.Wall.FineStone.name=Гарна кам'яна стіна
 
 \\\\
 \\
 \\	Oct.Props.Wall.FineStone.pluralName=Fine Stone Walls
 \\
 \\\\
-Oct.Props.Wall.FineStone.pluralName=\\untranslated
+Oct.Props.Wall.FineStone.pluralName=Гарна кам'яна стіна
 
 \\\\
 \\
 \\	Oct.Props.Wall.FineStone.toolName=Fine Stone
 \\
 \\\\
-Oct.Props.Wall.FineStone.toolName=\\untranslated
+Oct.Props.Wall.FineStone.toolName=Гарна кам'яна
 
 \\\\
 \\
 \\	Oct.Props.Wall.Stone.name=Stone Wall
 \\
 \\\\
-Oct.Props.Wall.Stone.name=\\untranslated
+Oct.Props.Wall.Stone.name=Кам'яна стіна
 
 \\\\
 \\
 \\	Oct.Props.Wall.Stone.pluralName=Stone Walls
 \\
 \\\\
-Oct.Props.Wall.Stone.pluralName=\\untranslated
+Oct.Props.Wall.Stone.pluralName=Кам'яна стіна
 
 \\\\
 \\
 \\	Oct.Props.Wall.Stone.toolName=Stone
 \\
 \\\\
-Oct.Props.Wall.Stone.toolName=\\untranslated
+Oct.Props.Wall.Stone.toolName=Кам'яна
 
 \\\\
 \\
@@ -54559,21 +54559,21 @@ Oct.Props.WallFlag.colorSlots.4.name=\\untranslated
 \\	Oct.Props.WallPost.FineStone.name=Fine Stone Column
 \\
 \\\\
-Oct.Props.WallPost.FineStone.name=\\untranslated
+Oct.Props.WallPost.FineStone.name=Гарна кам'яна колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.pluralName=Fine Stone Columns
 \\
 \\\\
-Oct.Props.WallPost.FineStone.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.pluralName=Гарна кам'яна колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.toolName=Fine Stone
 \\
 \\\\
-Oct.Props.WallPost.FineStone.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.toolName=Гарна кам'яна
 
 \\\\
 \\
@@ -54601,42 +54601,42 @@ Oct.Props.WallPost.FineStone.ColumnTopper.BricksExtra.colorSlots.1.name=\\untran
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.name=Fine Stone Cylinder Topper
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.name=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.name=Циліндричний топпер із тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.pluralName=Fine Stone Cylinder Toppers
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.pluralName=Циліндричний топпер із тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.toolName=Cylinder
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Cylinder.toolName=Циліндр
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Pole.name=Fine Stone Pole Topper
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Pole.name=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Pole.name=Гарний кам'яний стовп топер
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Pole.pluralName=Fine Stone Pole Toppers
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Pole.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Pole.pluralName=Гарний кам'яний стовп топер
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Pole.toolName=Pole
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Pole.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Pole.toolName=Cтовп
 
 \\\\
 \\
@@ -54650,21 +54650,21 @@ Oct.Props.WallPost.FineStone.ColumnTopper.Pole.colorSlots.1.name=\\untranslated
 \\	Oct.Props.WallPost.Ramshackle.name=Ramshackle Column
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.name=\\untranslated
+Oct.Props.WallPost.Ramshackle.name=Вутла колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Ramshackle.pluralName=Ramshackle Columns
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.pluralName=\\untranslated
+Oct.Props.WallPost.Ramshackle.pluralName=Вутла колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Ramshackle.toolName=Ramshackle
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.toolName=\\untranslated
+Oct.Props.WallPost.Ramshackle.toolName=Вутла
 
 \\\\
 \\
@@ -54713,21 +54713,21 @@ Oct.Props.WallPost.Ramshackle.colorSlots.6.name=\\untranslated
 \\	Oct.Props.WallPost.Stone.name=Stone Column
 \\
 \\\\
-Oct.Props.WallPost.Stone.name=\\untranslated
+Oct.Props.WallPost.Stone.name=Кам'яна колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Stone.pluralName=Stone Columns
 \\
 \\\\
-Oct.Props.WallPost.Stone.pluralName=\\untranslated
+Oct.Props.WallPost.Stone.pluralName=Кам'яна колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Stone.toolName=Stone
 \\
 \\\\
-Oct.Props.WallPost.Stone.toolName=\\untranslated
+Oct.Props.WallPost.Stone.toolName=Кам'яна
 
 \\\\
 \\
@@ -54741,21 +54741,21 @@ Oct.Props.WallPost.Stone.colorSlots.1.name=\\untranslated
 \\	Oct.Props.WallPost.Wood.Interior.name=Wooden Interior Column
 \\
 \\\\
-Oct.Props.WallPost.Wood.Interior.name=\\untranslated
+Oct.Props.WallPost.Wood.Interior.name=Дерев'яна інтер'єрна колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Wood.Interior.pluralName=Wooden Interior Columns
 \\
 \\\\
-Oct.Props.WallPost.Wood.Interior.pluralName=\\untranslated
+Oct.Props.WallPost.Wood.Interior.pluralName=Дерев'яна інтер'єрна колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Wood.Interior.toolName=Wood Intr
 \\
 \\\\
-Oct.Props.WallPost.Wood.Interior.toolName=\\untranslated
+Oct.Props.WallPost.Wood.Interior.toolName=Дерев'яна
 
 \\\\
 \\
@@ -54783,21 +54783,21 @@ Oct.Props.WallPost.Wood.Interior.colorSlots.3.name=\\untranslated
 \\	Oct.Props.WallPost.Ramshackle.Thick.name=Ramshackle Thick Column
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.Thick.name=\\untranslated
+Oct.Props.WallPost.Ramshackle.Thick.name=Вутла товста колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Ramshackle.Thick.pluralName=Ramshackle Thick Columns
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.Thick.pluralName=\\untranslated
+Oct.Props.WallPost.Ramshackle.Thick.pluralName=Вутла товста колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Ramshackle.Thick.toolName=Ram Thick
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.Thick.toolName=\\untranslated
+Oct.Props.WallPost.Ramshackle.Thick.toolName=Вут товста
 
 \\\\
 \\
@@ -54860,21 +54860,21 @@ Oct.Props.WallPost.Ramshackle.Thick.colorSlots.8.name=\\untranslated
 \\	Oct.Props.WallPost.Wood.name=Wooden Column
 \\
 \\\\
-Oct.Props.WallPost.Wood.name=\\untranslated
+Oct.Props.WallPost.Wood.name=Дерев'яна колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Wood.pluralName=Wooden Columns
 \\
 \\\\
-Oct.Props.WallPost.Wood.pluralName=\\untranslated
+Oct.Props.WallPost.Wood.pluralName=Дерев'яна колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Wood.toolName=Wood
 \\
 \\\\
-Oct.Props.WallPost.Wood.toolName=\\untranslated
+Oct.Props.WallPost.Wood.toolName=Дерев'яна
 
 \\\\
 \\
@@ -54888,21 +54888,21 @@ Oct.Props.WallPost.Wood.colorSlots.1.name=\\untranslated
 \\	Oct.Props.WallPost.Wood.Round.name=Wooden Round Column
 \\
 \\\\
-Oct.Props.WallPost.Wood.Round.name=\\untranslated
+Oct.Props.WallPost.Wood.Round.name=Дерев'яна кругла колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Wood.Round.pluralName=Wooden Round Columns
 \\
 \\\\
-Oct.Props.WallPost.Wood.Round.pluralName=\\untranslated
+Oct.Props.WallPost.Wood.Round.pluralName=Дерев'яна кругла колона
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Wood.Round.toolName=Wood Rnd
 \\
 \\\\
-Oct.Props.WallPost.Wood.Round.toolName=\\untranslated
+Oct.Props.WallPost.Wood.Round.toolName=Дерев'яна кр
 
 \\\\
 \\
@@ -54916,21 +54916,21 @@ Oct.Props.WallPost.Wood.Round.colorSlots.1.name=\\untranslated
 \\	Oct.Props.WallPost.FineStone.Spire.Mid.name=Fine Stone Column Spire Mid
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Mid.name=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Mid.name=Середина шпиля з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.Spire.Mid.pluralName=Fine Stone Column Spire Mids
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Mid.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Mid.pluralName=Середина шпиля з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.Spire.Mid.toolName=Mid
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Mid.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Mid.toolName=Середина
 
 \\\\
 \\
@@ -54972,21 +54972,21 @@ Oct.Props.WallPost.FineStone.Spire.Mid.colorSlots.5.name=\\untranslated
 \\	Oct.Props.WallPost.FineStone.Spire.Bottom.name=Fine Stone Column Spire Bottom
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Bottom.name=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Bottom.name=Дно шпиля з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.Spire.Bottom.pluralName=Fine Stone Column Spire Bottoms
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Bottom.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Bottom.pluralName=Дно шпиля з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.Spire.Bottom.toolName=Bottom
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Bottom.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Bottom.toolName=Дно
 
 \\\\
 \\
@@ -55014,21 +55014,21 @@ Oct.Props.WallPost.FineStone.Spire.Bottom.colorSlots.3.name=\\untranslated
 \\	Oct.Props.WallPost.FineStone.Spire.Top.name=Fine Stone Column Spire Top
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Top.name=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Top.name=Вершина шпиля з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.Spire.Top.pluralName=Fine Stone Column Spire Tops
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Top.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Top.pluralName=Вершина шпиля з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.Spire.Top.toolName=Top
 \\
 \\\\
-Oct.Props.WallPost.FineStone.Spire.Top.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.Spire.Top.toolName=Вершина
 
 \\\\
 \\
@@ -55077,14 +55077,14 @@ Oct.Props.WallPost.FineStone.ColumnTopper.Dark.colorSlots.1.name=\\untranslated
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.name=Fine Stone Spiked Topper
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.name=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.name=Гарний шипований кам’яний топпер
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.pluralName=Fine Stone Spiked Toppers
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.pluralName=Гарний шипований кам’яний топпер
 
 \\\\
 \\
@@ -55098,42 +55098,42 @@ Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.toolName=\\untranslated
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.name=Fine Stone Pointy Topper
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.name=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.name=Гарний кам'яний гострий топер
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.pluralName=Fine Stone Pointy Toppers
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.pluralName=Гарний кам'яний гострий топер
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.toolName=Pointy
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Pointy.toolName=Гострий
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.name=Fine Stone Parapet Topper
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.name=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.name=Топер парапет з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.pluralName=Fine Stone Parapet Toppers
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.pluralName=Топер парапет з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.toolName=Parapet
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.toolName=Парапет
 
 \\\\
 \\
@@ -55175,14 +55175,14 @@ Oct.Props.WallPost.FineStone.ColumnTopper.Parapet.colorSlots.4.name=\\untranslat
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Flame.name=Fine Stone Flame Topper
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Flame.name=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Flame.name=Гарне кам’яне полум'я топпер
 
 \\\\
 \\
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Flame.pluralName=Fine Stone Flame Toppers
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Flame.pluralName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Flame.pluralName=Гарне кам’яне полум'я топпер
 
 \\\\
 \\
@@ -55238,28 +55238,28 @@ Oct.Props.WallPost.FineStone.Spire.Mid.prefabs.2.name=\\untranslated
 \\	Oct.Props.WallPost.Ramshackle.prefabs.1.name=Ramshackle Post
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.prefabs.1.name=\\untranslated
+Oct.Props.WallPost.Ramshackle.prefabs.1.name=Вутлий стовп
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Ramshackle.prefabs.2.name=Ramshackle Post
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.prefabs.2.name=\\untranslated
+Oct.Props.WallPost.Ramshackle.prefabs.2.name=Вутлий стовп
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Ramshackle.Thick.prefabs.1.name=Ramshackle Thick Post
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.Thick.prefabs.1.name=\\untranslated
+Oct.Props.WallPost.Ramshackle.Thick.prefabs.1.name=Вутлий товстий стовп
 
 \\\\
 \\
 \\	Oct.Props.WallPost.Ramshackle.Thick.prefabs.2.name=Ramshackle Thick Post
 \\
 \\\\
-Oct.Props.WallPost.Ramshackle.Thick.prefabs.2.name=\\untranslated
+Oct.Props.WallPost.Ramshackle.Thick.prefabs.2.name=Вутлий товстий стовп
 
 \\\\
 \\
@@ -55644,21 +55644,21 @@ Oct.Props.Winery.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Wood.Bed.name=Wooden Bed
 \\
 \\\\
-Oct.Props.Wood.Bed.name=\\untranslated
+Oct.Props.Wood.Bed.name=Дерев'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Bed.pluralName=Wooden Beds
 \\
 \\\\
-Oct.Props.Wood.Bed.pluralName=\\untranslated
+Oct.Props.Wood.Bed.pluralName=Дерев'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Bed.toolName=Wood
 \\
 \\\\
-Oct.Props.Wood.Bed.toolName=\\untranslated
+Oct.Props.Wood.Bed.toolName=Дерев'яне
 
 \\\\
 \\
@@ -55686,21 +55686,21 @@ Oct.Props.Wood.Bed.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Wood.Bed.Double.name=Wooden Double Bed
 \\
 \\\\
-Oct.Props.Wood.Bed.Double.name=\\untranslated
+Oct.Props.Wood.Bed.Double.name=Дерев'яне двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Bed.Double.pluralName=Wooden Double Beds
 \\
 \\\\
-Oct.Props.Wood.Bed.Double.pluralName=\\untranslated
+Oct.Props.Wood.Bed.Double.pluralName=Дерев'яне двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Bed.Double.toolName=Wood Dbl
 \\
 \\\\
-Oct.Props.Wood.Bed.Double.toolName=\\untranslated
+Oct.Props.Wood.Bed.Double.toolName=Дерев двом
 
 \\\\
 \\
@@ -55728,21 +55728,21 @@ Oct.Props.Wood.Bed.Double.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Wood.Bed.Fancy.name=Fancy Wooden Bed
 \\
 \\\\
-Oct.Props.Wood.Bed.Fancy.name=\\untranslated
+Oct.Props.Wood.Bed.Fancy.name=Гарне дерев'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Bed.Fancy.pluralName=Fancy Wooden Beds
 \\
 \\\\
-Oct.Props.Wood.Bed.Fancy.pluralName=\\untranslated
+Oct.Props.Wood.Bed.Fancy.pluralName=Гарне дерев'яне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Bed.Fancy.toolName=Fancy
 \\
 \\\\
-Oct.Props.Wood.Bed.Fancy.toolName=\\untranslated
+Oct.Props.Wood.Bed.Fancy.toolName=Гарне
 
 \\\\
 \\
@@ -55770,21 +55770,21 @@ Oct.Props.Wood.Bed.Fancy.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Wood.Bed.Fancy.Double.name=Fancy Wooden Double Bed
 \\
 \\\\
-Oct.Props.Wood.Bed.Fancy.Double.name=\\untranslated
+Oct.Props.Wood.Bed.Fancy.Double.name=Гарне дерев'яне двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Bed.Fancy.Double.pluralName=Fancy Wooden Double Beds
 \\
 \\\\
-Oct.Props.Wood.Bed.Fancy.Double.pluralName=\\untranslated
+Oct.Props.Wood.Bed.Fancy.Double.pluralName=Гарне дерев'яне двомісне ліжко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Bed.Fancy.Double.toolName=Fancy Dbl
 \\
 \\\\
-Oct.Props.Wood.Bed.Fancy.Double.toolName=\\untranslated
+Oct.Props.Wood.Bed.Fancy.Double.toolName=Гарне двом
 
 \\\\
 \\
@@ -55812,21 +55812,21 @@ Oct.Props.Wood.Bed.Fancy.Double.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Wood.Wall.name=Wooden Wall
 \\
 \\\\
-Oct.Props.Wood.Wall.name=\\untranslated
+Oct.Props.Wood.Wall.name=Дерев'яна стіна
 
 \\\\
 \\
 \\	Oct.Props.Wood.Wall.pluralName=Wooden Walls
 \\
 \\\\
-Oct.Props.Wood.Wall.pluralName=\\untranslated
+Oct.Props.Wood.Wall.pluralName=Дерев'яна стіна
 
 \\\\
 \\
 \\	Oct.Props.Wood.Wall.toolName=Wood
 \\
 \\\\
-Oct.Props.Wood.Wall.toolName=\\untranslated
+Oct.Props.Wood.Wall.toolName=Дерев'яна
 
 \\\\
 \\
@@ -55882,21 +55882,21 @@ Oct.Props.Wood.Wall.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wood.Stairs.name=Wooden Stairs
 \\
 \\\\
-Oct.Props.Wood.Stairs.name=\\untranslated
+Oct.Props.Wood.Stairs.name=Дерев'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Wood.Stairs.pluralName=Wooden Stairs
 \\
 \\\\
-Oct.Props.Wood.Stairs.pluralName=\\untranslated
+Oct.Props.Wood.Stairs.pluralName=Дерев'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Wood.Stairs.toolName=Wood
 \\
 \\\\
-Oct.Props.Wood.Stairs.toolName=\\untranslated
+Oct.Props.Wood.Stairs.toolName=Дерев'яні
 
 \\\\
 \\
@@ -55917,21 +55917,21 @@ Oct.Props.Wood.Stairs.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wood.Floor.name=Wooden Floor
 \\
 \\\\
-Oct.Props.Wood.Floor.name=\\untranslated
+Oct.Props.Wood.Floor.name=Дерев'яна підлога
 
 \\\\
 \\
 \\	Oct.Props.Wood.Floor.pluralName=Wooden Floors
 \\
 \\\\
-Oct.Props.Wood.Floor.pluralName=\\untranslated
+Oct.Props.Wood.Floor.pluralName=Дерев'яна підлога
 
 \\\\
 \\
 \\	Oct.Props.Wood.Floor.toolName=Wood
 \\
 \\\\
-Oct.Props.Wood.Floor.toolName=\\untranslated
+Oct.Props.Wood.Floor.toolName=Дерев'яна
 
 \\\\
 \\
@@ -55945,42 +55945,42 @@ Oct.Props.Wood.Floor.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Wood.Rail.name=Wooden Fence
 \\
 \\\\
-Oct.Props.Wood.Rail.name=\\untranslated
+Oct.Props.Wood.Rail.name=Дерев'яний паркан
 
 \\\\
 \\
 \\	Oct.Props.Wood.Rail.pluralName=Wooden Fences
 \\
 \\\\
-Oct.Props.Wood.Rail.pluralName=\\untranslated
+Oct.Props.Wood.Rail.pluralName=Дерев'яний паркан
 
 \\\\
 \\
 \\	Oct.Props.Wood.Rail.toolName=Fence
 \\
 \\\\
-Oct.Props.Wood.Rail.toolName=\\untranslated
+Oct.Props.Wood.Rail.toolName=Паркан
 
 \\\\
 \\
 \\	Oct.Props.Wood.Gate.name=Wooden Gate
 \\
 \\\\
-Oct.Props.Wood.Gate.name=\\untranslated
+Oct.Props.Wood.Gate.name=Дерев'яні ворота
 
 \\\\
 \\
 \\	Oct.Props.Wood.Gate.pluralName=Wooden Gates
 \\
 \\\\
-Oct.Props.Wood.Gate.pluralName=\\untranslated
+Oct.Props.Wood.Gate.pluralName=Дерев'яні ворота
 
 \\\\
 \\
 \\	Oct.Props.Wood.Gate.toolName=Gate
 \\
 \\\\
-Oct.Props.Wood.Gate.toolName=\\untranslated
+Oct.Props.Wood.Gate.toolName=Ворота
 
 \\\\
 \\
@@ -56022,21 +56022,21 @@ Oct.Props.Wood.Rail.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wood.Door.name=Wooden Door
 \\
 \\\\
-Oct.Props.Wood.Door.name=\\untranslated
+Oct.Props.Wood.Door.name=Дерев'яні двері
 
 \\\\
 \\
 \\	Oct.Props.Wood.Door.pluralName=Wooden Doors
 \\
 \\\\
-Oct.Props.Wood.Door.pluralName=\\untranslated
+Oct.Props.Wood.Door.pluralName=Дерев'яні двері
 
 \\\\
 \\
 \\	Oct.Props.Wood.Door.toolName=Wood
 \\
 \\\\
-Oct.Props.Wood.Door.toolName=\\untranslated
+Oct.Props.Wood.Door.toolName=Дерев'яні
 
 \\\\
 \\
@@ -56057,21 +56057,21 @@ Oct.Props.Wood.Door.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wood.Roof.name=Wooden Roof
 \\
 \\\\
-Oct.Props.Wood.Roof.name=\\untranslated
+Oct.Props.Wood.Roof.name=Дерев'яний дах
 
 \\\\
 \\
-\\	Oct.Props.Wood.Roof.pluralName=Wooden Roofs
+\\	Oct.Props.Wood.Roof.pluralName=Дерев'яний дах
 \\
 \\\\
-Oct.Props.Wood.Roof.pluralName=\\untranslated
+Oct.Props.Wood.Roof.pluralName=Дерев'яний дах
 
 \\\\
 \\
 \\	Oct.Props.Wood.Roof.toolName=Wood
 \\
 \\\\
-Oct.Props.Wood.Roof.toolName=\\untranslated
+Oct.Props.Wood.Roof.toolName=Дерев'яний
 
 \\\\
 \\
@@ -56099,21 +56099,21 @@ Oct.Props.Wood.Roof.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Wood.ShortWall.name=Wooden Parapet
 \\
 \\\\
-Oct.Props.Wood.ShortWall.name=\\untranslated
+Oct.Props.Wood.ShortWall.name=Дерев'яний парапет
 
 \\\\
 \\
 \\	Oct.Props.Wood.ShortWall.pluralName=Wooden Parapets
 \\
 \\\\
-Oct.Props.Wood.ShortWall.pluralName=\\untranslated
+Oct.Props.Wood.ShortWall.pluralName=Дерев'яний парапет
 
 \\\\
 \\
 \\	Oct.Props.Wood.ShortWall.toolName=Wood Para
 \\
 \\\\
-Oct.Props.Wood.ShortWall.toolName=\\untranslated
+Oct.Props.Wood.ShortWall.toolName=Дерев пара
 
 \\\\
 \\
@@ -56155,63 +56155,63 @@ Oct.Props.Wood.Stairs.Corner.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wood.Stairs.Corner.Right.name=Right Curved Wooden Stairs
 \\
 \\\\
-Oct.Props.Wood.Stairs.Corner.Right.name=\\untranslated
+Oct.Props.Wood.Stairs.Corner.Right.name=Праві вигнуті дерев'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Wood.Stairs.Corner.Right.pluralName=Curved Wooden Stairs
 \\
 \\\\
-Oct.Props.Wood.Stairs.Corner.Right.pluralName=\\untranslated
+Oct.Props.Wood.Stairs.Corner.Right.pluralName=Вигнуті дерев'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Wood.Stairs.Corner.Right.toolName=Wood Right
 \\
 \\\\
-Oct.Props.Wood.Stairs.Corner.Right.toolName=\\untranslated
+Oct.Props.Wood.Stairs.Corner.Right.toolName=Дерев'яні праві
 
 \\\\
 \\
 \\	Oct.Props.Wood.Stairs.Corner.Left.name=Left Curved Wooden Stairs
 \\
 \\\\
-Oct.Props.Wood.Stairs.Corner.Left.name=\\untranslated
+Oct.Props.Wood.Stairs.Corner.Left.name=Ліві вигнуті дерев'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Wood.Stairs.Corner.Left.pluralName=Curved Wooden Stairs
 \\
 \\\\
-Oct.Props.Wood.Stairs.Corner.Left.pluralName=\\untranslated
+Oct.Props.Wood.Stairs.Corner.Left.pluralName=Вигнуті дерев'яні сходи
 
 \\\\
 \\
 \\	Oct.Props.Wood.Stairs.Corner.Left.toolName=Wood Left
 \\
 \\\\
-Oct.Props.Wood.Stairs.Corner.Left.toolName=\\untranslated
+Oct.Props.Wood.Stairs.Corner.Left.toolName=Дерев'яні ліві
 
 \\\\
 \\
 \\	Oct.Props.Wood.Crib.name=Wooden Crib
 \\
 \\\\
-Oct.Props.Wood.Crib.name=\\untranslated
+Oct.Props.Wood.Crib.name=Дерев'яне ліжечко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Crib.pluralName=Wooden Cribs
 \\
 \\\\
-Oct.Props.Wood.Crib.pluralName=\\untranslated
+Oct.Props.Wood.Crib.pluralName=Дерев'яне ліжечко
 
 \\\\
 \\
 \\	Oct.Props.Wood.Crib.toolName=Wood
 \\
 \\\\
-Oct.Props.Wood.Crib.toolName=\\untranslated
+Oct.Props.Wood.Crib.toolName=Дерев'яне
 
 \\\\
 \\
@@ -56274,21 +56274,21 @@ Oct.Props.Wood.Floor.prefabs.3.name=\\untranslated
 \\	Oct.Props.WoodenChair.name=Wooden Chair
 \\
 \\\\
-Oct.Props.WoodenChair.name=\\untranslated
+Oct.Props.WoodenChair.name=Дерев'яний стілець
 
 \\\\
 \\
 \\	Oct.Props.WoodenChair.pluralName=Wooden Chairs
 \\
 \\\\
-Oct.Props.WoodenChair.pluralName=\\untranslated
+Oct.Props.WoodenChair.pluralName=Дерев'яний стілець
 
 \\\\
 \\
 \\	Oct.Props.WoodenChair.toolName=Chair
 \\
 \\\\
-Oct.Props.WoodenChair.toolName=\\untranslated
+Oct.Props.WoodenChair.toolName=Д стілець
 
 \\\\
 \\
@@ -56337,84 +56337,84 @@ Oct.Props.WoodenShelf.colorSlots.2.name=\\untranslated
 \\	Oct.Props.WoodenShelf.Short.name=Short Wooden Shelf
 \\
 \\\\
-Oct.Props.WoodenShelf.Short.name=\\untranslated
+Oct.Props.WoodenShelf.Short.name=Коротка дерев'яна полиця
 
 \\\\
 \\
 \\	Oct.Props.WoodenShelf.Short.pluralName=Short Wooden Shelves
 \\
 \\\\
-Oct.Props.WoodenShelf.Short.pluralName=\\untranslated
+Oct.Props.WoodenShelf.Short.pluralName=Короткі дерев'яні полиці
 
 \\\\
 \\
 \\	Oct.Props.WoodenShelf.Short.toolName=Short Shelf
 \\
 \\\\
-Oct.Props.WoodenShelf.Short.toolName=\\untranslated
+Oct.Props.WoodenShelf.Short.toolName=Коротка полиця
 
 \\\\
 \\
 \\	Oct.Props.WoodenShelf.Med.name=Medium Wooden Shelf
 \\
 \\\\
-Oct.Props.WoodenShelf.Med.name=\\untranslated
+Oct.Props.WoodenShelf.Med.name=Середня дерев'яна полиця
 
 \\\\
 \\
 \\	Oct.Props.WoodenShelf.Med.pluralName=Medium Wooden Shelves
 \\
 \\\\
-Oct.Props.WoodenShelf.Med.pluralName=\\untranslated
+Oct.Props.WoodenShelf.Med.pluralName=Середні дерев'яні полиці
 
 \\\\
 \\
 \\	Oct.Props.WoodenShelf.Med.toolName=Med Shelf
 \\
 \\\\
-Oct.Props.WoodenShelf.Med.toolName=\\untranslated
+Oct.Props.WoodenShelf.Med.toolName=Середня полиця
 
 \\\\
 \\
 \\	Oct.Props.WoodenShelf.Tall.name=Tall Wooden Shelf
 \\
 \\\\
-Oct.Props.WoodenShelf.Tall.name=\\untranslated
+Oct.Props.WoodenShelf.Tall.name=Висока дерев'яна полиця
 
 \\\\
 \\
 \\	Oct.Props.WoodenShelf.Tall.pluralName=Tall Wooden Shelves
 \\
 \\\\
-Oct.Props.WoodenShelf.Tall.pluralName=\\untranslated
+Oct.Props.WoodenShelf.Tall.pluralName=Високі дерев'яні полиці
 
 \\\\
 \\
 \\	Oct.Props.WoodenShelf.Tall.toolName=Tall Shelf
 \\
 \\\\
-Oct.Props.WoodenShelf.Tall.toolName=\\untranslated
+Oct.Props.WoodenShelf.Tall.toolName=Висока полиця
 
 \\\\
 \\
 \\	Oct.Props.WoodenStool.name=Wooden Stool
 \\
 \\\\
-Oct.Props.WoodenStool.name=\\untranslated
+Oct.Props.WoodenStool.name=Дерев'яний табурет
 
 \\\\
 \\
 \\	Oct.Props.WoodenStool.pluralName=Wooden Stools
 \\
 \\\\
-Oct.Props.WoodenStool.pluralName=\\untranslated
+Oct.Props.WoodenStool.pluralName=Дерев'яний табурет
 
 \\\\
 \\
 \\	Oct.Props.WoodenStool.toolName=Stool
 \\
 \\\\
-Oct.Props.WoodenStool.toolName=\\untranslated
+Oct.Props.WoodenStool.toolName=Табурет
 
 \\\\
 \\
@@ -56449,21 +56449,21 @@ Oct.Props.WoodenStool.prefabs.2.name=\\untranslated
 \\	Oct.Props.WoodenTable.name=Large Wooden Table
 \\
 \\\\
-Oct.Props.WoodenTable.name=\\untranslated
+Oct.Props.WoodenTable.name=Великий дерев'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.WoodenTable.pluralName=Large Wooden Tables
 \\
 \\\\
-Oct.Props.WoodenTable.pluralName=\\untranslated
+Oct.Props.WoodenTable.pluralName=Великі дерев'яні столи
 
 \\\\
 \\
 \\	Oct.Props.WoodenTable.toolName=Large
 \\
 \\\\
-Oct.Props.WoodenTable.toolName=\\untranslated
+Oct.Props.WoodenTable.toolName=Великий
 
 \\\\
 \\
@@ -56498,21 +56498,21 @@ Oct.Props.WoodenTable.prefabs.2.name=\\untranslated
 \\	Oct.Props.WoodenThrone.name=Wooden Throne
 \\
 \\\\
-Oct.Props.WoodenThrone.name=\\untranslated
+Oct.Props.WoodenThrone.name=Дерев'яний трон
 
 \\\\
 \\
 \\	Oct.Props.WoodenThrone.pluralName=Wooden Thrones
 \\
 \\\\
-Oct.Props.WoodenThrone.pluralName=\\untranslated
+Oct.Props.WoodenThrone.pluralName=Дерев'яний трон
 
 \\\\
 \\
 \\	Oct.Props.WoodenThrone.toolName=Throne
 \\
 \\\\
-Oct.Props.WoodenThrone.toolName=\\untranslated
+Oct.Props.WoodenThrone.toolName=Трон
 
 \\\\
 \\
@@ -56634,28 +56634,28 @@ Oct.Research.Building.description=\\untranslated
 \\	Oct.Research.Building.Furniture.Bed.Wooden.name=Wooden Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Wooden.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Wooden.name=Дерев'яні ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Bed.Ramshackle.name=Ramshackle Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Ramshackle.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Ramshackle.name=Вутлі ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Bed.Straw.name=Straw Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Straw.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Straw.name=Солом'яні ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.name=Furniture
 \\
 \\\\
-Oct.Research.Building.Furniture.name=\\untranslated
+Oct.Research.Building.Furniture.name=Меблі
 
 \\\\
 \\
@@ -56669,42 +56669,42 @@ Oct.Research.Building.Furniture.description=\\untranslated
 \\	Oct.Research.Building.Furniture.Bed.Ramshackle.Double.name=Ramshackle Double Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Ramshackle.Double.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Ramshackle.Double.name=Вутлі двомісні ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Bed.Stone.name=Stone Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Stone.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Stone.name=Кам'яні ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Bed.Stone.Double.name=Stone Double Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Stone.Double.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Stone.Double.name=Кам'яні двомісні ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Bed.Double.name=Wooden Double Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Double.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Double.name=Дерев'яні двомісні ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Bed.Wooden.Fancy.name=Fancy Wooden Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Wooden.Fancy.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Wooden.Fancy.name=Гарні дерев'яні ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Bed.Wooden.Fancy.Double.name=Fancy Double Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Wooden.Fancy.Double.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Wooden.Fancy.Double.name=Гарні двомісні ліжка
 
 \\\\
 \\
@@ -56732,14 +56732,14 @@ Oct.Research.Building.StoneCuttingTable.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Bed.Stone.Fine.name=Fine Stone Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Stone.Fine.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Stone.Fine.name=Гарні кам'яні ліжка
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Bed.Stone.Fine.Double.name=Fine Stone Double Beds
 \\
 \\\\
-Oct.Research.Building.Furniture.Bed.Stone.Fine.Double.name=\\untranslated
+Oct.Research.Building.Furniture.Bed.Stone.Fine.Double.name=Гарні двомісні кам'яні ліжка 
 
 \\\\
 \\
@@ -56837,7 +56837,7 @@ Oct.Research.Building.Furniture.Table.Small.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Table.RamshackleTable.name=Ramshackle Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.RamshackleTable.name=\\untranslated
+Oct.Research.Building.Furniture.Table.RamshackleTable.name=Вутлі столи
 
 \\\\
 \\
@@ -56893,70 +56893,70 @@ Oct.Research.Building.Furniture.Table.Modular.Stone.Fine.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Chair.Wood.name=Wooden Chairs
 \\
 \\\\
-Oct.Research.Building.Furniture.Chair.Wood.name=\\untranslated
+Oct.Research.Building.Furniture.Chair.Wood.name=Дерев'яні стільці
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Stool.Wood.name=Wooden Stools
 \\
 \\\\
-Oct.Research.Building.Furniture.Stool.Wood.name=\\untranslated
+Oct.Research.Building.Furniture.Stool.Wood.name=Дерев'яні табурети
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Chair.Stump.name=Stumps
 \\
 \\\\
-Oct.Research.Building.Furniture.Chair.Stump.name=\\untranslated
+Oct.Research.Building.Furniture.Chair.Stump.name=Пеньки
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Throne.Stone.name=Fine Stone Thrones
 \\
 \\\\
-Oct.Research.Building.Furniture.Throne.Stone.name=\\untranslated
+Oct.Research.Building.Furniture.Throne.Stone.name=Гарні кам'яні трони
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Chair.Stone.Fine.name=Fine Stone Chairs
 \\
 \\\\
-Oct.Research.Building.Furniture.Chair.Stone.Fine.name=\\untranslated
+Oct.Research.Building.Furniture.Chair.Stone.Fine.name=Гарні кам'яні стільці
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Chair.Stone.name=Stone Chairs
 \\
 \\\\
-Oct.Research.Building.Furniture.Chair.Stone.name=\\untranslated
+Oct.Research.Building.Furniture.Chair.Stone.name=Кам'яні стільці
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Stool.Stone.name=Stone Stools
 \\
 \\\\
-Oct.Research.Building.Furniture.Stool.Stone.name=\\untranslated
+Oct.Research.Building.Furniture.Stool.Stone.name=Кам'яні табурети
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Throne.Wood.name=Wooden Thrones
 \\
 \\\\
-Oct.Research.Building.Furniture.Throne.Wood.name=\\untranslated
+Oct.Research.Building.Furniture.Throne.Wood.name=Дерев'яні трони
 
 \\\\
 \\
 \\	Oct.Research.Building.Cooking.Stove.name=Stoves
 \\
 \\\\
-Oct.Research.Building.Cooking.Stove.name=\\untranslated
+Oct.Research.Building.Cooking.Stove.name=Печі
 
 \\\\
 \\
 \\	Oct.Research.Building.Floors.Ramshackle.name=Ramshackle Floors
 \\
 \\\\
-Oct.Research.Building.Floors.Ramshackle.name=\\untranslated
+Oct.Research.Building.Floors.Ramshackle.name=Вутлі підлоги
 
 \\\\
 \\
@@ -56977,7 +56977,7 @@ Oct.Research.Building.Structures.description=\\untranslated
 \\	Oct.Research.Building.Walls.Ramshackle.name=Ramshackle Walls
 \\
 \\\\
-Oct.Research.Building.Walls.Ramshackle.name=\\untranslated
+Oct.Research.Building.Walls.Ramshackle.name=Вутлі стіни
 
 \\\\
 \\
@@ -57026,14 +57026,14 @@ Oct.Research.Building.Doorway.DoorLock.tooltip=\\untranslated
 \\	Oct.Research.Building.Doorway.Ramshackle.name=Ramshackle Doors
 \\
 \\\\
-Oct.Research.Building.Doorway.Ramshackle.name=\\untranslated
+Oct.Research.Building.Doorway.Ramshackle.name=Вутлі двері
 
 \\\\
 \\
 \\	Oct.Research.Building.Roofs.Ramshackle.name=Ramshackle Roofs
 \\
 \\\\
-Oct.Research.Building.Roofs.Ramshackle.name=\\untranslated
+Oct.Research.Building.Roofs.Ramshackle.name=Вутлі дахи
 
 \\\\
 \\
@@ -57089,14 +57089,14 @@ Oct.Research.Building.Decoration.WallFlag.name=\\untranslated
 \\	Oct.Research.Building.Decoration.Crate.name=Wooden Crates
 \\
 \\\\
-Oct.Research.Building.Decoration.Crate.name=\\untranslated
+Oct.Research.Building.Decoration.Crate.name=Дерев'яні ящики
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Keg.name=Wooden Kegs
 \\
 \\\\
-Oct.Research.Building.Decoration.Keg.name=\\untranslated
+Oct.Research.Building.Decoration.Keg.name=Дерев'яні діжки
 
 \\\\
 \\
@@ -57110,84 +57110,84 @@ Oct.Research.Building.Lighting.Torches.name=\\untranslated
 \\	Oct.Research.Building.Walls.FineStone.name=Fine Stone Walls
 \\
 \\\\
-Oct.Research.Building.Walls.FineStone.name=\\untranslated
+Oct.Research.Building.Walls.FineStone.name=Гарні кам'яні стіни
 
 \\\\
 \\
 \\	Oct.Research.Building.Walls.Stone.name=Stone Walls
 \\
 \\\\
-Oct.Research.Building.Walls.Stone.name=\\untranslated
+Oct.Research.Building.Walls.Stone.name=Кам'яні стіни
 
 \\\\
 \\
 \\	Oct.Research.Building.Walls.Wood.name=Wooden Walls
 \\
 \\\\
-Oct.Research.Building.Walls.Wood.name=\\untranslated
+Oct.Research.Building.Walls.Wood.name=Дерев'яні стіни
 
 \\\\
 \\
 \\	Oct.Research.Building.Door.FineStone.name=Fine Stone Door
 \\
 \\\\
-Oct.Research.Building.Door.FineStone.name=\\untranslated
+Oct.Research.Building.Door.FineStone.name=Гарні кам'яні двері
 
 \\\\
 \\
 \\	Oct.Research.Building.Doorway.FineStone.name=Fine Stone Doorway
 \\
 \\\\
-Oct.Research.Building.Doorway.FineStone.name=\\untranslated
+Oct.Research.Building.Doorway.FineStone.name=Гарні кам'яні дверні отвіри
 
 \\\\
 \\
 \\	Oct.Research.Building.Doorway.Stone.name=Stone Doorways
 \\
 \\\\
-Oct.Research.Building.Doorway.Stone.name=\\untranslated
+Oct.Research.Building.Doorway.Stone.name=Кам'яні дверні отвори
 
 \\\\
 \\
 \\	Oct.Research.Building.Doorway.Wood.name=Wooden Doorways
 \\
 \\\\
-Oct.Research.Building.Doorway.Wood.name=\\untranslated
+Oct.Research.Building.Doorway.Wood.name=Дерев'яні дверні отвори
 
 \\\\
 \\
 \\	Oct.Research.Building.FineStone.Stairs.Corner.name=Curved Fine Stone Stairs
 \\
 \\\\
-Oct.Research.Building.FineStone.Stairs.Corner.name=\\untranslated
+Oct.Research.Building.FineStone.Stairs.Corner.name=Вигнуті гарні кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Research.Building.FineStone.Stairs.name=Fine Stone Stairs
 \\
 \\\\
-Oct.Research.Building.FineStone.Stairs.name=\\untranslated
+Oct.Research.Building.FineStone.Stairs.name=Гарні кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Research.Building.Stairs.Stone.name=Stone Stairs
 \\
 \\\\
-Oct.Research.Building.Stairs.Stone.name=\\untranslated
+Oct.Research.Building.Stairs.Stone.name=Кам'яні сходи
 
 \\\\
 \\
 \\	Oct.Research.Building.Stairs.Wood.name=Wooden Stairs
 \\
 \\\\
-Oct.Research.Building.Stairs.Wood.name=\\untranslated
+Oct.Research.Building.Stairs.Wood.name=Дерев'яні сходи
 
 \\\\
 \\
 \\	Oct.Research.Building.Ramp.Ramshackle.name=Ramshackle Ramps
 \\
 \\\\
-Oct.Research.Building.Ramp.Ramshackle.name=\\untranslated
+Oct.Research.Building.Ramp.Ramshackle.name=Вутлі пандуси
 
 \\\\
 \\
@@ -57201,14 +57201,14 @@ Oct.Research.Building.Floors.FineStone.name=\\untranslated
 \\	Oct.Research.Building.Floors.Stone.name=Stone Floors
 \\
 \\\\
-Oct.Research.Building.Floors.Stone.name=\\untranslated
+Oct.Research.Building.Floors.Stone.name=Кам'яні підлоги
 
 \\\\
 \\
 \\	Oct.Research.Building.Floors.Wood.name=Wooden Floors
 \\
 \\\\
-Oct.Research.Building.Floors.Wood.name=\\untranslated
+Oct.Research.Building.Floors.Wood.name=Дерев'яні підлоги
 
 \\\\
 \\
@@ -57243,7 +57243,7 @@ Oct.Research.Building.Lighting.Sconce.Bronze.name=\\untranslated
 \\	Oct.Research.Building.ShortWalls.FineStone.name=Fine Stone Parapets
 \\
 \\\\
-Oct.Research.Building.ShortWalls.FineStone.name=\\untranslated
+Oct.Research.Building.ShortWalls.FineStone.name=Гарні кам'яні парапети
 
 \\\\
 \\
@@ -57271,14 +57271,14 @@ Oct.Research.Building.Gates.name=\\untranslated
 \\	Oct.Research.Building.WallPost.FineStone.ColumnTopper.Basic.name=Fine Stone Column Toppers
 \\
 \\\\
-Oct.Research.Building.WallPost.FineStone.ColumnTopper.Basic.name=\\untranslated
+Oct.Research.Building.WallPost.FineStone.ColumnTopper.Basic.name=Гарна кам'яна колона топер
 
 \\\\
 \\
 \\	Oct.Research.Building.WallPost.FineStone.name=Fine Stone Columns
 \\
 \\\\
-Oct.Research.Building.WallPost.FineStone.name=\\untranslated
+Oct.Research.Building.WallPost.FineStone.name=Гарна кам'яна колона
 
 \\\\
 \\
@@ -57313,49 +57313,49 @@ Oct.Research.Building.Decoration.Wall.Vines.name=\\untranslated
 \\	Oct.Research.Building.Roofs.Straw.name=Straw Roofs
 \\
 \\\\
-Oct.Research.Building.Roofs.Straw.name=\\untranslated
+Oct.Research.Building.Roofs.Straw.name=Солом'яні дахи
 
 \\\\
 \\
 \\	Oct.Research.Building.Door.Wood.name=Wooden Doors
 \\
 \\\\
-Oct.Research.Building.Door.Wood.name=\\untranslated
+Oct.Research.Building.Door.Wood.name=Дерев'яні двері
 
 \\\\
 \\
 \\	Oct.Research.Building.Roofs.Wood.name=Wooden Roofs
 \\
 \\\\
-Oct.Research.Building.Roofs.Wood.name=\\untranslated
+Oct.Research.Building.Roofs.Wood.name=Дерев'яні дахи
 
 \\\\
 \\
 \\	Oct.Research.Building.Door.Stone.name=Stone Doors
 \\
 \\\\
-Oct.Research.Building.Door.Stone.name=\\untranslated
+Oct.Research.Building.Door.Stone.name=Кам'яні двері
 
 \\\\
 \\
 \\	Oct.Research.Building.Floors.FineWood.name=Fine Wooden Floors
 \\
 \\\\
-Oct.Research.Building.Floors.FineWood.name=\\untranslated
+Oct.Research.Building.Floors.FineWood.name=Гарні дерев'яні підлоги
 
 \\\\
 \\
 \\	Oct.Research.Building.Walls.FineWood.name=Fine Wooden Walls
 \\
 \\\\
-Oct.Research.Building.Walls.FineWood.name=\\untranslated
+Oct.Research.Building.Walls.FineWood.name=Гарні дерев'яні стіни
 
 \\\\
 \\
 \\	Oct.Research.Building.Roofs.FineStone.name=Fine Stone Roofs
 \\
 \\\\
-Oct.Research.Building.Roofs.FineStone.name=\\untranslated
+Oct.Research.Building.Roofs.FineStone.name=Гарні кам'яні дахи
 
 \\\\
 \\
@@ -57425,7 +57425,7 @@ Oct.Research.Building.Decoration.Scrolls.name=\\untranslated
 \\	Oct.Research.Building.Stairs.Stone.Corner.name=Curved Stone Stairs
 \\
 \\\\
-Oct.Research.Building.Stairs.Stone.Corner.name=\\untranslated
+Oct.Research.Building.Stairs.Stone.Corner.name=Вигнуті кам'яні сходи
 
 \\\\
 \\
@@ -57495,7 +57495,7 @@ Oct.Research.Building.Temperature.description=\\untranslated
 \\	Oct.Research.Building.Stairs.Wood.Corner.name=Curved Wooden Stairs
 \\
 \\\\
-Oct.Research.Building.Stairs.Wood.Corner.name=\\untranslated
+Oct.Research.Building.Stairs.Wood.Corner.name=Вигнуті дерев'яні сходи
 
 \\\\
 \\
@@ -57642,7 +57642,7 @@ Oct.Research.Building.Decoration.Trophies.Boar.name=\\untranslated
 \\	Oct.Research.Building.Decoration.Bookshelf.name=Wooden Bookshelves
 \\
 \\\\
-Oct.Research.Building.Decoration.Bookshelf.name=\\untranslated
+Oct.Research.Building.Decoration.Bookshelf.name=Дерев'яні книжкові полиці
 
 \\\\
 \\
@@ -57677,7 +57677,7 @@ Oct.Research.Building.Tactical.Catapult.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Crib.Wooden.name=Wooden Cribs
 \\
 \\\\
-Oct.Research.Building.Furniture.Crib.Wooden.name=\\untranslated
+Oct.Research.Building.Furniture.Crib.Wooden.name=Дерев'яні дитячі ліжка
 
 \\\\
 \\
@@ -57740,7 +57740,7 @@ Oct.Research.Building.Furniture.Usable.MessengerPerches.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Crib.Ramshackle.name=Ramshackle Cribs
 \\
 \\\\
-Oct.Research.Building.Furniture.Crib.Ramshackle.name=\\untranslated
+Oct.Research.Building.Furniture.Crib.Ramshackle.name=Вутлі дитячі ліжечка
 
 \\\\
 \\
@@ -57810,42 +57810,42 @@ Oct.Research.Building.Decoration.Skulls.Gold.name=\\untranslated
 \\	Oct.Research.Building.Temperature.Vent.Roof.Ramshackle.name=Ramshackle Roof Vents
 \\
 \\\\
-Oct.Research.Building.Temperature.Vent.Roof.Ramshackle.name=\\untranslated
+Oct.Research.Building.Temperature.Vent.Roof.Ramshackle.name=Вутлі дахові вент. отвори
 
 \\\\
 \\
 \\	Oct.Research.Building.Temperature.Vent.Roof.Wooden.name=Wooden Roof Vents
 \\
 \\\\
-Oct.Research.Building.Temperature.Vent.Roof.Wooden.name=\\untranslated
+Oct.Research.Building.Temperature.Vent.Roof.Wooden.name=Дерев'яні дахові вент. отвори
 
 \\\\
 \\
 \\	Oct.Research.Building.Temperature.Vent.Wall.Ramshackle.name=Ramshackle Wall Vents
 \\
 \\\\
-Oct.Research.Building.Temperature.Vent.Wall.Ramshackle.name=\\untranslated
+Oct.Research.Building.Temperature.Vent.Wall.Ramshackle.name=Вутлі стінні вент. отвори
 
 \\\\
 \\
 \\	Oct.Research.Building.Temperature.Vent.Wall.Wooden.name=Wooden Wall Vents
 \\
 \\\\
-Oct.Research.Building.Temperature.Vent.Wall.Wooden.name=\\untranslated
+Oct.Research.Building.Temperature.Vent.Wall.Wooden.name=Дерев'яні стінні вент. отвори
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Crib.Stone.name=Stone Cribs
 \\
 \\\\
-Oct.Research.Building.Furniture.Crib.Stone.name=\\untranslated
+Oct.Research.Building.Furniture.Crib.Stone.name=Кам'яні ліжечка
 
 \\\\
 \\
 \\	Oct.Research.Building.Arches.FineStone.name=Fine Stone Arches
 \\
 \\\\
-Oct.Research.Building.Arches.FineStone.name=\\untranslated
+Oct.Research.Building.Arches.FineStone.name=Гарні кам'яні підпори
 
 \\\\
 \\
@@ -57859,28 +57859,28 @@ Oct.Research.Building.Attached.FineStone.Spire.name=\\untranslated
 \\	Oct.Research.Building.WallPost.FineStone.Spire.name=Fine Stone Column Spires
 \\
 \\\\
-Oct.Research.Building.WallPost.FineStone.Spire.name=\\untranslated
+Oct.Research.Building.WallPost.FineStone.Spire.name=Гарні кам'яні шпилі колони
 
 \\\\
 \\
 \\	Oct.Research.Building.WallPost.FineStone.ColumnTopper.Advanced.name=Advanced Fine Stone Column Toppers
 \\
 \\\\
-Oct.Research.Building.WallPost.FineStone.ColumnTopper.Advanced.name=\\untranslated
+Oct.Research.Building.WallPost.FineStone.ColumnTopper.Advanced.name=Удосконалені колони з тонкого каменю топери
 
 \\\\
 \\
 \\	Oct.Research.Building.ShortWalls.FineStone.Decorated.name=Fine Stone Decorated Parapets
 \\
 \\\\
-Oct.Research.Building.ShortWalls.FineStone.Decorated.name=\\untranslated
+Oct.Research.Building.ShortWalls.FineStone.Decorated.name=Гарні кам'яні прикрашені парапети
 
 \\\\
 \\
 \\	Oct.Research.Building.Portcullis.Steel.name=Steel Portcullis
 \\
 \\\\
-Oct.Research.Building.Portcullis.Steel.name=\\untranslated
+Oct.Research.Building.Portcullis.Steel.name=Сталеві порткуліси
 
 \\\\
 \\
@@ -57894,7 +57894,7 @@ Oct.Research.Building.Decoration.Drapes.Fur.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Crib.Stone.Fine.name=Fine Stone Cribs
 \\
 \\\\
-Oct.Research.Building.Furniture.Crib.Stone.Fine.name=\\untranslated
+Oct.Research.Building.Furniture.Crib.Stone.Fine.name=Гарні кам'яні ліжечка
 
 \\\\
 \\
@@ -57943,7 +57943,7 @@ Oct.Research.Building.Temperature.Hearth.FineStone.name=\\untranslated
 \\	Oct.Research.Building.Temperature.Chimney.FineStone.name=Fine Stone Chimneys
 \\
 \\\\
-Oct.Research.Building.Temperature.Chimney.FineStone.name=\\untranslated
+Oct.Research.Building.Temperature.Chimney.FineStone.name=Гарні кам'яні димарі
 
 \\\\
 \\
