@@ -14135,7 +14135,7 @@ Oct.Code.Common.Details=\\untranslated
 \\	Oct.Code.Common.Dig=Dig
 \\
 \\\\
-Oct.Code.Common.Dig=\\untranslated
+Oct.Code.Common.Dig=Копати
 
 \\\\
 \\
@@ -23929,14 +23929,14 @@ Oct.Code.Tools.Food=Їжа
 \\	Oct.Code.Tools.Stockpiles.Add=Add
 \\
 \\\\
-Oct.Code.Tools.Stockpiles.Add=\\untranslated
+Oct.Code.Tools.Stockpiles.Add=Додати
 
 \\\\
 \\
 \\	Oct.Code.Tools.Stockpiles.Remove=Remove
 \\
 \\\\
-Oct.Code.Tools.Stockpiles.Remove=\\untranslated
+Oct.Code.Tools.Stockpiles.Remove=Видалити
 
 \\\\
 \\
@@ -23978,21 +23978,21 @@ Oct.Code.Tools.Petitions=Петиції
 \\	Oct.Code.Tools.Zone.Add=Add
 \\
 \\\\
-Oct.Code.Tools.Zone.Add=\\untranslated
+Oct.Code.Tools.Zone.Add=Додати
 
 \\\\
 \\
 \\	Oct.Code.Tools.Zone.Remove=Remove
 \\
 \\\\
-Oct.Code.Tools.Zone.Remove=\\untranslated
+Oct.Code.Tools.Zone.Remove=Видалити
 
 \\\\
 \\
 \\	Oct.Code.Tools.Bulk.Multiple.Controls=HOLD [L Mouse] + Drag: Multiple
 \\
 \\\\
-Oct.Code.Tools.Bulk.Multiple.Controls=\\untranslated
+Oct.Code.Tools.Bulk.Multiple.Controls=УТРИМАЙТЕ [Л кн. миші] + Потягніть: Кілька
 
 \\\\
 \\
@@ -24615,21 +24615,21 @@ Oct.Code.Zones.FireFighting=\\untranslated
 \\	Oct.Code.Zones.Common.Add=Add
 \\
 \\\\
-Oct.Code.Zones.Common.Add=\\untranslated
+Oct.Code.Zones.Common.Add=Додати
 
 \\\\
 \\
 \\	Oct.Code.Zones.Common.Remove=Remove
 \\
 \\\\
-Oct.Code.Zones.Common.Remove=\\untranslated
+Oct.Code.Zones.Common.Remove=Видалити
 
 \\\\
 \\
 \\	Oct.Code.Zones.Common.Destroy=Destroy
 \\
 \\\\
-Oct.Code.Zones.Common.Destroy=\\untranslated
+Oct.Code.Zones.Common.Destroy=Знищити
 
 \\\\
 \\
@@ -44593,21 +44593,21 @@ Oct.Props.BanditCage.prefabs.2.name=\\untranslated
 \\	Oct.Props.BanditSkullCandleDetail.name=Skull Candle
 \\
 \\\\
-Oct.Props.BanditSkullCandleDetail.name=\\untranslated
+Oct.Props.BanditSkullCandleDetail.name=Черепна свічка
 
 \\\\
 \\
 \\	Oct.Props.BanditSkullCandleDetail.pluralName=Skull Candles
 \\
 \\\\
-Oct.Props.BanditSkullCandleDetail.pluralName=\\untranslated
+Oct.Props.BanditSkullCandleDetail.pluralName=Черепна свічка
 
 \\\\
 \\
 \\	Oct.Props.BanditSkullCandleDetail.toolName=Skull Cndl
 \\
 \\\\
-Oct.Props.BanditSkullCandleDetail.toolName=\\untranslated
+Oct.Props.BanditSkullCandleDetail.toolName=Череп свічка
 
 \\\\
 \\
@@ -44628,28 +44628,28 @@ Oct.Props.BanditSkullCandleDetail.colorSlots.2.name=\\untranslated
 \\	Oct.Props.BanditSkullLightDetail.name=Skull Lantern
 \\
 \\\\
-Oct.Props.BanditSkullLightDetail.name=\\untranslated
+Oct.Props.BanditSkullLightDetail.name=Черепний ліхтар
 
 \\\\
 \\
 \\	Oct.Props.BanditSkullLightDetail.pluralName=Skull Lanterns
 \\
 \\\\
-Oct.Props.BanditSkullLightDetail.pluralName=\\untranslated
+Oct.Props.BanditSkullLightDetail.pluralName=Черепний ліхтар
 
 \\\\
 \\
 \\	Oct.Props.BanditSkullLightDetail.toolName=Skull Lntrn
 \\
 \\\\
-Oct.Props.BanditSkullLightDetail.toolName=\\untranslated
+Oct.Props.BanditSkullLightDetail.toolName=Череп ліхтар
 
 \\\\
 \\
 \\	Oct.Props.BanditSkullLightDetail.colorSlots.1.name=Skull
 \\
 \\\\
-Oct.Props.BanditSkullLightDetail.colorSlots.1.name=\\untranslated
+Oct.Props.BanditSkullLightDetail.colorSlots.1.name=Череп
 
 \\\\
 \\
@@ -45972,42 +45972,42 @@ Oct.Props.Bookshelf.prefabs.2.name=\\untranslated
 \\	Oct.Props.Brazier.Silver.name=Silver Brazier
 \\
 \\\\
-Oct.Props.Brazier.Silver.name=\\untranslated
+Oct.Props.Brazier.Silver.name=Срібний кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Silver.pluralName=Silver Braziers
 \\
 \\\\
-Oct.Props.Brazier.Silver.pluralName=\\untranslated
+Oct.Props.Brazier.Silver.pluralName=Срібний кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Silver.toolName=Slvr Brazier
 \\
 \\\\
-Oct.Props.Brazier.Silver.toolName=\\untranslated
+Oct.Props.Brazier.Silver.toolName=Сріб кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Bronze.name=Bronze Brazier
 \\
 \\\\
-Oct.Props.Brazier.Bronze.name=\\untranslated
+Oct.Props.Brazier.Bronze.name=Бронзовий кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Bronze.pluralName=Bronze Braziers
 \\
 \\\\
-Oct.Props.Brazier.Bronze.pluralName=\\untranslated
+Oct.Props.Brazier.Bronze.pluralName=Бронзовий кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Bronze.toolName=Brz Brazier
 \\
 \\\\
-Oct.Props.Brazier.Bronze.toolName=\\untranslated
+Oct.Props.Brazier.Bronze.toolName=Брон кітляр
 
 \\\\
 \\
@@ -46021,21 +46021,21 @@ Oct.Props.Brazier.Bronze.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Brazier.Iron.name=Iron Brazier
 \\
 \\\\
-Oct.Props.Brazier.Iron.name=\\untranslated
+Oct.Props.Brazier.Iron.name=Залізний кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Iron.pluralName=Iron Braziers
 \\
 \\\\
-Oct.Props.Brazier.Iron.pluralName=\\untranslated
+Oct.Props.Brazier.Iron.pluralName=Залізний кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Iron.toolName=Irn Brazier
 \\
 \\\\
-Oct.Props.Brazier.Iron.toolName=\\untranslated
+Oct.Props.Brazier.Iron.toolName=Зал кітляр
 
 \\\\
 \\
@@ -46056,21 +46056,21 @@ Oct.Props.Brazier.Silver.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Brazier.Gold.name=Gold Brazier
 \\
 \\\\
-Oct.Props.Brazier.Gold.name=\\untranslated
+Oct.Props.Brazier.Gold.name=Золотий кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Gold.pluralName=Gold Braziers
 \\
 \\\\
-Oct.Props.Brazier.Gold.pluralName=\\untranslated
+Oct.Props.Brazier.Gold.pluralName=Золотий кітляр
 
 \\\\
 \\
 \\	Oct.Props.Brazier.Gold.toolName=Gld Brazier
 \\
 \\\\
-Oct.Props.Brazier.Gold.toolName=\\untranslated
+Oct.Props.Brazier.Gold.toolName=Зол кітляр
 
 \\\\
 \\
@@ -46182,21 +46182,21 @@ Oct.Props.Bushes.Heart.colorSlots.2.name=\\untranslated
 \\	Oct.Props.ButcherTable.name=Butcher Table
 \\
 \\\\
-Oct.Props.ButcherTable.name=\\untranslated
+Oct.Props.ButcherTable.name=Стіл м'ясника
 
 \\\\
 \\
 \\	Oct.Props.ButcherTable.pluralName=Butcher Tables
 \\
 \\\\
-Oct.Props.ButcherTable.pluralName=\\untranslated
+Oct.Props.ButcherTable.pluralName=Стіл м'ясника
 
 \\\\
 \\
 \\	Oct.Props.ButcherTable.toolName=Butcher
 \\
 \\\\
-Oct.Props.ButcherTable.toolName=\\untranslated
+Oct.Props.ButcherTable.toolName=М'ясник
 
 \\\\
 \\
@@ -46238,21 +46238,21 @@ Oct.Props.Candelabra.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Candelabra.Bronze.name=Bronze Candelabra
 \\
 \\\\
-Oct.Props.Candelabra.Bronze.name=\\untranslated
+Oct.Props.Candelabra.Bronze.name=Бронзовий свічник
 
 \\\\
 \\
 \\	Oct.Props.Candelabra.Bronze.pluralName=Bronze Candelabras
 \\
 \\\\
-Oct.Props.Candelabra.Bronze.pluralName=\\untranslated
+Oct.Props.Candelabra.Bronze.pluralName=Бронзовий свічник
 
 \\\\
 \\
 \\	Oct.Props.Candelabra.Bronze.toolName=Brz Cndlbra
 \\
 \\\\
-Oct.Props.Candelabra.Bronze.toolName=\\untranslated
+Oct.Props.Candelabra.Bronze.toolName=Брон свічник
 
 \\\\
 \\
@@ -46266,21 +46266,21 @@ Oct.Props.Candelabra.Bronze.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Candelabra.Iron.name=Iron Candelabra
 \\
 \\\\
-Oct.Props.Candelabra.Iron.name=\\untranslated
+Oct.Props.Candelabra.Iron.name=Залізний свічник
 
 \\\\
 \\
 \\	Oct.Props.Candelabra.Iron.pluralName=Iron Candelabras
 \\
 \\\\
-Oct.Props.Candelabra.Iron.pluralName=\\untranslated
+Oct.Props.Candelabra.Iron.pluralName=Залізний свічник
 
 \\\\
 \\
 \\	Oct.Props.Candelabra.Iron.toolName=Irn Cndlbra
 \\
 \\\\
-Oct.Props.Candelabra.Iron.toolName=\\untranslated
+Oct.Props.Candelabra.Iron.toolName=Заліз свічник
 
 \\\\
 \\
@@ -46294,21 +46294,21 @@ Oct.Props.Candelabra.Iron.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Candelabra.Silver.name=Silver Candelabra
 \\
 \\\\
-Oct.Props.Candelabra.Silver.name=\\untranslated
+Oct.Props.Candelabra.Silver.name=Срібний свічник
 
 \\\\
 \\
 \\	Oct.Props.Candelabra.Silver.pluralName=Silver Candelabras
 \\
 \\\\
-Oct.Props.Candelabra.Silver.pluralName=\\untranslated
+Oct.Props.Candelabra.Silver.pluralName=Срібний свічник
 
 \\\\
 \\
 \\	Oct.Props.Candelabra.Silver.toolName=Slvr Cndlbra
 \\
 \\\\
-Oct.Props.Candelabra.Silver.toolName=\\untranslated
+Oct.Props.Candelabra.Silver.toolName=Сріб свічник
 
 \\\\
 \\
@@ -46322,21 +46322,21 @@ Oct.Props.Candelabra.Silver.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Candelabra.Gold.name=Gold Candelabra
 \\
 \\\\
-Oct.Props.Candelabra.Gold.name=\\untranslated
+Oct.Props.Candelabra.Gold.name=Золотий свічник
 
 \\\\
 \\
 \\	Oct.Props.Candelabra.Gold.pluralName=Gold Candelabras
 \\
 \\\\
-Oct.Props.Candelabra.Gold.pluralName=\\untranslated
+Oct.Props.Candelabra.Gold.pluralName=Золотий свічник
 
 \\\\
 \\
 \\	Oct.Props.Candelabra.Gold.toolName=Gold Cndlbra
 \\
 \\\\
-Oct.Props.Candelabra.Gold.toolName=\\untranslated
+Oct.Props.Candelabra.Gold.toolName=Зол свічник
 
 \\\\
 \\
@@ -46350,21 +46350,21 @@ Oct.Props.Candelabra.Gold.colorSlots.1.name=\\untranslated
 \\	Oct.Props.CandleDetail.name=Candle Holder
 \\
 \\\\
-Oct.Props.CandleDetail.name=\\untranslated
+Oct.Props.CandleDetail.name=Підсвічник
 
 \\\\
 \\
 \\	Oct.Props.CandleDetail.pluralName=Candle Holders
 \\
 \\\\
-Oct.Props.CandleDetail.pluralName=\\untranslated
+Oct.Props.CandleDetail.pluralName=Підсвічник
 
 \\\\
 \\
 \\	Oct.Props.CandleDetail.toolName=Candle Hldr
 \\
 \\\\
-Oct.Props.CandleDetail.toolName=\\untranslated
+Oct.Props.CandleDetail.toolName=Підсвічник
 
 \\\\
 \\
@@ -46476,28 +46476,28 @@ Oct.Props.Carpet.4CornerPrefab.name=\\untranslated
 \\	Oct.Props.Catapult.name=Catapult
 \\
 \\\\
-Oct.Props.Catapult.name=\\untranslated
+Oct.Props.Catapult.name=Катапульта
 
 \\\\
 \\
 \\	Oct.Props.Catapult.pluralName=Catapult
 \\
 \\\\
-Oct.Props.Catapult.pluralName=\\untranslated
+Oct.Props.Catapult.pluralName=Катапульта
 
 \\\\
 \\
 \\	Oct.Props.Catapult.toolName=Catapult
 \\
 \\\\
-Oct.Props.Catapult.toolName=\\untranslated
+Oct.Props.Catapult.toolName=Катапульта
 
 \\\\
 \\
 \\	Oct.Props.Catapult.description=Large fireable structure.
 \\
 \\\\
-Oct.Props.Catapult.description=\\untranslated
+Oct.Props.Catapult.description=Велика пожежонебезпечна конструкція.
 
 \\\\
 \\
@@ -47365,14 +47365,14 @@ Oct.Props.Categories.Training.BookSets.Tier4.toolName=\\untranslated
 \\	Oct.Props.Categories.Terrain.name=Terraform
 \\
 \\\\
-Oct.Props.Categories.Terrain.name=\\untranslated
+Oct.Props.Categories.Terrain.name=Тераформація
 
 \\\\
 \\
 \\	Oct.Props.Categories.Terrain.toolName=Terraform
 \\
 \\\\
-Oct.Props.Categories.Terrain.toolName=\\untranslated
+Oct.Props.Categories.Terrain.toolName=Тераформація
 
 \\\\
 \\
@@ -47680,21 +47680,21 @@ Oct.Props.Chest.Fancy.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Cheval.name=Cheval
 \\
 \\\\
-Oct.Props.Cheval.name=\\untranslated
+Oct.Props.Cheval.name=Їжак
 
 \\\\
 \\
 \\	Oct.Props.Cheval.pluralName=Chevals
 \\
 \\\\
-Oct.Props.Cheval.pluralName=\\untranslated
+Oct.Props.Cheval.pluralName=Їжак
 
 \\\\
 \\
 \\	Oct.Props.Cheval.toolName=Cheval
 \\
 \\\\
-Oct.Props.Cheval.toolName=\\untranslated
+Oct.Props.Cheval.toolName=Їжак
 
 \\\\
 \\
@@ -47925,21 +47925,21 @@ Oct.Props.Cooler.Clay.Advanced.colorSlots.3.name=\\untranslated
 \\	Oct.Props.CraftingTable.name=Crafting Table
 \\
 \\\\
-Oct.Props.CraftingTable.name=\\untranslated
+Oct.Props.CraftingTable.name=Стіл крафта
 
 \\\\
 \\
 \\	Oct.Props.CraftingTable.pluralName=Crafting Tables
 \\
 \\\\
-Oct.Props.CraftingTable.pluralName=\\untranslated
+Oct.Props.CraftingTable.pluralName=Стіл крафта
 
 \\\\
 \\
 \\	Oct.Props.CraftingTable.toolName=Crafting
 \\
 \\\\
-Oct.Props.CraftingTable.toolName=\\untranslated
+Oct.Props.CraftingTable.toolName=Крафт
 
 \\\\
 \\
@@ -48884,21 +48884,21 @@ Oct.Props.Drapes.Fur.colorSlots.3.name=\\untranslated
 \\	Oct.Props.DynamicTable.Basic.name=Modular Wooden Table
 \\
 \\\\
-Oct.Props.DynamicTable.Basic.name=\\untranslated
+Oct.Props.DynamicTable.Basic.name=Модульний дерев'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.DynamicTable.Basic.pluralName=Modular Wooden Tables
 \\
 \\\\
-Oct.Props.DynamicTable.Basic.pluralName=\\untranslated
+Oct.Props.DynamicTable.Basic.pluralName=Модульний дерев'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.DynamicTable.Basic.toolName=Modular
 \\
 \\\\
-Oct.Props.DynamicTable.Basic.toolName=\\untranslated
+Oct.Props.DynamicTable.Basic.toolName=Модульний
 
 \\\\
 \\
@@ -49024,21 +49024,21 @@ Oct.Props.DynamicTable.Basic.colorSlots.2.name=\\untranslated
 \\	Oct.Props.DynamicTable.Stone.Fine.name=Modular Fine Stone Table
 \\
 \\\\
-Oct.Props.DynamicTable.Stone.Fine.name=\\untranslated
+Oct.Props.DynamicTable.Stone.Fine.name=Модульний стіл з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.DynamicTable.Stone.Fine.pluralName=Modular Fine Stone Tables
 \\
 \\\\
-Oct.Props.DynamicTable.Stone.Fine.pluralName=\\untranslated
+Oct.Props.DynamicTable.Stone.Fine.pluralName=Модульний стіл з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.DynamicTable.Stone.Fine.toolName=Modular Fn Stn
 \\
 \\\\
-Oct.Props.DynamicTable.Stone.Fine.toolName=\\untranslated
+Oct.Props.DynamicTable.Stone.Fine.toolName=Модул тон кам
 
 \\\\
 \\
@@ -49605,42 +49605,42 @@ Oct.Props.FlowerVase.colorSlots.7.name=\\untranslated
 \\	Oct.Props.Forge.name=Forge
 \\
 \\\\
-Oct.Props.Forge.name=\\untranslated
+Oct.Props.Forge.name=Кузня
 
 \\\\
 \\
 \\	Oct.Props.Forge.pluralName=Forges
 \\
 \\\\
-Oct.Props.Forge.pluralName=\\untranslated
+Oct.Props.Forge.pluralName=Кузня
 
 \\\\
 \\
 \\	Oct.Props.Forge.toolName=Forge
 \\
 \\\\
-Oct.Props.Forge.toolName=\\untranslated
+Oct.Props.Forge.toolName=Кузня
 
 \\\\
 \\
 \\	Oct.Props.Foundry.name=Foundry
 \\
 \\\\
-Oct.Props.Foundry.name=\\untranslated
+Oct.Props.Foundry.name=Ливарня
 
 \\\\
 \\
 \\	Oct.Props.Foundry.pluralName=Foundries
 \\
 \\\\
-Oct.Props.Foundry.pluralName=\\untranslated
+Oct.Props.Foundry.pluralName=Ливарня
 
 \\\\
 \\
 \\	Oct.Props.Foundry.toolName=Foundry
 \\
 \\\\
-Oct.Props.Foundry.toolName=\\untranslated
+Oct.Props.Foundry.toolName=Ливарня
 
 \\\\
 \\
@@ -49766,21 +49766,21 @@ Oct.Props.GiftSingle.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Grave.Basic.name=Basic Grave
 \\
 \\\\
-Oct.Props.Grave.Basic.name=\\untranslated
+Oct.Props.Grave.Basic.name=Базова могила
 
 \\\\
 \\
 \\	Oct.Props.Grave.Basic.pluralName=Basic Graves
 \\
 \\\\
-Oct.Props.Grave.Basic.pluralName=\\untranslated
+Oct.Props.Grave.Basic.pluralName=Базова могила
 
 \\\\
 \\
 \\	Oct.Props.Grave.Basic.toolName=Basic
 \\
 \\\\
-Oct.Props.Grave.Basic.toolName=\\untranslated
+Oct.Props.Grave.Basic.toolName=Базова
 
 \\\\
 \\
@@ -49962,28 +49962,28 @@ Oct.Props.Keg.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Lectern.name=Lectern
 \\
 \\\\
-Oct.Props.Lectern.name=\\untranslated
+Oct.Props.Lectern.name=Пюпітр
 
 \\\\
 \\
 \\	Oct.Props.Lectern.pluralName=Lecterns
 \\
 \\\\
-Oct.Props.Lectern.pluralName=\\untranslated
+Oct.Props.Lectern.pluralName=Пюпітр
 
 \\\\
 \\
 \\	Oct.Props.Lectern.toolName=Lectern
 \\
 \\\\
-Oct.Props.Lectern.toolName=\\untranslated
+Oct.Props.Lectern.toolName=Пюпітр
 
 \\\\
 \\
 \\	Oct.Props.Lectern.description=Author Book Sets that can be Studied as part of Training. Authoring requires the appropriate Skill Lvl.
 \\
 \\\\
-Oct.Props.Lectern.description=\\untranslated
+Oct.Props.Lectern.description=Комплекти авторських книг, які можна вивчати в рамках навчання. Авторська робота вимагає відповідного рівня навичок.
 
 \\\\
 \\
@@ -50004,28 +50004,28 @@ Oct.Props.Lectern.colorSlots.2.name=\\untranslated
 \\	Oct.Props.NewCandleDetail.name=Candle
 \\
 \\\\
-Oct.Props.NewCandleDetail.name=\\untranslated
+Oct.Props.NewCandleDetail.name=Свічка
 
 \\\\
 \\
 \\	Oct.Props.NewCandleDetail.pluralName=Candles
 \\
 \\\\
-Oct.Props.NewCandleDetail.pluralName=\\untranslated
+Oct.Props.NewCandleDetail.pluralName=Свічка
 
 \\\\
 \\
 \\	Oct.Props.NewCandleDetail.toolName=Candle
 \\
 \\\\
-Oct.Props.NewCandleDetail.toolName=\\untranslated
+Oct.Props.NewCandleDetail.toolName=Свічка
 
 \\\\
 \\
 \\	Oct.Props.NewCandleDetail.colorSlots.1.name=Candle
 \\
 \\\\
-Oct.Props.NewCandleDetail.colorSlots.1.name=\\untranslated
+Oct.Props.NewCandleDetail.colorSlots.1.name=Свічка
 
 \\\\
 \\
@@ -51327,21 +51327,21 @@ Oct.Props.ShortWall.FineStone.Parapet.Decorated.colorSlots.1.name=\\untranslated
 \\	Oct.Props.SmallWoodenTable.name=Small Wooden Table
 \\
 \\\\
-Oct.Props.SmallWoodenTable.name=\\untranslated
+Oct.Props.SmallWoodenTable.name=Малий дерев'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.SmallWoodenTable.pluralName=Small Wooden Tables
 \\
 \\\\
-Oct.Props.SmallWoodenTable.pluralName=\\untranslated
+Oct.Props.SmallWoodenTable.pluralName=Малий дерев'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.SmallWoodenTable.toolName=Small
 \\
 \\\\
-Oct.Props.SmallWoodenTable.toolName=\\untranslated
+Oct.Props.SmallWoodenTable.toolName=Малий
 
 \\\\
 \\
@@ -51411,21 +51411,21 @@ Oct.Props.StandingFlag.colorSlots.4.name=\\untranslated
 \\	Oct.Props.StandingSkullLight.name=Standing Skull Light
 \\
 \\\\
-Oct.Props.StandingSkullLight.name=\\untranslated
+Oct.Props.StandingSkullLight.name=Стояче світло череп
 
 \\\\
 \\
 \\	Oct.Props.StandingSkullLight.pluralName=Standing Skull Lights
 \\
 \\\\
-Oct.Props.StandingSkullLight.pluralName=\\untranslated
+Oct.Props.StandingSkullLight.pluralName=Стояче світло череп
 
 \\\\
 \\
 \\	Oct.Props.StandingSkullLight.toolName=Skull Light
 \\
 \\\\
-Oct.Props.StandingSkullLight.toolName=\\untranslated
+Oct.Props.StandingSkullLight.toolName=Світло череп
 
 \\\\
 \\
@@ -51460,21 +51460,21 @@ Oct.Props.StandingSkullLight.colorSlots.4.name=\\untranslated
 \\	Oct.Props.StandingTorch.name=Standing Torch
 \\
 \\\\
-Oct.Props.StandingTorch.name=\\untranslated
+Oct.Props.StandingTorch.name=Стоячий смолоскип
 
 \\\\
 \\
 \\	Oct.Props.StandingTorch.pluralName=Standing Torches
 \\
 \\\\
-Oct.Props.StandingTorch.pluralName=\\untranslated
+Oct.Props.StandingTorch.pluralName=Стоячий смолоскип
 
 \\\\
 \\
 \\	Oct.Props.StandingTorch.toolName=Standing Torch
 \\
 \\\\
-Oct.Props.StandingTorch.toolName=\\untranslated
+Oct.Props.StandingTorch.toolName=Стоя смоло
 
 \\\\
 \\
@@ -52020,28 +52020,28 @@ Oct.Props.StoneChimney.colorSlots.4.name=\\untranslated
 \\	Oct.Props.StoneCuttingTable.name=Stone Cutting Table
 \\
 \\\\
-Oct.Props.StoneCuttingTable.name=\\untranslated
+Oct.Props.StoneCuttingTable.name=Стіл різання каменю
 
 \\\\
 \\
 \\	Oct.Props.StoneCuttingTable.pluralName=Stone Cutting Tables
 \\
 \\\\
-Oct.Props.StoneCuttingTable.pluralName=\\untranslated
+Oct.Props.StoneCuttingTable.pluralName=Стіл різання каменю
 
 \\\\
 \\
 \\	Oct.Props.StoneCuttingTable.toolName=Cutting
 \\
 \\\\
-Oct.Props.StoneCuttingTable.toolName=\\untranslated
+Oct.Props.StoneCuttingTable.toolName=Різання
 
 \\\\
 \\
 \\	Oct.Props.StoneCuttingTable.resolvablePrefabs.1.name=Stone Cutting Table
 \\
 \\\\
-Oct.Props.StoneCuttingTable.resolvablePrefabs.1.name=\\untranslated
+Oct.Props.StoneCuttingTable.resolvablePrefabs.1.name=Стіл різання каменю
 
 \\\\
 \\
@@ -52125,21 +52125,21 @@ Oct.Props.StoneHearth.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Stove.name=Stove
 \\
 \\\\
-Oct.Props.Stove.name=\\untranslated
+Oct.Props.Stove.name=Піч
 
 \\\\
 \\
 \\	Oct.Props.Stove.pluralName=Stoves
 \\
 \\\\
-Oct.Props.Stove.pluralName=\\untranslated
+Oct.Props.Stove.pluralName=Піч
 
 \\\\
 \\
 \\	Oct.Props.Stove.toolName=Stove
 \\
 \\\\
-Oct.Props.Stove.toolName=\\untranslated
+Oct.Props.Stove.toolName=Піч
 
 \\\\
 \\
@@ -52307,21 +52307,21 @@ Oct.Props.Stump.prefabs.2.name=\\untranslated
 \\	Oct.Props.Table.Small.Stone.name=Small Stone Table
 \\
 \\\\
-Oct.Props.Table.Small.Stone.name=\\untranslated
+Oct.Props.Table.Small.Stone.name=Малий кам'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.Table.Small.Stone.pluralName=Small Stone Tables
 \\
 \\\\
-Oct.Props.Table.Small.Stone.pluralName=\\untranslated
+Oct.Props.Table.Small.Stone.pluralName=Малий кам'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.Table.Small.Stone.toolName=Small Stone
 \\
 \\\\
-Oct.Props.Table.Small.Stone.toolName=\\untranslated
+Oct.Props.Table.Small.Stone.toolName=Малий кам'яний
 
 \\\\
 \\
@@ -52349,21 +52349,21 @@ Oct.Props.Table.Small.Stone.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Table.Stone.name=Large Stone Table
 \\
 \\\\
-Oct.Props.Table.Stone.name=\\untranslated
+Oct.Props.Table.Stone.name=Великий кам'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.Table.Stone.pluralName=Large Stone Tables
 \\
 \\\\
-Oct.Props.Table.Stone.pluralName=\\untranslated
+Oct.Props.Table.Stone.pluralName=Великий кам'яний стіл
 
 \\\\
 \\
 \\	Oct.Props.Table.Stone.toolName=Large Stone
 \\
 \\\\
-Oct.Props.Table.Stone.toolName=\\untranslated
+Oct.Props.Table.Stone.toolName=Вели кам'яний
 
 \\\\
 \\
@@ -52391,21 +52391,21 @@ Oct.Props.Table.Stone.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Table.Small.Stone.Fine.name=Small Fine Stone Table
 \\
 \\\\
-Oct.Props.Table.Small.Stone.Fine.name=\\untranslated
+Oct.Props.Table.Small.Stone.Fine.name=Малий столик з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.Table.Small.Stone.Fine.pluralName=Small Fine Stone Tables
 \\
 \\\\
-Oct.Props.Table.Small.Stone.Fine.pluralName=\\untranslated
+Oct.Props.Table.Small.Stone.Fine.pluralName=Малий столик з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.Table.Small.Stone.Fine.toolName=Sm Fin Stone
 \\
 \\\\
-Oct.Props.Table.Small.Stone.Fine.toolName=\\untranslated
+Oct.Props.Table.Small.Stone.Fine.toolName=Мал тон кам
 
 \\\\
 \\
@@ -52447,21 +52447,21 @@ Oct.Props.Table.Small.Stone.Fine.colorSlots.5.name=\\untranslated
 \\	Oct.Props.Table.Stone.Fine.name=Large Fine Stone Table
 \\
 \\\\
-Oct.Props.Table.Stone.Fine.name=\\untranslated
+Oct.Props.Table.Stone.Fine.name=Великий стіл з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.Table.Stone.Fine.pluralName=Large Fine Stone Tables
 \\
 \\\\
-Oct.Props.Table.Stone.Fine.pluralName=\\untranslated
+Oct.Props.Table.Stone.Fine.pluralName=Великий стіл з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.Table.Stone.Fine.toolName=Lg Fin Stone
 \\
 \\\\
-Oct.Props.Table.Stone.Fine.toolName=\\untranslated
+Oct.Props.Table.Stone.Fine.toolName=Вел тон кам
 
 \\\\
 \\
@@ -52860,126 +52860,126 @@ Oct.Props.Tabletop.Statue.Drink.Stone.prefabs.3.name=\\untranslated
 \\	Oct.Props.Tannery.name=Tannery
 \\
 \\\\
-Oct.Props.Tannery.name=\\untranslated
+Oct.Props.Tannery.name=Дублення
 
 \\\\
 \\
 \\	Oct.Props.Tannery.pluralName=Tanneries
 \\
 \\\\
-Oct.Props.Tannery.pluralName=\\untranslated
+Oct.Props.Tannery.pluralName=Дублення
 
 \\\\
 \\
 \\	Oct.Props.Tannery.toolName=Tannery
 \\
 \\\\
-Oct.Props.Tannery.toolName=\\untranslated
+Oct.Props.Tannery.toolName=Дублення
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Full.name=Dirt Block
 \\
 \\\\
-Oct.Props.Terrain.Block.Full.name=\\untranslated
+Oct.Props.Terrain.Block.Full.name=Ґрунтовий блок
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Full.pluralName=Dirt Blocks
 \\
 \\\\
-Oct.Props.Terrain.Block.Full.pluralName=\\untranslated
+Oct.Props.Terrain.Block.Full.pluralName=Ґрунтовий блок
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Full.toolName=Full
 \\
 \\\\
-Oct.Props.Terrain.Block.Full.toolName=\\untranslated
+Oct.Props.Terrain.Block.Full.toolName=Повний
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Hollow.name=Dirt Hollow Block
 \\
 \\\\
-Oct.Props.Terrain.Block.Hollow.name=\\untranslated
+Oct.Props.Terrain.Block.Hollow.name=Ґрунтовий порожнистий блок
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Hollow.pluralName=Dirt Hollow Blocks
 \\
 \\\\
-Oct.Props.Terrain.Block.Hollow.pluralName=\\untranslated
+Oct.Props.Terrain.Block.Hollow.pluralName=Ґрунтовий порожнистий блок
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Hollow.toolName=Hollow
 \\
 \\\\
-Oct.Props.Terrain.Block.Hollow.toolName=\\untranslated
+Oct.Props.Terrain.Block.Hollow.toolName=Порожнистий
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Nook.name=Dirt Nook
 \\
 \\\\
-Oct.Props.Terrain.Block.Nook.name=\\untranslated
+Oct.Props.Terrain.Block.Nook.name=Ґрунтовий кут
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Nook.pluralName=Dirt Nooks
 \\
 \\\\
-Oct.Props.Terrain.Block.Nook.pluralName=\\untranslated
+Oct.Props.Terrain.Block.Nook.pluralName=Ґрунтовий кут
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Nook.toolName=Nook
 \\
 \\\\
-Oct.Props.Terrain.Block.Nook.toolName=\\untranslated
+Oct.Props.Terrain.Block.Nook.toolName=Кут
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Ramp.name=Dirt Ramp
 \\
 \\\\
-Oct.Props.Terrain.Block.Ramp.name=\\untranslated
+Oct.Props.Terrain.Block.Ramp.name=Ґрунтова рампа
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Ramp.pluralName=Dirt Ramps
 \\
 \\\\
-Oct.Props.Terrain.Block.Ramp.pluralName=\\untranslated
+Oct.Props.Terrain.Block.Ramp.pluralName=Ґрунтова рампа
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Ramp.toolName=Ramp
 \\
 \\\\
-Oct.Props.Terrain.Block.Ramp.toolName=\\untranslated
+Oct.Props.Terrain.Block.Ramp.toolName=Рампа
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Ridge.name=Dirt Ridge
 \\
 \\\\
-Oct.Props.Terrain.Block.Ridge.name=\\untranslated
+Oct.Props.Terrain.Block.Ridge.name=Ґрунтовий хребет
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Ridge.pluralName=Dirt Ridges
 \\
 \\\\
-Oct.Props.Terrain.Block.Ridge.pluralName=\\untranslated
+Oct.Props.Terrain.Block.Ridge.pluralName=Ґрунтовий хребет
 
 \\\\
 \\
 \\	Oct.Props.Terrain.Block.Ridge.toolName=Ridge
 \\
 \\\\
-Oct.Props.Terrain.Block.Ridge.toolName=\\untranslated
+Oct.Props.Terrain.Block.Ridge.toolName=Хребет
 
 \\\\
 \\
@@ -53063,21 +53063,21 @@ Oct.Props.Throne.Stone.Fine.colorSlots.8.name=\\untranslated
 \\	Oct.Props.TrainingDummy.name=Training Dummy
 \\
 \\\\
-Oct.Props.TrainingDummy.name=\\untranslated
+Oct.Props.TrainingDummy.name=Тренувальний манекен
 
 \\\\
 \\
 \\	Oct.Props.TrainingDummy.pluralName=Training Dummies
 \\
 \\\\
-Oct.Props.TrainingDummy.pluralName=\\untranslated
+Oct.Props.TrainingDummy.pluralName=Тренувальний манекен
 
 \\\\
 \\
 \\	Oct.Props.TrainingDummy.toolName=Dummy
 \\
 \\\\
-Oct.Props.TrainingDummy.toolName=\\untranslated
+Oct.Props.TrainingDummy.toolName=Манекен
 
 \\\\
 \\
@@ -53105,28 +53105,28 @@ Oct.Props.TrainingDummy.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Usable.Cornucopia.name=Cornucopia
 \\
 \\\\
-Oct.Props.Usable.Cornucopia.name=\\untranslated
+Oct.Props.Usable.Cornucopia.name=Ріг достатку
 
 \\\\
 \\
 \\	Oct.Props.Usable.Cornucopia.toolName=Cornucopia
 \\
 \\\\
-Oct.Props.Usable.Cornucopia.toolName=\\untranslated
+Oct.Props.Usable.Cornucopia.toolName=Ріг достатку
 
 \\\\
 \\
 \\	Oct.Props.Usable.Cornucopia.description=Put that prosperity to use - sacrifice 12 Nutrition of Food to the Gods to Hold a Feast.
 \\
 \\\\
-Oct.Props.Usable.Cornucopia.description=\\untranslated
+Oct.Props.Usable.Cornucopia.description=Скористайтеся цим процвітанням — пожертвуйте 12 поживних речовин богам, щоб влаштувати бенкет.
 
 \\\\
 \\
 \\	Oct.Props.Usable.Cornucopia.Use.HoldFeast.name=Hold Feast
 \\
 \\\\
-Oct.Props.Usable.Cornucopia.Use.HoldFeast.name=\\untranslated
+Oct.Props.Usable.Cornucopia.Use.HoldFeast.name=Проведіть свято
 
 \\\\
 \\
@@ -53138,7 +53138,10 @@ Oct.Props.Usable.Cornucopia.Use.HoldFeast.name=\\untranslated
 \\	Oct.Props.Usable.Cornucopia.Feast.Petition.Conversation.steps.lines+=We shall feast!
 \\
 \\\\
-Oct.Props.Usable.Cornucopia.Feast.Petition.Conversation.steps.lines+=\\untranslated
+Oct.Props.Usable.Cornucopia.Feast.Petition.Conversation.steps.lines+=Давайте бенкетувати!
+Oct.Props.Usable.Cornucopia.Feast.Petition.Conversation.steps.lines+=Час для застілля!
+Oct.Props.Usable.Cornucopia.Feast.Petition.Conversation.steps.lines+=Свято! зараз!
+Oct.Props.Usable.Cornucopia.Feast.Petition.Conversation.steps.lines+=Будемо бенкетувати!
 
 \\\\
 \\
@@ -53166,154 +53169,154 @@ Oct.Props.Usable.Cornucopia.pluralName=\\untranslated
 \\	Oct.Props.Usable.MessengerPerch.name=Messenger Perch
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.name=\\untranslated
+Oct.Props.Usable.MessengerPerch.name=Посланницький окунь
 
 \\\\
 \\
 \\	Oct.Props.Usable.MessengerPerch.pluralName=Messenger Perches
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.pluralName=\\untranslated
+Oct.Props.Usable.MessengerPerch.pluralName=Посланницький окунь
 
 \\\\
 \\
 \\	Oct.Props.Usable.MessengerPerch.toolName=Perch
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.toolName=\\untranslated
+Oct.Props.Usable.MessengerPerch.toolName=Окунь
 
 \\\\
 \\
 \\	Oct.Props.Usable.MessengerPerch.description=Accept Messengers from other Kingdoms that deliver Petitions that can improve your relationship, yield rewards, and even start or end Wars!<br><br>The number of Petitions are limited by number of Perches and Kingdom size.
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.description=\\untranslated
+Oct.Props.Usable.MessengerPerch.description=Приймайте Посланників з інших Королівств, які доставляють петиції, які можуть покращити ваші стосунки, принести нагороди та навіть розпочати чи завершити війни!<br><br>Кількість петицій обмежена кількістю локацій і розміром королівства.
 
 \\\\
 \\
 \\	Oct.Props.Usable.MessengerPerch.colorSlots.1.name=Frame
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.colorSlots.1.name=\\untranslated
+Oct.Props.Usable.MessengerPerch.colorSlots.1.name=Рамка
 
 \\\\
 \\
 \\	Oct.Props.Usable.MessengerPerch.colorSlots.2.name=Accessories
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.colorSlots.2.name=\\untranslated
+Oct.Props.Usable.MessengerPerch.colorSlots.2.name=Аксесуари
 
 \\\\
 \\
 \\	Oct.Props.Usable.MessengerPerch.colorSlots.3.name=Perch
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.colorSlots.3.name=\\untranslated
+Oct.Props.Usable.MessengerPerch.colorSlots.3.name=Окунь
 
 \\\\
 \\
 \\	Oct.Props.Usable.MessengerPerch.colorSlots.4.name=Pedestal
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.colorSlots.4.name=\\untranslated
+Oct.Props.Usable.MessengerPerch.colorSlots.4.name=П'єдестал
 
 \\\\
 \\
 \\	Oct.Props.Usable.MessengerPerch.colorSlots.5.name=Accents
 \\
 \\\\
-Oct.Props.Usable.MessengerPerch.colorSlots.5.name=\\untranslated
+Oct.Props.Usable.MessengerPerch.colorSlots.5.name=Акценти
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.name=Wedding Arch
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.name=\\untranslated
+Oct.Props.Usable.WeddingArch.name=Весільна арка
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.toolName=Wedding Arch
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.toolName=\\untranslated
+Oct.Props.Usable.WeddingArch.toolName=Весільна арка
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.description=Marry your people - build an Arch, decorate it with flowers, and host a glorious Wedding!
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.description=\\untranslated
+Oct.Props.Usable.WeddingArch.description=Одружуйте своїх людей – побудуйте Арку, прикрасьте її квітами та влаштуйте славне Весілля!
 
 \\\\
 \\
 \\	Oct.Props.Usable.Cornucopia.Use.HoldWedding.name=Hold Wedding
 \\
 \\\\
-Oct.Props.Usable.Cornucopia.Use.HoldWedding.name=\\untranslated
+Oct.Props.Usable.Cornucopia.Use.HoldWedding.name=Проведення весілля
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.colorSlots.1.name=Arch 1
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.colorSlots.1.name=\\untranslated
+Oct.Props.Usable.WeddingArch.colorSlots.1.name=Арка 1
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.colorSlots.2.name=Arch 2
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.colorSlots.2.name=\\untranslated
+Oct.Props.Usable.WeddingArch.colorSlots.2.name=Арка 2
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.colorSlots.3.name=Arch 3
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.colorSlots.3.name=\\untranslated
+Oct.Props.Usable.WeddingArch.colorSlots.3.name=Арка 3
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.colorSlots.4.name=Leaves
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.colorSlots.4.name=\\untranslated
+Oct.Props.Usable.WeddingArch.colorSlots.4.name=Листя
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.colorSlots.5.name=Flowers 1
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.colorSlots.5.name=\\untranslated
+Oct.Props.Usable.WeddingArch.colorSlots.5.name=Квіти 1
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.colorSlots.6.name=Flowers 2
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.colorSlots.6.name=\\untranslated
+Oct.Props.Usable.WeddingArch.colorSlots.6.name=Квіти 2
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.colorSlots.7.name=Flowers 3
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.colorSlots.7.name=\\untranslated
+Oct.Props.Usable.WeddingArch.colorSlots.7.name=Квіти 3
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.colorSlots.8.name=Ribbon
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.colorSlots.8.name=\\untranslated
+Oct.Props.Usable.WeddingArch.colorSlots.8.name=Стрічка
 
 \\\\
 \\
 \\	Oct.Props.Usable.WeddingArch.pluralName=Wedding Arch
 \\
 \\\\
-Oct.Props.Usable.WeddingArch.pluralName=\\untranslated
+Oct.Props.Usable.WeddingArch.pluralName=Весільна арка
 
 \\\\
 \\
@@ -55266,112 +55269,112 @@ Oct.Props.WallPost.Ramshackle.Thick.prefabs.2.name=Вутлий товстий �
 \\	Oct.Props.WallSconce.Gold.name=Gold Sconce
 \\
 \\\\
-Oct.Props.WallSconce.Gold.name=\\untranslated
+Oct.Props.WallSconce.Gold.name=Золотий свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Gold.pluralName=Gold Sconces
 \\
 \\\\
-Oct.Props.WallSconce.Gold.pluralName=\\untranslated
+Oct.Props.WallSconce.Gold.pluralName=Золотий свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Gold.toolName=Gold Sconce
 \\
 \\\\
-Oct.Props.WallSconce.Gold.toolName=\\untranslated
+Oct.Props.WallSconce.Gold.toolName=Зол свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Bronze.name=Bronze Sconce
 \\
 \\\\
-Oct.Props.WallSconce.Bronze.name=\\untranslated
+Oct.Props.WallSconce.Bronze.name=Бронзовий свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Bronze.pluralName=Bronze Sconces
 \\
 \\\\
-Oct.Props.WallSconce.Bronze.pluralName=\\untranslated
+Oct.Props.WallSconce.Bronze.pluralName=Бронзовий свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Bronze.toolName=Brz Sconce
 \\
 \\\\
-Oct.Props.WallSconce.Bronze.toolName=\\untranslated
+Oct.Props.WallSconce.Bronze.toolName=Брон свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Bronze.colorSlots.1.name=Metal
 \\
 \\\\
-Oct.Props.WallSconce.Bronze.colorSlots.1.name=\\untranslated
+Oct.Props.WallSconce.Bronze.colorSlots.1.name=Метал
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Iron.name=Iron Sconce
 \\
 \\\\
-Oct.Props.WallSconce.Iron.name=\\untranslated
+Oct.Props.WallSconce.Iron.name=Залізний свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Iron.pluralName=Iron Sconces
 \\
 \\\\
-Oct.Props.WallSconce.Iron.pluralName=\\untranslated
+Oct.Props.WallSconce.Iron.pluralName=Залізний свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Iron.toolName=Irn Sconce
 \\
 \\\\
-Oct.Props.WallSconce.Iron.toolName=\\untranslated
+Oct.Props.WallSconce.Iron.toolName=Заліз свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Iron.colorSlots.1.name=Metal
 \\
 \\\\
-Oct.Props.WallSconce.Iron.colorSlots.1.name=\\untranslated
+Oct.Props.WallSconce.Iron.colorSlots.1.name=Метал
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Silver.name=Silver Sconce
 \\
 \\\\
-Oct.Props.WallSconce.Silver.name=\\untranslated
+Oct.Props.WallSconce.Silver.name=Срібний свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Silver.pluralName=Silver Sconces
 \\
 \\\\
-Oct.Props.WallSconce.Silver.pluralName=\\untranslated
+Oct.Props.WallSconce.Silver.pluralName=Срібний свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Silver.toolName=Slvr Sconce
 \\
 \\\\
-Oct.Props.WallSconce.Silver.toolName=\\untranslated
+Oct.Props.WallSconce.Silver.toolName=Сріб свічник
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Silver.colorSlots.1.name=Metal
 \\
 \\\\
-Oct.Props.WallSconce.Silver.colorSlots.1.name=\\untranslated
+Oct.Props.WallSconce.Silver.colorSlots.1.name=Метал
 
 \\\\
 \\
 \\	Oct.Props.WallSconce.Gold.colorSlots.1.name=Metal
 \\
 \\\\
-Oct.Props.WallSconce.Gold.colorSlots.1.name=\\untranslated
+Oct.Props.WallSconce.Gold.colorSlots.1.name=Метал
 
 \\\\
 \\
@@ -55427,21 +55430,21 @@ Oct.Props.WallTargetKnives.pluralName=\\untranslated
 \\	Oct.Props.WallTorch.name=Wall Torch
 \\
 \\\\
-Oct.Props.WallTorch.name=\\untranslated
+Oct.Props.WallTorch.name=Настінний смолоскип
 
 \\\\
 \\
 \\	Oct.Props.WallTorch.pluralName=Wall Torches
 \\
 \\\\
-Oct.Props.WallTorch.pluralName=\\untranslated
+Oct.Props.WallTorch.pluralName=Настінний смолоскип
 
 \\\\
 \\
 \\	Oct.Props.WallTorch.toolName=Torch
 \\
 \\\\
-Oct.Props.WallTorch.toolName=\\untranslated
+Oct.Props.WallTorch.toolName=Смолоскип
 
 \\\\
 \\
@@ -55602,21 +55605,21 @@ Oct.Props.WeddingCake.colorSlots.8.name=\\untranslated
 \\	Oct.Props.Winery.name=Fermentation Barrel
 \\
 \\\\
-Oct.Props.Winery.name=\\untranslated
+Oct.Props.Winery.name=Бродильна діжка
 
 \\\\
 \\
 \\	Oct.Props.Winery.pluralName=Fermentation Barrels
 \\
 \\\\
-Oct.Props.Winery.pluralName=\\untranslated
+Oct.Props.Winery.pluralName=Бродильна діжка
 
 \\\\
 \\
 \\	Oct.Props.Winery.toolName=Ferment
 \\
 \\\\
-Oct.Props.Winery.toolName=\\untranslated
+Oct.Props.Winery.toolName=Бродильна
 
 \\\\
 \\
@@ -56344,7 +56347,7 @@ Oct.Props.WoodenShelf.Short.name=Коротка дерев'яна полиця
 \\	Oct.Props.WoodenShelf.Short.pluralName=Short Wooden Shelves
 \\
 \\\\
-Oct.Props.WoodenShelf.Short.pluralName=Короткі дерев'яні полиці
+Oct.Props.WoodenShelf.Short.pluralName=Коротка дерев'яна полиця
 
 \\\\
 \\
@@ -56365,7 +56368,7 @@ Oct.Props.WoodenShelf.Med.name=Середня дерев'яна полиця
 \\	Oct.Props.WoodenShelf.Med.pluralName=Medium Wooden Shelves
 \\
 \\\\
-Oct.Props.WoodenShelf.Med.pluralName=Середні дерев'яні полиці
+Oct.Props.WoodenShelf.Med.pluralName=Середня дерев'яна полиця
 
 \\\\
 \\
@@ -56386,7 +56389,7 @@ Oct.Props.WoodenShelf.Tall.name=Висока дерев'яна полиця
 \\	Oct.Props.WoodenShelf.Tall.pluralName=Tall Wooden Shelves
 \\
 \\\\
-Oct.Props.WoodenShelf.Tall.pluralName=Високі дерев'яні полиці
+Oct.Props.WoodenShelf.Tall.pluralName=Висока дерев'яна полиця
 
 \\\\
 \\
@@ -56599,7 +56602,7 @@ Oct.Regions.Generators.Prefix.Noun.format=\\untranslated
 \\	Oct.Research.Building.ButcherTable.name=Butcher Tables
 \\
 \\\\
-Oct.Research.Building.ButcherTable.name=\\untranslated
+Oct.Research.Building.ButcherTable.name=Столи м'ясника
 
 \\\\
 \\
@@ -56718,7 +56721,7 @@ Oct.Research.Building.Crafting.Foundry.name=\\untranslated
 \\	Oct.Research.Building.Crafting.Table.name=Crafting Tables
 \\
 \\\\
-Oct.Research.Building.Crafting.Table.name=\\untranslated
+Oct.Research.Building.Crafting.Table.name=Стіли крафта
 
 \\\\
 \\
@@ -56746,7 +56749,7 @@ Oct.Research.Building.Furniture.Bed.Stone.Fine.Double.name=Гарні двомі
 \\	Oct.Research.Building.Crafting.Forge.name=Forges
 \\
 \\\\
-Oct.Research.Building.Crafting.Forge.name=\\untranslated
+Oct.Research.Building.Crafting.Forge.name=Кузні
 
 \\\\
 \\
@@ -56760,7 +56763,7 @@ Oct.Research.Building.Lectern.name=\\untranslated
 \\	Oct.Research.Building.Tannery.name=Tanneries
 \\
 \\\\
-Oct.Research.Building.Tannery.name=\\untranslated
+Oct.Research.Building.Tannery.name=Дублення
 
 \\\\
 \\
@@ -56830,7 +56833,7 @@ Oct.Research.Building.Furniture.Shelves.Tall.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Table.Small.name=Small Wooden Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.Small.name=\\untranslated
+Oct.Research.Building.Furniture.Table.Small.name=Маленькі дерев'яні столики
 
 \\\\
 \\
@@ -56844,49 +56847,49 @@ Oct.Research.Building.Furniture.Table.RamshackleTable.name=Вутлі столи
 \\	Oct.Research.Building.Furniture.Table.Large.name=Large Wooden Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.Large.name=\\untranslated
+Oct.Research.Building.Furniture.Table.Large.name=Великі дерев'яні столи
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Table.Modular.name=Modular Wooden Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.Modular.name=\\untranslated
+Oct.Research.Building.Furniture.Table.Modular.name=Модульні дерев'яні столи
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Table.Small.Stone.name=Small Stone Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.Small.Stone.name=\\untranslated
+Oct.Research.Building.Furniture.Table.Small.Stone.name=Маленькі кам'яні столики
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Table.Stone.name=Stone Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.Stone.name=\\untranslated
+Oct.Research.Building.Furniture.Table.Stone.name=Кам'яні столи
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Table.Small.Stone.Fine.name=Small Fine Stone Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.Small.Stone.Fine.name=\\untranslated
+Oct.Research.Building.Furniture.Table.Small.Stone.Fine.name=Малі столики з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Table.Stone.Fine.name=Fine Stone Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.Stone.Fine.name=\\untranslated
+Oct.Research.Building.Furniture.Table.Stone.Fine.name=Столи з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Research.Building.Furniture.Table.Modular.Stone.Fine.name=Modular Fine Stone Tables
 \\
 \\\\
-Oct.Research.Building.Furniture.Table.Modular.Stone.Fine.name=\\untranslated
+Oct.Research.Building.Furniture.Table.Modular.Stone.Fine.name=Модульні столи з тонкого каменю
 
 \\\\
 \\
@@ -57040,28 +57043,28 @@ Oct.Research.Building.Roofs.Ramshackle.name=Вутлі дахи
 \\	Oct.Research.Building.Lighting.Brazier.Silver.name=Silver Braziers
 \\
 \\\\
-Oct.Research.Building.Lighting.Brazier.Silver.name=\\untranslated
+Oct.Research.Building.Lighting.Brazier.Silver.name=Срібні кітляри
 
 \\\\
 \\
 \\	Oct.Research.Building.Lighting.Brazier.Iron.name=Iron Braziers
 \\
 \\\\
-Oct.Research.Building.Lighting.Brazier.Iron.name=\\untranslated
+Oct.Research.Building.Lighting.Brazier.Iron.name=Залізні кітляри
 
 \\\\
 \\
 \\	Oct.Research.Building.Lighting.Brazier.Bronze.name=Bronze Braziers
 \\
 \\\\
-Oct.Research.Building.Lighting.Brazier.Bronze.name=\\untranslated
+Oct.Research.Building.Lighting.Brazier.Bronze.name=Бронзові кітляри
 
 \\\\
 \\
 \\	Oct.Research.Building.Lighting.name=Lighting
 \\
 \\\\
-Oct.Research.Building.Lighting.name=\\untranslated
+Oct.Research.Building.Lighting.name=Освітлення
 
 \\\\
 \\
@@ -57075,7 +57078,7 @@ Oct.Research.Building.Lighting.description=\\untranslated
 \\	Oct.Research.Building.Lighting.Candle.name=Candle Holders
 \\
 \\\\
-Oct.Research.Building.Lighting.Candle.name=\\untranslated
+Oct.Research.Building.Lighting.Candle.name=Підсвічники
 
 \\\\
 \\
@@ -57215,28 +57218,28 @@ Oct.Research.Building.Floors.Wood.name=Дерев'яні підлоги
 \\	Oct.Research.Building.Lighting.Sconce.Gold.name=Gold Sconces
 \\
 \\\\
-Oct.Research.Building.Lighting.Sconce.Gold.name=\\untranslated
+Oct.Research.Building.Lighting.Sconce.Gold.name=Золоті свічники
 
 \\\\
 \\
 \\	Oct.Research.Building.Lighting.Sconce.Silver.name=Silver Sconces
 \\
 \\\\
-Oct.Research.Building.Lighting.Sconce.Silver.name=\\untranslated
+Oct.Research.Building.Lighting.Sconce.Silver.name=Срібні свічники
 
 \\\\
 \\
 \\	Oct.Research.Building.Lighting.Sconce.Iron.name=Iron Sconces
 \\
 \\\\
-Oct.Research.Building.Lighting.Sconce.Iron.name=\\untranslated
+Oct.Research.Building.Lighting.Sconce.Iron.name=Залізні свічники
 
 \\\\
 \\
 \\	Oct.Research.Building.Lighting.Sconce.Bronze.name=Bronze Sconces
 \\
 \\\\
-Oct.Research.Building.Lighting.Sconce.Bronze.name=\\untranslated
+Oct.Research.Building.Lighting.Sconce.Bronze.name=Бронзові свічники
 
 \\\\
 \\
@@ -57390,7 +57393,7 @@ Oct.Research.Building.Lighting.StandingSkullLight.name=\\untranslated
 \\	Oct.Research.Building.Lighting.StandingTorch.name=Standing Torch
 \\
 \\\\
-Oct.Research.Building.Lighting.StandingTorch.name=\\untranslated
+Oct.Research.Building.Lighting.StandingTorch.name=Стоячий смолоскип
 
 \\\\
 \\
@@ -57446,7 +57449,7 @@ Oct.Research.Building.Decoration.Skulls.Real.name=\\untranslated
 \\	Oct.Research.Building.Lighting.Candelabra.Bronze.name=Bronze Candelabras
 \\
 \\\\
-Oct.Research.Building.Lighting.Candelabra.Bronze.name=\\untranslated
+Oct.Research.Building.Lighting.Candelabra.Bronze.name=Бронзові свічники
 
 \\\\
 \\
@@ -57572,14 +57575,14 @@ Oct.Research.Building.Lighting.BanditSkullCandle.name=\\untranslated
 \\	Oct.Research.Building.Lighting.NewCandle.name=Candles
 \\
 \\\\
-Oct.Research.Building.Lighting.NewCandle.name=\\untranslated
+Oct.Research.Building.Lighting.NewCandle.name=Свічки
 
 \\\\
 \\
 \\	Oct.Research.Building.Tactical.Cheval.name=Chevals
 \\
 \\\\
-Oct.Research.Building.Tactical.Cheval.name=\\untranslated
+Oct.Research.Building.Tactical.Cheval.name=Їжаки
 
 \\\\
 \\
@@ -57593,7 +57596,7 @@ Oct.Research.Building.Decoration.Standing.HangingPelt.name=\\untranslated
 \\	Oct.Research.Building.TrainingDummy.name=Training Dummies
 \\
 \\\\
-Oct.Research.Building.TrainingDummy.name=\\untranslated
+Oct.Research.Building.TrainingDummy.name=Тренувальні манекени
 
 \\\\
 \\
@@ -57670,7 +57673,7 @@ Oct.Research.Building.Decoration.DiceGame.name=\\untranslated
 \\	Oct.Research.Building.Tactical.Catapult.name=Catapults
 \\
 \\\\
-Oct.Research.Building.Tactical.Catapult.name=\\untranslated
+Oct.Research.Building.Tactical.Catapult.name=Катапульти
 
 \\\\
 \\
@@ -57698,7 +57701,7 @@ Oct.Research.Building.Temperature.Cooler.Advanced.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Usable.Cornucopia.name=Cornucopias
 \\
 \\\\
-Oct.Research.Building.Furniture.Usable.Cornucopia.name=\\untranslated
+Oct.Research.Building.Furniture.Usable.Cornucopia.name=Роги достатку
 
 \\\\
 \\
@@ -57733,7 +57736,7 @@ Oct.Research.Building.Decoration.Dishes.Gold.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Usable.MessengerPerches.name=Messenger Perches
 \\
 \\\\
-Oct.Research.Building.Furniture.Usable.MessengerPerches.name=\\untranslated
+Oct.Research.Building.Furniture.Usable.MessengerPerches.name=Посланницький окунь
 
 \\\\
 \\
@@ -58013,7 +58016,7 @@ Oct.Research.Building.Decoration.Wall.Flowers.name=\\untranslated
 \\	Oct.Research.Building.Furniture.Usable.WeddingArch.name=Wedding Arches
 \\
 \\\\
-Oct.Research.Building.Furniture.Usable.WeddingArch.name=\\untranslated
+Oct.Research.Building.Furniture.Usable.WeddingArch.name=Весільні арки
 
 \\\\
 \\
@@ -59077,7 +59080,7 @@ Oct.Rooms.Contents.Foundry.name=\\untranslated
 \\	Oct.Rooms.Contents.Forge.name=Forge
 \\
 \\\\
-Oct.Rooms.Contents.Forge.name=\\untranslated
+Oct.Rooms.Contents.Forge.name=Кузня
 
 \\\\
 \\
@@ -64468,35 +64471,35 @@ Oct.Tips.Wants.Investigate.details=\\untranslated
 \\	Oct.Tools.Bulk.Cancel.name=Cancel
 \\
 \\\\
-Oct.Tools.Bulk.Cancel.name=\\untranslated
+Oct.Tools.Bulk.Cancel.name=Скасувати
 
 \\\\
 \\
 \\	Oct.Tools.Bulk.Cut.name=Cut
 \\
 \\\\
-Oct.Tools.Bulk.Cut.name=\\untranslated
+Oct.Tools.Bulk.Cut.name=Вирізати
 
 \\\\
 \\
 \\	Oct.Tools.Bulk.Dismantle.name=Dismantle
 \\
 \\\\
-Oct.Tools.Bulk.Dismantle.name=\\untranslated
+Oct.Tools.Bulk.Dismantle.name=Демонтувати
 
 \\\\
 \\
 \\	Oct.Tools.Bulk.Forage.name=Forage
 \\
 \\\\
-Oct.Tools.Bulk.Forage.name=\\untranslated
+Oct.Tools.Bulk.Forage.name=Їстівне
 
 \\\\
 \\
 \\	Oct.Tools.Bulk.Gather.name=Gather
 \\
 \\\\
-Oct.Tools.Bulk.Gather.name=\\untranslated
+Oct.Tools.Bulk.Gather.name=Збирати
 
 \\\\
 \\
@@ -65721,7 +65724,7 @@ Oct.Wants.UpperWant.description=\\untranslated
 \\	Oct.Zones.Farm.name=Farm
 \\
 \\\\
-Oct.Zones.Farm.name=\\untranslated
+Oct.Zones.Farm.name=Ферма
 
 \\\\
 \\
@@ -65735,7 +65738,7 @@ Oct.Zones.Farm.visibility=\\untranslated
 \\	Oct.Zones.FightFire.name=Fight Fire
 \\
 \\\\
-Oct.Zones.FightFire.name=\\untranslated
+Oct.Zones.FightFire.name=Боротьба з вогнем
 
 \\\\
 \\
@@ -65756,11 +65759,11 @@ Oct.Zones.Home.name=\\untranslated
 \\	Oct.Zones.Pasture.name=Pasture
 \\
 \\\\
-Oct.Zones.Pasture.name=\\untranslated
+Oct.Zones.Pasture.name=Пасовище
 
 \\\\
 \\
 \\	Oct.Zones.Pasture.visibility=Pastures
 \\
 \\\\
-Oct.Zones.Pasture.visibility=\\untranslated
+Oct.Zones.Pasture.visibility=Пасовища
