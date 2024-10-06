@@ -7233,77 +7233,77 @@ Oct.Characters.Monsters.Kin.FurAccent.caption=\\untranslated
 \\	Oct.Characters.Needs.Sleep.name=Sleep
 \\
 \\\\
-Oct.Characters.Needs.Sleep.name=\\untranslated
+Oct.Characters.Needs.Sleep.name=Сон
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Food.name=Food
 \\
 \\\\
-Oct.Characters.Needs.Food.name=\\untranslated
+Oct.Characters.Needs.Food.name=Їжа
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Temperature.name=Temperature
 \\
 \\\\
-Oct.Characters.Needs.Temperature.name=\\untranslated
+Oct.Characters.Needs.Temperature.name=Температура
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Light.name=Light
 \\
 \\\\
-Oct.Characters.Needs.Light.name=\\untranslated
+Oct.Characters.Needs.Light.name=Світло
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Hygiene.name=Hygiene
 \\
 \\\\
-Oct.Characters.Needs.Hygiene.name=\\untranslated
+Oct.Characters.Needs.Hygiene.name=Гігієна
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Social.name=Socialization
 \\
 \\\\
-Oct.Characters.Needs.Social.name=\\untranslated
+Oct.Characters.Needs.Social.name=Соціалізація
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Comfort.name=Relaxation
 \\
 \\\\
-Oct.Characters.Needs.Comfort.name=\\untranslated
+Oct.Characters.Needs.Comfort.name=Релаксація
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Lodging.name=Lodging
 \\
 \\\\
-Oct.Characters.Needs.Lodging.name=\\untranslated
+Oct.Characters.Needs.Lodging.name=Ночівля
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Prestige.name=Prestige
 \\
 \\\\
-Oct.Characters.Needs.Prestige.name=\\untranslated
+Oct.Characters.Needs.Prestige.name=Престиж
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Respect.name=Respect
 \\
 \\\\
-Oct.Characters.Needs.Respect.name=\\untranslated
+Oct.Characters.Needs.Respect.name=Повага
 
 \\\\
 \\
 \\	Oct.Characters.Needs.Clothes.name=Clothes
 \\
 \\\\
-Oct.Characters.Needs.Clothes.name=\\untranslated
+Oct.Characters.Needs.Clothes.name=Одяг
 
 \\\\
 \\
@@ -7891,91 +7891,91 @@ Oct.Code.Beliefs.Principle.Replaces=\\untranslated
 \\	Oct.Code.Belongigns.GiveX=Give X
 \\
 \\\\
-Oct.Code.Belongigns.GiveX=\\untranslated
+Oct.Code.Belongigns.GiveX=Дати X
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Unownable=Unownable
 \\
 \\\\
-Oct.Code.Belonging.Unownable=\\untranslated
+Oct.Code.Belonging.Unownable=Неможливо
 
 \\\\
 \\
 \\	Oct.Code.Belonging.IncludedIn=Included in {parent}
 \\
 \\\\
-Oct.Code.Belonging.IncludedIn=\\untranslated
+Oct.Code.Belonging.IncludedIn=Включено в {parent}
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Rent=Rent
 \\
 \\\\
-Oct.Code.Belonging.Rent=\\untranslated
+Oct.Code.Belonging.Rent=Оренда
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Markup=Markup
 \\
 \\\\
-Oct.Code.Belonging.Markup=\\untranslated
+Oct.Code.Belonging.Markup=Розмітка
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Refused=Refused
 \\
 \\\\
-Oct.Code.Belonging.Refused=\\untranslated
+Oct.Code.Belonging.Refused=Відмовлено
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Refused.Details={character} refuses to give {belonging} back!
 \\
 \\\\
-Oct.Code.Belonging.Refused.Details=\\untranslated
+Oct.Code.Belonging.Refused.Details={character} відмовляється повернути {belonging}!
 
 \\\\
 \\
 \\	Oct.Code.Belonging.RentPerDay={rent} / day
 \\
 \\\\
-Oct.Code.Belonging.RentPerDay=\\untranslated
+Oct.Code.Belonging.RentPerDay={rent} / день
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Transfer.Refused.Header=Refused
 \\
 \\\\
-Oct.Code.Belonging.Transfer.Refused.Header=\\untranslated
+Oct.Code.Belonging.Transfer.Refused.Header=Відмовлено
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Transfer.Refused={character} refuses to give {count} {type} back!
 \\
 \\\\
-Oct.Code.Belonging.Transfer.Refused=\\untranslated
+Oct.Code.Belonging.Transfer.Refused={character} відмовляється повернути {count} {type}!
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Transfer.GiveTo=Give to {character}
 \\
 \\\\
-Oct.Code.Belonging.Transfer.GiveTo=\\untranslated
+Oct.Code.Belonging.Transfer.GiveTo=Віддати {character}
 
 \\\\
 \\
 \\	Oct.Code.Belonging.Transfer.TakeFrom=Take from {character}
 \\
 \\\\
-Oct.Code.Belonging.Transfer.TakeFrom=\\untranslated
+Oct.Code.Belonging.Transfer.TakeFrom=Взяти в {character}
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Unownable.Rented=Unownable: {belonging} is For Rent.
 \\
 \\\\
-Oct.Code.Belongings.Unownable.Rented=\\untranslated
+Oct.Code.Belongings.Unownable.Rented=Неможливо: {belonging} здається в оренду.
 
 \\\\
 \\
@@ -8045,14 +8045,14 @@ Oct.Code.Belongings.Common.RentedFor=\\untranslated
 \\	Oct.Code.Belongings.YourKingdom.Header=Your Kingdom
 \\
 \\\\
-Oct.Code.Belongings.YourKingdom.Header=\\untranslated
+Oct.Code.Belongings.YourKingdom.Header=Твоє королівство
 
 \\\\
 \\
 \\	Oct.Code.Belongings.BuffFilter.Any=Any
 \\
 \\\\
-Oct.Code.Belongings.BuffFilter.Any=\\untranslated
+Oct.Code.Belongings.BuffFilter.Any=Будь-який
 
 \\\\
 \\
@@ -8066,245 +8066,245 @@ Oct.Code.Belongings.Equipped.Abbreviation=\\untranslated
 \\	Oct.Code.Belongings.Give=Give
 \\
 \\\\
-Oct.Code.Belongings.Give=\\untranslated
+Oct.Code.Belongings.Give=Дати
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Take=Take
 \\
 \\\\
-Oct.Code.Belongings.Take=\\untranslated
+Oct.Code.Belongings.Take=Взяти
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TakeX=Take X
 \\
 \\\\
-Oct.Code.Belongings.TakeX=\\untranslated
+Oct.Code.Belongings.TakeX=Взяти Х
 
 \\\\
 \\
 \\	Oct.Code.Belongings.SortBySlot=Sort by Slot
 \\
 \\\\
-Oct.Code.Belongings.SortBySlot=\\untranslated
+Oct.Code.Belongings.SortBySlot=Сортувати за слотом
 
 \\\\
 \\
 \\	Oct.Code.Belongings.SortByPrestige=Sort by Prestige
 \\
 \\\\
-Oct.Code.Belongings.SortByPrestige=\\untranslated
+Oct.Code.Belongings.SortByPrestige=Сортувати за престижністю
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Slot=Slot
 \\
 \\\\
-Oct.Code.Belongings.Slot=\\untranslated
+Oct.Code.Belongings.Slot=Слот
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Prefer=Prefer
 \\
 \\\\
-Oct.Code.Belongings.Prefer=\\untranslated
+Oct.Code.Belongings.Prefer=Віддаю перевагу
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Transfer=Transfer
 \\
 \\\\
-Oct.Code.Belongings.Transfer=\\untranslated
+Oct.Code.Belongings.Transfer=Передати
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Tabs.Overview=Overview
 \\
 \\\\
-Oct.Code.Belongings.Tabs.Overview=\\untranslated
+Oct.Code.Belongings.Tabs.Overview=Огляд
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Tabs.Jobs=Jobs
 \\
 \\\\
-Oct.Code.Belongings.Tabs.Jobs=\\untranslated
+Oct.Code.Belongings.Tabs.Jobs=Праця
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Autonomous.Title=Auto Claim
 \\
 \\\\
-Oct.Code.Belongings.Autonomous.Title=\\untranslated
+Oct.Code.Belongings.Autonomous.Title=Авто згода
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Header=Belongings
 \\
 \\\\
-Oct.Code.Belongings.Header=\\untranslated
+Oct.Code.Belongings.Header=Речі
 
 \\\\
 \\
 \\	Oct.Code.Belongings.AutoClaim.ClaimNow=Claim Now
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.ClaimNow=\\untranslated
+Oct.Code.Belongings.AutoClaim.ClaimNow=Погодити зараз
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Considering={character} is considering {slot} options...
 \\
 \\\\
-Oct.Code.Belongings.Considering=\\untranslated
+Oct.Code.Belongings.Considering={character} розглядає варіанти {slot}...
 
 \\\\
 \\
 \\	Oct.Code.Belongings.AutoClaim.In=Auto Claims in {timeframe}...
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.In=\\untranslated
+Oct.Code.Belongings.AutoClaim.In=Авто згода через {timeframe}...
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.All=All
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.All=\\untranslated
+Oct.Code.Belongings.TypeFilter.All=Все
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Items=Items
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Items=\\untranslated
+Oct.Code.Belongings.TypeFilter.Items=Предмети
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Gear.Primary=Gear: Primary
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Gear.Primary=\\untranslated
+Oct.Code.Belongings.TypeFilter.Gear.Primary=Спорядження: Головне
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Gear.Secondary=Gear: Secondary
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Gear.Secondary=\\untranslated
+Oct.Code.Belongings.TypeFilter.Gear.Secondary=Спорядження: Вторинне
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Gear.Caps=Gear: Caps
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Gear.Caps=\\untranslated
+Oct.Code.Belongings.TypeFilter.Gear.Caps=Спорядження: Капелюхи
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Gear.Upper=Gear: Upper
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Gear.Upper=\\untranslated
+Oct.Code.Belongings.TypeFilter.Gear.Upper=Спорядження: Верхнє
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Gear.Lower=Gear: Lower
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Gear.Lower=\\untranslated
+Oct.Code.Belongings.TypeFilter.Gear.Lower=Спорядження: Нижнє
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Gear.Hands=Gear: Hands
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Gear.Hands=\\untranslated
+Oct.Code.Belongings.TypeFilter.Gear.Hands=Спорядження: Руки
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Gear.Feet=Gear: Feet
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Gear.Feet=\\untranslated
+Oct.Code.Belongings.TypeFilter.Gear.Feet=Спорядження: Ноги
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Gear.Outer=Gear: Outer
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Gear.Outer=\\untranslated
+Oct.Code.Belongings.TypeFilter.Gear.Outer=Спорядження: Зовнішнє
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Props=Props
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Props=\\untranslated
+Oct.Code.Belongings.TypeFilter.Props=Об’єкти
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Rooms=Rooms
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Rooms=\\untranslated
+Oct.Code.Belongings.TypeFilter.Rooms=Кімнати
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Buildings=Buildings
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Buildings=\\untranslated
+Oct.Code.Belongings.TypeFilter.Buildings=Будівлі
 
 \\\\
 \\
 \\	Oct.Code.Belongings.TypeFilter.Animals=Animals
 \\
 \\\\
-Oct.Code.Belongings.TypeFilter.Animals=\\untranslated
+Oct.Code.Belongings.TypeFilter.Animals=Тварини
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Tooltip.IncludedIn=Included in
 \\
 \\\\
-Oct.Code.Belongings.Tooltip.IncludedIn=\\untranslated
+Oct.Code.Belongings.Tooltip.IncludedIn=Включено в
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Tooltip.BaseValue=Base Value
 \\
 \\\\
-Oct.Code.Belongings.Tooltip.BaseValue=\\untranslated
+Oct.Code.Belongings.Tooltip.BaseValue=Базове значення
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Tooltip.Includes=Includes
 \\
 \\\\
-Oct.Code.Belongings.Tooltip.Includes=\\untranslated
+Oct.Code.Belongings.Tooltip.Includes=Включає
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Tooltip.FinalValue=Final Value
 \\
 \\\\
-Oct.Code.Belongings.Tooltip.FinalValue=\\untranslated
+Oct.Code.Belongings.Tooltip.FinalValue=Кінцеве значення
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Tooltip.Value=Value
 \\
 \\\\
-Oct.Code.Belongings.Tooltip.Value=\\untranslated
+Oct.Code.Belongings.Tooltip.Value=Значення
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Tooltip.RentedAt=Rented At
 \\
 \\\\
-Oct.Code.Belongings.Tooltip.RentedAt=\\untranslated
+Oct.Code.Belongings.Tooltip.RentedAt=Орендовано
 
 \\\\
 \\
@@ -8437,28 +8437,28 @@ Oct.Code.Character.Corpse=\\untranslated
 \\	Oct.Code.Character.Sheet.General=General
 \\
 \\\\
-Oct.Code.Character.Sheet.General=\\untranslated
+Oct.Code.Character.Sheet.General=Загальний
 
 \\\\
 \\
 \\	Oct.Code.Character.Sheet.Inventory=Inventory
 \\
 \\\\
-Oct.Code.Character.Sheet.Inventory=\\untranslated
+Oct.Code.Character.Sheet.Inventory=Інвентар
 
 \\\\
 \\
 \\	Oct.Code.Character.Sheet.Abilities=Abilities
 \\
 \\\\
-Oct.Code.Character.Sheet.Abilities=\\untranslated
+Oct.Code.Character.Sheet.Abilities=Здібності
 
 \\\\
 \\
 \\	Oct.Code.Character.Sheet.Traits=Traits
 \\
 \\\\
-Oct.Code.Character.Sheet.Traits=\\untranslated
+Oct.Code.Character.Sheet.Traits=Риси
 
 \\\\
 \\
@@ -8486,7 +8486,7 @@ Oct.Code.Character.Age.Adult.Old=\\untranslated
 \\	Oct.Code.Characters.SelectAll=Select All
 \\
 \\\\
-Oct.Code.Characters.SelectAll=\\untranslated
+Oct.Code.Characters.SelectAll=Обрати всіх
 
 \\\\
 \\
@@ -9277,7 +9277,7 @@ Oct.Code.Characters.Mission.Withdraw=\\untranslated
 \\	Oct.Code.Characters.Tooltips.SkillPoints=<i>When a Mortal uses a Skill, they log progress towards their next Point in that Skill. Unrelated Skills gain a small amount of progress based on the Mortal's Potential in them.<br><br>When a Mortal gains enough XP for their next Level, any Skills with Progress of 100% are Banked. Those Banked Points are added when the Level Up is applied.<br><br>The Lvl 20 projection is based on current Skill Points, Progress, and Potential.</i>
 \\
 \\\\
-Oct.Code.Characters.Tooltips.SkillPoints=\\untranslated
+Oct.Code.Characters.Tooltips.SkillPoints=<i>Коли смертний використовує навичку, він реєструє прогрес до свого наступного очка в цій навичці. Непов’язані навички отримують невеликий прогрес залежно від наявного в них потенціалу смертного.<br><br>Коли смертний отримує достатньо досвіду для наступного рівня, будь-які навички з прогресом 100% накопичуються в банку. Ці накопичені очки додаються, коли застосовано підвищення рівня.<br><br>Прогноз рівня 20 базується на поточних очках навичок, прогресі та потенціалі.</i>
 
 \\\\
 \\
@@ -9879,21 +9879,21 @@ Oct.Code.Characters.Alignment=\\untranslated
 \\	Oct.Code.Characters.Common.Adults=Adults
 \\
 \\\\
-Oct.Code.Characters.Common.Adults=\\untranslated
+Oct.Code.Characters.Common.Adults=Дорослі
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Alignment=Alignment
 \\
 \\\\
-Oct.Code.Characters.Common.Alignment=\\untranslated
+Oct.Code.Characters.Common.Alignment=Вирівнювання
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Ambition=Ambition
 \\
 \\\\
-Oct.Code.Characters.Common.Ambition=\\untranslated
+Oct.Code.Characters.Common.Ambition=Амбіції
 
 \\\\
 \\
@@ -9921,427 +9921,427 @@ Oct.Code.Characters.Common.AtMaximum.Reason=\\untranslated
 \\	Oct.Code.Characters.Common.AttractedTo=Attracted To
 \\
 \\\\
-Oct.Code.Characters.Common.AttractedTo=\\untranslated
+Oct.Code.Characters.Common.AttractedTo=Приваблює
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Away=Away
 \\
 \\\\
-Oct.Code.Characters.Common.Away=\\untranslated
+Oct.Code.Characters.Common.Away=Дзусь
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Babies=Babies
 \\
 \\\\
-Oct.Code.Characters.Common.Babies=\\untranslated
+Oct.Code.Characters.Common.Babies=Немовлята
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.BioAge=Bio Age
 \\
 \\\\
-Oct.Code.Characters.Common.BioAge=\\untranslated
+Oct.Code.Characters.Common.BioAge=Біо вік
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.BiologicalAge=Biological Age
 \\
 \\\\
-Oct.Code.Characters.Common.BiologicalAge=\\untranslated
+Oct.Code.Characters.Common.BiologicalAge=Біологічний вік
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Born=Born
 \\
 \\\\
-Oct.Code.Characters.Common.Born=\\untranslated
+Oct.Code.Characters.Common.Born=Народився
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Busy=Busy
 \\
 \\\\
-Oct.Code.Characters.Common.Busy=\\untranslated
+Oct.Code.Characters.Common.Busy=Зайнятий
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Cause=Cause
 \\
 \\\\
-Oct.Code.Characters.Common.Cause=\\untranslated
+Oct.Code.Characters.Common.Cause=Причина
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Children=Children
 \\
 \\\\
-Oct.Code.Characters.Common.Children=\\untranslated
+Oct.Code.Characters.Common.Children=Діти
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.ChronologicalAge=Chronological Age
 \\
 \\\\
-Oct.Code.Characters.Common.ChronologicalAge=\\untranslated
+Oct.Code.Characters.Common.ChronologicalAge=Хронологічний вік
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Compatibility=Compatibility
 \\
 \\\\
-Oct.Code.Characters.Common.Compatibility=\\untranslated
+Oct.Code.Characters.Common.Compatibility=Сумісність
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Crime=Crime
 \\
 \\\\
-Oct.Code.Characters.Common.Crime=\\untranslated
+Oct.Code.Characters.Common.Crime=Злочинність
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Crying=Crying
 \\
 \\\\
-Oct.Code.Characters.Common.Crying=\\untranslated
+Oct.Code.Characters.Common.Crying=Плаче
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Dead=Dead
 \\
 \\\\
-Oct.Code.Characters.Common.Dead=\\untranslated
+Oct.Code.Characters.Common.Dead=Мертвий
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Development=Development
 \\
 \\\\
-Oct.Code.Characters.Common.Development=\\untranslated
+Oct.Code.Characters.Common.Development=Розвиток
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Died=Died
 \\
 \\\\
-Oct.Code.Characters.Common.Died=\\untranslated
+Oct.Code.Characters.Common.Died=Померла
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Dies=Dies
 \\
 \\\\
-Oct.Code.Characters.Common.Dies=\\untranslated
+Oct.Code.Characters.Common.Dies=Вмирає
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Downed=Downed
 \\
 \\\\
-Oct.Code.Characters.Common.Downed=\\untranslated
+Oct.Code.Characters.Common.Downed=Збитий
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Esteem=Esteem
 \\
 \\\\
-Oct.Code.Characters.Common.Esteem=\\untranslated
+Oct.Code.Characters.Common.Esteem=Поважайте
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.FamilyTree=Family Tree
 \\
 \\\\
-Oct.Code.Characters.Common.FamilyTree=\\untranslated
+Oct.Code.Characters.Common.FamilyTree=Сімейне дерево
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Father=Father
 \\
 \\\\
-Oct.Code.Characters.Common.Father=\\untranslated
+Oct.Code.Characters.Common.Father=Тато
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Fertility=Fertility
 \\
 \\\\
-Oct.Code.Characters.Common.Fertility=\\untranslated
+Oct.Code.Characters.Common.Fertility=Плідність
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Gear=Gear
 \\
 \\\\
-Oct.Code.Characters.Common.Gear=\\untranslated
+Oct.Code.Characters.Common.Gear=Спорядження
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Heals=Heals
 \\
 \\\\
-Oct.Code.Characters.Common.Heals=\\untranslated
+Oct.Code.Characters.Common.Heals=Лікує
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Illegitimate=Illegitimate
 \\
 \\\\
-Oct.Code.Characters.Common.Illegitimate=\\untranslated
+Oct.Code.Characters.Common.Illegitimate=Нелегітимний
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Juveniles=Juveniles
 \\
 \\\\
-Oct.Code.Characters.Common.Juveniles=\\untranslated
+Oct.Code.Characters.Common.Juveniles=Неповнолітні
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Leader=Leader
 \\
 \\\\
-Oct.Code.Characters.Common.Leader=\\untranslated
+Oct.Code.Characters.Common.Leader=Лідер
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Level=Level
 \\
 \\\\
-Oct.Code.Characters.Common.Level=\\untranslated
+Oct.Code.Characters.Common.Level=Рівень
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Lifespan=Lifespan
 \\
 \\\\
-Oct.Code.Characters.Common.Lifespan=\\untranslated
+Oct.Code.Characters.Common.Lifespan=Тривалість життя
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Marry=Marry
 \\
 \\\\
-Oct.Code.Characters.Common.Marry=\\untranslated
+Oct.Code.Characters.Common.Marry=Одружуватися
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Maturity=Maturity
 \\
 \\\\
-Oct.Code.Characters.Common.Maturity=\\untranslated
+Oct.Code.Characters.Common.Maturity=Зрілість
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Member=Member
 \\
 \\\\
-Oct.Code.Characters.Common.Member=\\untranslated
+Oct.Code.Characters.Common.Member=Член
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Mood=Mood
 \\
 \\\\
-Oct.Code.Characters.Common.Mood=\\untranslated
+Oct.Code.Characters.Common.Mood=Настрій
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Mother=Mother
 \\
 \\\\
-Oct.Code.Characters.Common.Mother=\\untranslated
+Oct.Code.Characters.Common.Mother=Мама
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Name=Name
 \\
 \\\\
-Oct.Code.Characters.Common.Name=\\untranslated
+Oct.Code.Characters.Common.Name=Ім'я
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Nobles=Nobles
 \\
 \\\\
-Oct.Code.Characters.Common.Nobles=\\untranslated
+Oct.Code.Characters.Common.Nobles=Дворяни
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Opinion=Opinion
 \\
 \\\\
-Oct.Code.Characters.Common.Opinion=\\untranslated
+Oct.Code.Characters.Common.Opinion=Думка
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.OpinionPts=Opinion Pts
 \\
 \\\\
-Oct.Code.Characters.Common.OpinionPts=\\untranslated
+Oct.Code.Characters.Common.OpinionPts=Бали думок
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Panicking=Panicking
 \\
 \\\\
-Oct.Code.Characters.Common.Panicking=\\untranslated
+Oct.Code.Characters.Common.Panicking=Паніка
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Peaked=Peaked
 \\
 \\\\
-Oct.Code.Characters.Common.Peaked=\\untranslated
+Oct.Code.Characters.Common.Peaked=Пік
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.PotentialPts=Potential Pts
 \\
 \\\\
-Oct.Code.Characters.Common.PotentialPts=\\untranslated
+Oct.Code.Characters.Common.PotentialPts=Потенційні бали
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Prisoners=Prisoners
 \\
 \\\\
-Oct.Code.Characters.Common.Prisoners=\\untranslated
+Oct.Code.Characters.Common.Prisoners=В'язні
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Race=Race
 \\
 \\\\
-Oct.Code.Characters.Common.Race=\\untranslated
+Oct.Code.Characters.Common.Race=Раса
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Relaxing=Relaxing
 \\
 \\\\
-Oct.Code.Characters.Common.Relaxing=\\untranslated
+Oct.Code.Characters.Common.Relaxing=Розслаблення
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Resting=Resting
 \\
 \\\\
-Oct.Code.Characters.Common.Resting=\\untranslated
+Oct.Code.Characters.Common.Resting=Відпочиває
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Serfs=Serfs
 \\
 \\\\
-Oct.Code.Characters.Common.Serfs=\\untranslated
+Oct.Code.Characters.Common.Serfs=Кріпаки
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Sex=Sex
 \\
 \\\\
-Oct.Code.Characters.Common.Sex=\\untranslated
+Oct.Code.Characters.Common.Sex=Стать
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Sexuality=Sexuality
 \\
 \\\\
-Oct.Code.Characters.Common.Sexuality=\\untranslated
+Oct.Code.Characters.Common.Sexuality=Привабливість
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Sitting=Sitting
 \\
 \\\\
-Oct.Code.Characters.Common.Sitting=\\untranslated
+Oct.Code.Characters.Common.Sitting=Сидячи
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Sitting.InChair=Sitting in a chair
 \\
 \\\\
-Oct.Code.Characters.Common.Sitting.InChair=\\untranslated
+Oct.Code.Characters.Common.Sitting.InChair=Сидячи в кріслі
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Skill=Skill
 \\
 \\\\
-Oct.Code.Characters.Common.Skill=\\untranslated
+Oct.Code.Characters.Common.Skill=Вміння
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.SkillPts=Skill Pts
 \\
 \\\\
-Oct.Code.Characters.Common.SkillPts=\\untranslated
+Oct.Code.Characters.Common.SkillPts=Бали вмінь
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Starving=Starving
 \\
 \\\\
-Oct.Code.Characters.Common.Starving=\\untranslated
+Oct.Code.Characters.Common.Starving=Голодує
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Training=Training
 \\
 \\\\
-Oct.Code.Characters.Common.Training=\\untranslated
+Oct.Code.Characters.Common.Training=Навчання
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Unconscious=Unconscious
 \\
 \\\\
-Oct.Code.Characters.Common.Unconscious=\\untranslated
+Oct.Code.Characters.Common.Unconscious=Без свідомості
 
 \\\\
 \\
 \\	Oct.Code.Characters.Alignment.Unknown=Unknown Alignment
 \\
 \\\\
-Oct.Code.Characters.Alignment.Unknown=\\untranslated
+Oct.Code.Characters.Alignment.Unknown=Невідоме вирівнювання
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Wanderer=Wanderer
 \\
 \\\\
-Oct.Code.Characters.Common.Wanderer=\\untranslated
+Oct.Code.Characters.Common.Wanderer=Мандрівник
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Warmth=Warmth
 \\
 \\\\
-Oct.Code.Characters.Common.Warmth=\\untranslated
+Oct.Code.Characters.Common.Warmth=Тепло
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Working=Working
 \\
 \\\\
-Oct.Code.Characters.Common.Working=\\untranslated
+Oct.Code.Characters.Common.Working=Працює
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.XP=XP
 \\
 \\\\
-Oct.Code.Characters.Common.XP=\\untranslated
+Oct.Code.Characters.Common.XP=XP
 
 \\\\
 \\
 \\	Oct.Code.Characters.Common.Yodel=Yodel
 \\
 \\\\
-Oct.Code.Characters.Common.Yodel=\\untranslated
+Oct.Code.Characters.Common.Yodel=Йодель
 
 \\\\
 \\
@@ -11083,217 +11083,217 @@ Oct.Code.Characters.Toasts.LostBaby=\\untranslated
 \\	Oct.Code.Characters.LevelUp=Level Up!
 \\
 \\\\
-Oct.Code.Characters.LevelUp=\\untranslated
+Oct.Code.Characters.LevelUp=Підвищення рівня!
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.Skill.Reroll=Reroll
 \\
 \\\\
-Oct.Code.Characters.LevelUp.Skill.Reroll=\\untranslated
+Oct.Code.Characters.LevelUp.Skill.Reroll=Перекинути
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.Skill.Reroll.Tooltip=You may reroll the choices given a limited number of times.
 \\
 \\\\
-Oct.Code.Characters.LevelUp.Skill.Reroll.Tooltip=\\untranslated
+Oct.Code.Characters.LevelUp.Skill.Reroll.Tooltip=Ви можете повторити надані варіанти обмежену кількість разів.
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.Continue=Continue
 \\
 \\\\
-Oct.Code.Characters.LevelUp.Continue=\\untranslated
+Oct.Code.Characters.LevelUp.Continue=Продовжити
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.Title=Level Up!
 \\
 \\\\
-Oct.Code.Characters.LevelUp.Title=\\untranslated
+Oct.Code.Characters.LevelUp.Title=Підвищення рівня!
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.ChooseAbility=Choose Level {level} Ability
 \\
 \\\\
-Oct.Code.Characters.LevelUp.ChooseAbility=\\untranslated
+Oct.Code.Characters.LevelUp.ChooseAbility=Виберіть {level} рівень здатності
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.Header=Choose {ability} Ability
 \\
 \\\\
-Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.Header=\\untranslated
+Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.Header=Виберіть здатність {ability}
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantSkills=Relevant Skills
 \\
 \\\\
-Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantSkills=\\untranslated
+Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantSkills=Відповідні навички
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantAssignedJobs=Relevant Assigned Jobs
 \\
 \\\\
-Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantAssignedJobs=\\untranslated
+Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantAssignedJobs=Відповідні призначені вакансії
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantUnassignedJobs=Relevant Unassigned Jobs
 \\
 \\\\
-Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantUnassignedJobs=\\untranslated
+Oct.Code.Characters.LevelUp.ChooseAbility.Tooltip.RelevantUnassignedJobs=Відповідні нерозподілені вакансії
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.ChooseAbility.Reroll=Reroll
 \\
 \\\\
-Oct.Code.Characters.LevelUp.ChooseAbility.Reroll=\\untranslated
+Oct.Code.Characters.LevelUp.ChooseAbility.Reroll=Перекинути
 
 \\\\
 \\
 \\	Oct.Code.Characters.LevelUp.RollingAbility=Rolling Level {level} Ability!
 \\
 \\\\
-Oct.Code.Characters.LevelUp.RollingAbility=\\untranslated
+Oct.Code.Characters.LevelUp.RollingAbility=Перекинути рівень {level} здатності!
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Jobs.Skills=Skills
 \\
 \\\\
-Oct.Code.Characters.Sheet.Jobs.Skills=\\untranslated
+Oct.Code.Characters.Sheet.Jobs.Skills=Навички
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Jobs.Assignments=Assignments
 \\
 \\\\
-Oct.Code.Characters.Sheet.Jobs.Assignments=\\untranslated
+Oct.Code.Characters.Sheet.Jobs.Assignments=Доручення
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Prestige.Tooltip=Prestige: Worth the Mortal assigns to their belongings
 \\
 \\\\
-Oct.Code.Characters.Sheet.Prestige.Tooltip=\\untranslated
+Oct.Code.Characters.Sheet.Prestige.Tooltip=Престиж: цінність, яку смертний призначає своїм речам
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Ambition.Tooltip=Ambition: Mortal's desired Prestige, limited by total value of all Kingdom Belongings
 \\
 \\\\
-Oct.Code.Characters.Sheet.Ambition.Tooltip=\\untranslated
+Oct.Code.Characters.Sheet.Ambition.Tooltip=Амбіції: бажаний престиж смертного, обмежений загальною цінністю всього майна королівства
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Belongings=Belongings
 \\
 \\\\
-Oct.Code.Characters.Sheet.Belongings=\\untranslated
+Oct.Code.Characters.Sheet.Belongings=Пожитки
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Wants=Wants
 \\
 \\\\
-Oct.Code.Characters.Sheet.Wants=\\untranslated
+Oct.Code.Characters.Sheet.Wants=Хоче
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Overview=Overview
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Overview=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Overview=Огляд
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Needs=Needs
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Needs=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Needs=Потреби
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Vitals=Vitals
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Vitals=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Vitals=Показники
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Jobs=Jobs
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Jobs=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Jobs=Праця
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Prestige=Prestige
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Prestige=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Prestige=Престиж
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Esteem=Esteem
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Esteem=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Esteem=Повага
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Obedience=Obedience
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Obedience=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Obedience=Послух
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Compatibility=Compatibility
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Compatibility=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Compatibility=Сумісність
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Opinions=Opinions
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Opinions=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Opinions=Думки
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Relationships=Relationships
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Relationships=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Relationships=Відносини
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Sexuality=Sexuality
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Sexuality=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Sexuality=Привабливість
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.History=History
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.History=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.History=Історія
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Tabs.Properties=Properties
 \\
 \\\\
-Oct.Code.Characters.Sheet.Tabs.Properties=\\untranslated
+Oct.Code.Characters.Sheet.Tabs.Properties=Властивості
 
 \\\\
 \\
@@ -11335,7 +11335,7 @@ Oct.Code.Characters.Development.Points=\\untranslated
 \\	Oct.Code.Characters.Tolerance.Natural=Natural
 \\
 \\\\
-Oct.Code.Characters.Tolerance.Natural=\\untranslated
+Oct.Code.Characters.Tolerance.Natural=Natural
 
 \\\\
 \\
@@ -11412,98 +11412,98 @@ Oct.Code.Characters.Rename.Kingdom.Lands=\\untranslated
 \\	Oct.Code.Characters.Sheet.LevelUp=Level Up
 \\
 \\\\
-Oct.Code.Characters.Sheet.LevelUp=\\untranslated
+Oct.Code.Characters.Sheet.LevelUp=Підвищення рівня
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Rename.Tooltip=Edit Name
 \\
 \\\\
-Oct.Code.Characters.Sheet.Rename.Tooltip=\\untranslated
+Oct.Code.Characters.Sheet.Rename.Tooltip=Зміна ім'я
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Edit.Tooltip=Edit Appearance
 \\
 \\\\
-Oct.Code.Characters.Sheet.Edit.Tooltip=\\untranslated
+Oct.Code.Characters.Sheet.Edit.Tooltip=Зміна зовнішнього вигляду
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Injuries=Injuries
 \\
 \\\\
-Oct.Code.Characters.Sheet.Injuries=\\untranslated
+Oct.Code.Characters.Sheet.Injuries=Травми
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Status=Status
 \\
 \\\\
-Oct.Code.Characters.Sheet.Status=\\untranslated
+Oct.Code.Characters.Sheet.Status=Статус
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Obedience=Obedience
 \\
 \\\\
-Oct.Code.Characters.Sheet.Obedience=\\untranslated
+Oct.Code.Characters.Sheet.Obedience=Слухняність
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Compatibilitiy.Others=Others
 \\
 \\\\
-Oct.Code.Characters.Sheet.Compatibilitiy.Others=\\untranslated
+Oct.Code.Characters.Sheet.Compatibilitiy.Others=Інші
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Attraction.Profile=Profile
 \\
 \\\\
-Oct.Code.Characters.Sheet.Attraction.Profile=\\untranslated
+Oct.Code.Characters.Sheet.Attraction.Profile=Профіль
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Attraction.AttractedTo=Attracted To
 \\
 \\\\
-Oct.Code.Characters.Sheet.Attraction.AttractedTo=\\untranslated
+Oct.Code.Characters.Sheet.Attraction.AttractedTo=Приваблює
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Attraction.Fertility=Fertility
 \\
 \\\\
-Oct.Code.Characters.Sheet.Attraction.Fertility=\\untranslated
+Oct.Code.Characters.Sheet.Attraction.Fertility=Плідність
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Attraction.Partner=Partner
 \\
 \\\\
-Oct.Code.Characters.Sheet.Attraction.Partner=\\untranslated
+Oct.Code.Characters.Sheet.Attraction.Partner=Партнер
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Attraction.Suitors=Suitors
 \\
 \\\\
-Oct.Code.Characters.Sheet.Attraction.Suitors=\\untranslated
+Oct.Code.Characters.Sheet.Attraction.Suitors=Залицяльники
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Family={family} Family
 \\
 \\\\
-Oct.Code.Characters.Sheet.Family=\\untranslated
+Oct.Code.Characters.Sheet.Family=Сім'я {family}
 
 \\\\
 \\
 \\	Oct.Code.Characters.Sheet.Family.None={family} (No Family)
 \\
 \\\\
-Oct.Code.Characters.Sheet.Family.None=\\untranslated
+Oct.Code.Characters.Sheet.Family.None={family} (No Family)
 
 \\\\
 \\
@@ -13918,217 +13918,217 @@ Oct.Code.Commands.Gather=\\untranslated
 \\	Oct.Code.Common.Add=Add
 \\
 \\\\
-Oct.Code.Common.Add=\\untranslated
+Oct.Code.Common.Add=Додати
 
 \\\\
 \\
 \\	Oct.Code.Common.AddAPrinciple=Add a Principle
 \\
 \\\\
-Oct.Code.Common.AddAPrinciple=\\untranslated
+Oct.Code.Common.AddAPrinciple=Додайте принцип
 
 \\\\
 \\
 \\	Oct.Code.Common.AddStockpile=Add Stockpile
 \\
 \\\\
-Oct.Code.Common.AddStockpile=\\untranslated
+Oct.Code.Common.AddStockpile=Додати сховище
 
 \\\\
 \\
 \\	Oct.Code.Common.AddTask=Add Task
 \\
 \\\\
-Oct.Code.Common.AddTask=\\untranslated
+Oct.Code.Common.AddTask=Додати доручення
 
 \\\\
 \\
 \\	Oct.Code.Common.AddZone=Add {zone}
 \\
 \\\\
-Oct.Code.Common.AddZone=\\untranslated
+Oct.Code.Common.AddZone=Додати {zone}
 
 \\\\
 \\
 \\	Oct.Code.Common.All=All
 \\
 \\\\
-Oct.Code.Common.All=\\untranslated
+Oct.Code.Common.All=Все
 
 \\\\
 \\
 \\	Oct.Code.Common.All.Type=All {type}
 \\
 \\\\
-Oct.Code.Common.All.Type=\\untranslated
+Oct.Code.Common.All.Type=Все {type}
 
 \\\\
 \\
 \\	Oct.Code.Common.AllOf=All of
 \\
 \\\\
-Oct.Code.Common.AllOf=\\untranslated
+Oct.Code.Common.AllOf=Всі
 
 \\\\
 \\
 \\	Oct.Code.Common.AllowAll=Allow All
 \\
 \\\\
-Oct.Code.Common.AllowAll=\\untranslated
+Oct.Code.Common.AllowAll=Дозволити всім
 
 \\\\
 \\
 \\	Oct.Code.Common.Any=Any
 \\
 \\\\
-Oct.Code.Common.Any=\\untranslated
+Oct.Code.Common.Any=Будь-який
 
 \\\\
 \\
 \\	Oct.Code.Common.Assigned=Assigned
 \\
 \\\\
-Oct.Code.Common.Assigned=\\untranslated
+Oct.Code.Common.Assigned=Призначений
 
 \\\\
 \\
 \\	Oct.Code.Common.Attack=Attack
 \\
 \\\\
-Oct.Code.Common.Attack=\\untranslated
+Oct.Code.Common.Attack=Атака
 
 \\\\
 \\
 \\	Oct.Code.Common.Attributes=Attributes
 \\
 \\\\
-Oct.Code.Common.Attributes=\\untranslated
+Oct.Code.Common.Attributes=Атрибути
 
 \\\\
 \\
 \\	Oct.Code.Common.Autonomous=Autonomous
 \\
 \\\\
-Oct.Code.Common.Autonomous=\\untranslated
+Oct.Code.Common.Autonomous=Автономний
 
 \\\\
 \\
 \\	Oct.Code.Common.Back=Back
 \\
 \\\\
-Oct.Code.Common.Back=\\untranslated
+Oct.Code.Common.Back=Назад
 
 \\\\
 \\
 \\	Oct.Code.Common.Base=Base
 \\
 \\\\
-Oct.Code.Common.Base=\\untranslated
+Oct.Code.Common.Base=База
 
 \\\\
 \\
 \\	Oct.Code.Common.Belonging=Belonging
 \\
 \\\\
-Oct.Code.Common.Belonging=\\untranslated
+Oct.Code.Common.Belonging=Приналежність
 
 \\\\
 \\
 \\	Oct.Code.Common.Buffs=Buffs
 \\
 \\\\
-Oct.Code.Common.Buffs=\\untranslated
+Oct.Code.Common.Buffs=Баффи
 
 \\\\
 \\
 \\	Oct.Code.Common.Building=Building
 \\
 \\\\
-Oct.Code.Common.Building=\\untranslated
+Oct.Code.Common.Building=Будівництво
 
 \\\\
 \\
 \\	Oct.Code.Common.Cancel=Cancel
 \\
 \\\\
-Oct.Code.Common.Cancel=\\untranslated
+Oct.Code.Common.Cancel=Скасувати
 
 \\\\
 \\
 \\	Oct.Code.Common.Category=Category
 \\
 \\\\
-Oct.Code.Common.Category=\\untranslated
+Oct.Code.Common.Category=Категорія
 
 \\\\
 \\
 \\	Oct.Code.Common.Clear=Clear
 \\
 \\\\
-Oct.Code.Common.Clear=\\untranslated
+Oct.Code.Common.Clear=Чистий
 
 \\\\
 \\
 \\	Oct.Code.Common.Close=Close
 \\
 \\\\
-Oct.Code.Common.Close=\\untranslated
+Oct.Code.Common.Close=Закрити
 
 \\\\
 \\
 \\	Oct.Code.Common.Continue=Continue
 \\
 \\\\
-Oct.Code.Common.Continue=\\untranslated
+Oct.Code.Common.Continue=Продовжити
 
 \\\\
 \\
 \\	Oct.Code.Common.Count=Count
 \\
 \\\\
-Oct.Code.Common.Count=\\untranslated
+Oct.Code.Common.Count=Кількість
 
 \\\\
 \\
 \\	Oct.Code.Common.CopyMapSeed=Copy Map Seed
 \\
 \\\\
-Oct.Code.Common.CopyMapSeed=\\untranslated
+Oct.Code.Common.CopyMapSeed=Копіювати зерно мапи
 
 \\\\
 \\
 \\	Oct.Code.Common.Cut=Cut
 \\
 \\\\
-Oct.Code.Common.Cut=\\untranslated
+Oct.Code.Common.Cut=Вирізати
 
 \\\\
 \\
 \\	Oct.Code.Common.Decays=Decays
 \\
 \\\\
-Oct.Code.Common.Decays=\\untranslated
+Oct.Code.Common.Decays=Розпад
 
 \\\\
 \\
 \\	Oct.Code.Common.DeselectAll=Deselect All
 \\
 \\\\
-Oct.Code.Common.DeselectAll=\\untranslated
+Oct.Code.Common.DeselectAll=Зняти вибір із усіх
 
 \\\\
 \\
 \\	Oct.Code.Common.Destroy=Destroy
 \\
 \\\\
-Oct.Code.Common.Destroy=\\untranslated
+Oct.Code.Common.Destroy=Знищити
 
 \\\\
 \\
 \\	Oct.Code.Common.Details=Details
 \\
 \\\\
-Oct.Code.Common.Details=\\untranslated
+Oct.Code.Common.Details=Подробиці
 
 \\\\
 \\
@@ -14142,539 +14142,539 @@ Oct.Code.Common.Dig=Копати
 \\	Oct.Code.Common.DisallowAll=Disallow All
 \\
 \\\\
-Oct.Code.Common.DisallowAll=\\untranslated
+Oct.Code.Common.DisallowAll=Заборонити всім
 
 \\\\
 \\
 \\	Oct.Code.Common.Drink=Drink
 \\
 \\\\
-Oct.Code.Common.Drink=\\untranslated
+Oct.Code.Common.Drink=Пити
 
 \\\\
 \\
 \\	Oct.Code.Common.Durability=Durability
 \\
 \\\\
-Oct.Code.Common.Durability=\\untranslated
+Oct.Code.Common.Durability=Стійкість
 
 \\\\
 \\
 \\	Oct.Code.Common.Eat=Eat
 \\
 \\\\
-Oct.Code.Common.Eat=\\untranslated
+Oct.Code.Common.Eat=Їсти
 
 \\\\
 \\
 \\	Oct.Code.Common.Empty=Empty
 \\
 \\\\
-Oct.Code.Common.Empty=\\untranslated
+Oct.Code.Common.Empty=Порожній
 
 \\\\
 \\
 \\	Oct.Code.Common.Equipped=Equipped
 \\
 \\\\
-Oct.Code.Common.Equipped=\\untranslated
+Oct.Code.Common.Equipped=Обладнаний
 
 \\\\
 \\
 \\	Oct.Code.Common.Expected=Expected
 \\
 \\\\
-Oct.Code.Common.Expected=\\untranslated
+Oct.Code.Common.Expected=Очікуваний
 
 \\\\
 \\
 \\	Oct.Code.Common.Everything=Everything
 \\
 \\\\
-Oct.Code.Common.Everything=\\untranslated
+Oct.Code.Common.Everything=Все
 
 \\\\
 \\
 \\	Oct.Code.Common.Forever=Forever
 \\
 \\\\
-Oct.Code.Common.Forever=\\untranslated
+Oct.Code.Common.Forever=Назавжди
 
 \\\\
 \\
 \\	Oct.Code.Common.Harvest=Harvest
 \\
 \\\\
-Oct.Code.Common.Harvest=\\untranslated
+Oct.Code.Common.Harvest=Жнива
 
 \\\\
 \\
 \\	Oct.Code.Common.Health=Health
 \\
 \\\\
-Oct.Code.Common.Health=\\untranslated
+Oct.Code.Common.Health=Здоров'я
 
 \\\\
 \\
 \\	Oct.Code.Common.Infinite=Infinite
 \\
 \\\\
-Oct.Code.Common.Infinite=\\untranslated
+Oct.Code.Common.Infinite=Нескінченна
 
 \\\\
 \\
 \\	Oct.Code.Common.Ingredients=Ingredients
 \\
 \\\\
-Oct.Code.Common.Ingredients=\\untranslated
+Oct.Code.Common.Ingredients=Інгредієнти
 
 \\\\
 \\
 \\	Oct.Code.Common.Insulation=Insulation
 \\
 \\\\
-Oct.Code.Common.Insulation=\\untranslated
+Oct.Code.Common.Insulation=Ізоляція
 
 \\\\
 \\
 \\	Oct.Code.Common.Learned=Learned
 \\
 \\\\
-Oct.Code.Common.Learned=\\untranslated
+Oct.Code.Common.Learned=Навчений
 
 \\\\
 \\
 \\	Oct.Code.Common.LeftClick=[L Click]
 \\
 \\\\
-Oct.Code.Common.LeftClick=\\untranslated
+Oct.Code.Common.LeftClick=[Натисніть ЛКМ]
 
 \\\\
 \\
 \\	Oct.Code.Common.Lifetime=Lifetime
 \\
 \\\\
-Oct.Code.Common.Lifetime=\\untranslated
+Oct.Code.Common.Lifetime=Час життя
 
 \\\\
 \\
 \\	Oct.Code.Common.Loading=Loading
 \\
 \\\\
-Oct.Code.Common.Loading=\\untranslated
+Oct.Code.Common.Loading=Завантаження
 
 \\\\
 \\
 \\	Oct.Code.Common.Maintain=Maintain
 \\
 \\\\
-Oct.Code.Common.Maintain=\\untranslated
+Oct.Code.Common.Maintain=Підтримка
 
 \\\\
 \\
 \\	Oct.Code.Common.Mortal=Mortal
 \\
 \\\\
-Oct.Code.Common.Mortal=\\untranslated
+Oct.Code.Common.Mortal=Смертельний
 
 \\\\
 \\
 \\	Oct.Code.Common.Mortals=Mortals
 \\
 \\\\
-Oct.Code.Common.Mortals=\\untranslated
+Oct.Code.Common.Mortals=Смертні
 
 \\\\
 \\
 \\	Oct.Code.Common.Multiple=Multiple
 \\
 \\\\
-Oct.Code.Common.Multiple=\\untranslated
+Oct.Code.Common.Multiple=Багаторазовий
 
 \\\\
 \\
 \\	Oct.Code.Common.Next=Next
 \\
 \\\\
-Oct.Code.Common.Next=\\untranslated
+Oct.Code.Common.Next=Далі
 
 \\\\
 \\
 \\	Oct.Code.Common.Never=Never
 \\
 \\\\
-Oct.Code.Common.Never=\\untranslated
+Oct.Code.Common.Never=Ніколи
 
 \\\\
 \\
 \\	Oct.Code.Common.No=No
 \\
 \\\\
-Oct.Code.Common.No=\\untranslated
+Oct.Code.Common.No=Ні
 
 \\\\
 \\
 \\	Oct.Code.Common.None=None
 \\
 \\\\
-Oct.Code.Common.None=\\untranslated
+Oct.Code.Common.None=Жоден
 
 \\\\
 \\
 \\	Oct.Code.Common.NotAssigned=Not Assigned
 \\
 \\\\
-Oct.Code.Common.NotAssigned=\\untranslated
+Oct.Code.Common.NotAssigned=Не призначено
 
 \\\\
 \\
 \\	Oct.Code.Common.Ok=Ok
 \\
 \\\\
-Oct.Code.Common.Ok=\\untranslated
+Oct.Code.Common.Ok=Гаразд
 
 \\\\
 \\
 \\	Oct.Code.Common.Opinion=Opinion
 \\
 \\\\
-Oct.Code.Common.Opinion=\\untranslated
+Oct.Code.Common.Opinion=Думка
 
 \\\\
 \\
 \\	Oct.Code.Common.Opinions=Opinions
 \\
 \\\\
-Oct.Code.Common.Opinions=\\untranslated
+Oct.Code.Common.Opinions=Думки
 
 \\\\
 \\
 \\	Oct.Code.Common.OriginName={origin} Origin
 \\
 \\\\
-Oct.Code.Common.OriginName=\\untranslated
+Oct.Code.Common.OriginName={origin} Походження
 
 \\\\
 \\
 \\	Oct.Code.Common.Owner=Owner
 \\
 \\\\
-Oct.Code.Common.Owner=\\untranslated
+Oct.Code.Common.Owner=Власник
 
 \\\\
 \\
 \\	Oct.Code.Common.Petition=Petition
 \\
 \\\\
-Oct.Code.Common.Petition=\\untranslated
+Oct.Code.Common.Petition=Петиція
 
 \\\\
 \\
 \\	Oct.Code.Common.Petitions=Petitions
 \\
 \\\\
-Oct.Code.Common.Petitions=\\untranslated
+Oct.Code.Common.Petitions=Петиції
 
 \\\\
 \\
 \\	Oct.Code.Common.Potential=Potential
 \\
 \\\\
-Oct.Code.Common.Potential=\\untranslated
+Oct.Code.Common.Potential=Потенціал
 
 \\\\
 \\
 \\	Oct.Code.Common.Preachings=Preachings
 \\
 \\\\
-Oct.Code.Common.Preachings=\\untranslated
+Oct.Code.Common.Preachings=Проповіді
 
 \\\\
 \\
 \\	Oct.Code.Common.PreachingsRemaining=Preachings Remaining
 \\
 \\\\
-Oct.Code.Common.PreachingsRemaining=\\untranslated
+Oct.Code.Common.PreachingsRemaining=Проповідей залишилися
 
 \\\\
 \\
 \\	Oct.Code.Common.PreachingsRequired=Preachings Required
 \\
 \\\\
-Oct.Code.Common.PreachingsRequired=\\untranslated
+Oct.Code.Common.PreachingsRequired=Потрібні проповіді
 
 \\\\
 \\
 \\	Oct.Code.Common.Precision=Precision
 \\
 \\\\
-Oct.Code.Common.Precision=\\untranslated
+Oct.Code.Common.Precision=Точність
 
 \\\\
 \\
 \\	Oct.Code.Common.Prestige=Prestige
 \\
 \\\\
-Oct.Code.Common.Prestige=\\untranslated
+Oct.Code.Common.Prestige=Престиж
 
 \\\\
 \\
 \\	Oct.Code.Common.Principles=Principles
 \\
 \\\\
-Oct.Code.Common.Principles=\\untranslated
+Oct.Code.Common.Principles=Принципи
 
 \\\\
 \\
 \\	Oct.Code.Common.Priority=Priority
 \\
 \\\\
-Oct.Code.Common.Priority=\\untranslated
+Oct.Code.Common.Priority=Пріоритет
 
 \\\\
 \\
 \\	Oct.Code.Common.Progress=Progress
 \\
 \\\\
-Oct.Code.Common.Progress=\\untranslated
+Oct.Code.Common.Progress=Розвиток
 
 \\\\
 \\
 \\	Oct.Code.Common.Quality=Quality
 \\
 \\\\
-Oct.Code.Common.Quality=\\untranslated
+Oct.Code.Common.Quality=Якість
 
 \\\\
 \\
 \\	Oct.Code.Common.Quantity=Quantity
 \\
 \\\\
-Oct.Code.Common.Quantity=\\untranslated
+Oct.Code.Common.Quantity=Кількість
 
 \\\\
 \\
 \\	Oct.Code.Common.Rabid=Rabid
 \\
 \\\\
-Oct.Code.Common.Rabid=\\untranslated
+Oct.Code.Common.Rabid=Шалений
 
 \\\\
 \\
 \\	Oct.Code.Common.Randomize=Randomize
 \\
 \\\\
-Oct.Code.Common.Randomize=\\untranslated
+Oct.Code.Common.Randomize=Рандомізувати
 
 \\\\
 \\
 \\	Oct.Code.Common.Remove=Remove
 \\
 \\\\
-Oct.Code.Common.Remove=\\untranslated
+Oct.Code.Common.Remove=Видалити
 
 \\\\
 \\
 \\	Oct.Code.Common.RemoveStockpile=Remove Stockpile
 \\
 \\\\
-Oct.Code.Common.RemoveStockpile=\\untranslated
+Oct.Code.Common.RemoveStockpile=Видалити сховище
 
 \\\\
 \\
 \\	Oct.Code.Common.RemoveZone=Remove {zone}
 \\
 \\\\
-Oct.Code.Common.RemoveZone=\\untranslated
+Oct.Code.Common.RemoveZone=Видалити {zone}
 
 \\\\
 \\
 \\	Oct.Code.Common.Replace=Replace
 \\
 \\\\
-Oct.Code.Common.Replace=\\untranslated
+Oct.Code.Common.Replace=Замінити
 
 \\\\
 \\
 \\	Oct.Code.Common.Research=Research {entry}
 \\
 \\\\
-Oct.Code.Common.Research=\\untranslated
+Oct.Code.Common.Research=Дослідження {entry}
 
 \\\\
 \\
 \\	Oct.Code.Common.ResearchLocked=Locked
 \\
 \\\\
-Oct.Code.Common.ResearchLocked=\\untranslated
+Oct.Code.Common.ResearchLocked=Заблоковано
 
 \\\\
 \\
 \\	Oct.Code.Common.Reset=Reset
 \\
 \\\\
-Oct.Code.Common.Reset=\\untranslated
+Oct.Code.Common.Reset=Скинути
 
 \\\\
 \\
 \\	Oct.Code.Common.RequiresSkillToLearn=Requires {skill} {level} to Learn
 \\
 \\\\
-Oct.Code.Common.RequiresSkillToLearn=\\untranslated
+Oct.Code.Common.RequiresSkillToLearn=Вимагає {skill} {level} щоб вивчити
 
 \\\\
 \\
 \\	Oct.Code.Common.RequiresSkillToVerb=Requires {skill} {level} to {verb}
 \\
 \\\\
-Oct.Code.Common.RequiresSkillToVerb=\\untranslated
+Oct.Code.Common.RequiresSkillToVerb=Вимагає {skill} {level} щоб {verb}
 
 \\\\
 \\
 \\	Oct.Code.Common.Room=Room
 \\
 \\\\
-Oct.Code.Common.Room=\\untranslated
+Oct.Code.Common.Room=Кімната
 
 \\\\
 \\
 \\	Oct.Code.Common.Rotate=Rotate
 \\
 \\\\
-Oct.Code.Common.Rotate=\\untranslated
+Oct.Code.Common.Rotate=Обертати
 
 \\\\
 \\
 \\	Oct.Code.Common.SelectAll=Select All
 \\
 \\\\
-Oct.Code.Common.SelectAll=\\untranslated
+Oct.Code.Common.SelectAll=Обрати усі
 
 \\\\
 \\
 \\	Oct.Code.Common.Slot=Slot
 \\
 \\\\
-Oct.Code.Common.Slot=\\untranslated
+Oct.Code.Common.Slot=Слот
 
 \\\\
 \\
 \\	Oct.Code.Common.Slots=Slots
 \\
 \\\\
-Oct.Code.Common.Slots=\\untranslated
+Oct.Code.Common.Slots=Слоти
 
 \\\\
 \\
 \\	Oct.Code.Common.Stat=Stat
 \\
 \\\\
-Oct.Code.Common.Stat=\\untranslated
+Oct.Code.Common.Stat=Стат
 
 \\\\
 \\
 \\	Oct.Code.Common.Status=Status
 \\
 \\\\
-Oct.Code.Common.Status=\\untranslated
+Oct.Code.Common.Status=Статус
 
 \\\\
 \\
 \\	Oct.Code.Common.Stockpile=Stockpile
 \\
 \\\\
-Oct.Code.Common.Stockpile=\\untranslated
+Oct.Code.Common.Stockpile=сховище
 
 \\\\
 \\
 \\	Oct.Code.Common.Subject={subject}
 \\
 \\\\
-Oct.Code.Common.Subject=\\untranslated
+Oct.Code.Common.Subject={subject}
 
 \\\\
 \\
 \\	Oct.Code.Common.TaskQueue=Task Queue
 \\
 \\\\
-Oct.Code.Common.TaskQueue=\\untranslated
+Oct.Code.Common.TaskQueue=Черга завдань
 
 \\\\
 \\
 \\	Oct.Code.Common.Temperature=Temperature
 \\
 \\\\
-Oct.Code.Common.Temperature=\\untranslated
+Oct.Code.Common.Temperature=Температура
 
 \\\\
 \\
 \\	Oct.Code.Common.Tiles=Tiles
 \\
 \\\\
-Oct.Code.Common.Tiles=\\untranslated
+Oct.Code.Common.Tiles=Плитки
 
 \\\\
 \\
 \\	Oct.Code.Common.Toggle=Toggle
 \\
 \\\\
-Oct.Code.Common.Toggle=\\untranslated
+Oct.Code.Common.Toggle=Перимкнути
 
 \\\\
 \\
 \\	Oct.Code.Common.Tool=Tool
 \\
 \\\\
-Oct.Code.Common.Tool=\\untranslated
+Oct.Code.Common.Tool=Інструмент
 
 \\\\
 \\
 \\	Oct.Code.Common.Total=Total
 \\
 \\\\
-Oct.Code.Common.Total=\\untranslated
+Oct.Code.Common.Total=Всього
 
 \\\\
 \\
 \\	Oct.Code.Common.Type=Type
 \\
 \\\\
-Oct.Code.Common.Type=\\untranslated
+Oct.Code.Common.Type=Тип
 
 \\\\
 \\
 \\	Oct.Code.Common.Unknown=Unknown
 \\
 \\\\
-Oct.Code.Common.Unknown=\\untranslated
+Oct.Code.Common.Unknown=Невідомий
 
 \\\\
 \\
 \\	Oct.Code.Common.Warning=Warning
 \\
 \\\\
-Oct.Code.Common.Warning=\\untranslated
+Oct.Code.Common.Warning=УВАГА
 
 \\\\
 \\
 \\	Oct.Code.Common.Weather=Weather
 \\
 \\\\
-Oct.Code.Common.Weather=\\untranslated
+Oct.Code.Common.Weather=Погода
 
 \\\\
 \\
 \\	Oct.Code.Common.Wetness=Wetness
 \\
 \\\\
-Oct.Code.Common.Wetness=\\untranslated
+Oct.Code.Common.Wetness=Вологість
 
 \\\\
 \\
 \\	Oct.Code.Common.Yes=Yes
 \\
 \\\\
-Oct.Code.Common.Yes=\\untranslated
+Oct.Code.Common.Yes=Так
 
 \\\\
 \\
@@ -14683,28 +14683,28 @@ Oct.Code.Common.Yes=\\untranslated
 \\	Oct.Code.Common.PropertyValue={property}: {value}
 \\
 \\\\
-Oct.Code.Common.PropertyValue=\\untranslated
+Oct.Code.Common.PropertyValue={property}: {value}
 
 \\\\
 \\
 \\	Oct.Code.Common.Ability={ability} Ability
 \\
 \\\\
-Oct.Code.Common.Ability=\\untranslated
+Oct.Code.Common.Ability=Здатність {ability}
 
 \\\\
 \\
 \\	Oct.Code.Common.Rules.Type={type} Rules
 \\
 \\\\
-Oct.Code.Common.Rules.Type=\\untranslated
+Oct.Code.Common.Rules.Type=Правила {type}
 
 \\\\
 \\
 \\	Oct.Code.Common.Rules=Rules
 \\
 \\\\
-Oct.Code.Common.Rules=\\untranslated
+Oct.Code.Common.Rules=Правила
 
 \\\\
 \\
@@ -14713,7 +14713,7 @@ Oct.Code.Common.Rules=\\untranslated
 \\	Oct.Code.Common.Property={property}:
 \\
 \\\\
-Oct.Code.Common.Property=\\untranslated
+Oct.Code.Common.Property={property}:
 
 \\\\
 \\
@@ -14741,266 +14741,266 @@ Oct.Code.Controls.TakeControl=\\untranslated
 \\	Oct.Code.Converation.ShareAbout.Kingdom.First=My kingdom
 \\
 \\\\
-Oct.Code.Converation.ShareAbout.Kingdom.First=\\untranslated
+Oct.Code.Converation.ShareAbout.Kingdom.First=Моє королівство
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Ask.OnMind=What's on your mind?
 \\
 \\\\
-Oct.Code.Conversation.Ask.OnMind=\\untranslated
+Oct.Code.Conversation.Ask.OnMind=Що у тебе на думці?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.Subject.Caption=Ask about {subject}
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.Subject.Caption=\\untranslated
+Oct.Code.Conversation.AskAbout.Subject.Caption=Запитати про {subject}
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout=Ask about
 \\
 \\\\
-Oct.Code.Conversation.AskAbout=\\untranslated
+Oct.Code.Conversation.AskAbout=Запитати про
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.Them=Them
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.Them=\\untranslated
+Oct.Code.Conversation.AskAbout.Them=Їх
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.Me=Me
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.Me=\\untranslated
+Oct.Code.Conversation.AskAbout.Me=Мене
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.Subject={subject}
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.Subject=\\untranslated
+Oct.Code.Conversation.AskAbout.Subject={subject}
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.MyKingdom=My Kingdom
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.MyKingdom=\\untranslated
+Oct.Code.Conversation.AskAbout.MyKingdom=Моє королівство
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.Question.Them=What can you tell me about yourself?
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.Question.Them=\\untranslated
+Oct.Code.Conversation.AskAbout.Question.Them=Що ви можете сказати мені про себе?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.Question.Me=What can you tell me about me?
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.Question.Me=\\untranslated
+Oct.Code.Conversation.AskAbout.Question.Me=Що ви можете сказати мені про мене?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.Question.MyKingdom=What can you tell me about my kingdom?
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.Question.MyKingdom=\\untranslated
+Oct.Code.Conversation.AskAbout.Question.MyKingdom=Що ви можете сказати мені про моє королівство?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.AskAbout.Question.Subject=What can you tell me about {subject}?
 \\
 \\\\
-Oct.Code.Conversation.AskAbout.Question.Subject=\\untranslated
+Oct.Code.Conversation.AskAbout.Question.Subject=Що ви можете сказати мені про {subject}?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Reply.Nothing=Nothing.
 \\
 \\\\
-Oct.Code.Conversation.Reply.Nothing=\\untranslated
+Oct.Code.Conversation.Reply.Nothing=Нічого.
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Reply.NotInterested=I'm not interested in small talk.
 \\
 \\\\
-Oct.Code.Conversation.Reply.NotInterested=\\untranslated
+Oct.Code.Conversation.Reply.NotInterested=Мене не цікавлять балачки.
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Reply.NothingComesToMind=Nothing comes to mind.
 \\
 \\\\
-Oct.Code.Conversation.Reply.NothingComesToMind=\\untranslated
+Oct.Code.Conversation.Reply.NothingComesToMind=Нічого не спадає на думку.
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Ask.Heard=What have you heard?
 \\
 \\\\
-Oct.Code.Conversation.Ask.Heard=\\untranslated
+Oct.Code.Conversation.Ask.Heard=Що ви чули?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Inspire=Inspire Efforts
 \\
 \\\\
-Oct.Code.Conversation.Inspire=\\untranslated
+Oct.Code.Conversation.Inspire=Надихання зусиллями
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Inspire.Job=Inspire {job} Efforts
 \\
 \\\\
-Oct.Code.Conversation.Inspire.Job=\\untranslated
+Oct.Code.Conversation.Inspire.Job=Надихання зусиллями {job}
 
 \\\\
 \\
 \\	Oct.Code.Conversation.PreachAbout=Preach About
 \\
 \\\\
-Oct.Code.Conversation.PreachAbout=\\untranslated
+Oct.Code.Conversation.PreachAbout=Проповідувати про
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Preach.Generic=How about that {subject}?
 \\
 \\\\
-Oct.Code.Conversation.Preach.Generic=\\untranslated
+Oct.Code.Conversation.Preach.Generic=Як щодо цього {subject}?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Recognize=Recognize Accomplishments
 \\
 \\\\
-Oct.Code.Conversation.Recognize=\\untranslated
+Oct.Code.Conversation.Recognize=Визнайте досягнення
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Recognize.Character=Recognize Accomplishments of {character}
 \\
 \\\\
-Oct.Code.Conversation.Recognize.Character=\\untranslated
+Oct.Code.Conversation.Recognize.Character=Визнати досягнення {character}
 
 \\\\
 \\
 \\	Oct.Code.Conversation.RespondWith=Respond with
 \\
 \\\\
-Oct.Code.Conversation.RespondWith=\\untranslated
+Oct.Code.Conversation.RespondWith=Відповісти з
 
 \\\\
 \\
 \\	Oct.Code.Conversation.WhatElse.About=What else can you tell me about {subject}?
 \\
 \\\\
-Oct.Code.Conversation.WhatElse.About=\\untranslated
+Oct.Code.Conversation.WhatElse.About=Що ще ви можете мені сказати про {subject}?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.WhatElse.About.Second=yourself
 \\
 \\\\
-Oct.Code.Conversation.WhatElse.About.Second=\\untranslated
+Oct.Code.Conversation.WhatElse.About.Second=себе
 
 \\\\
 \\
 \\	Oct.Code.Conversation.WhatElse=What else?
 \\
 \\\\
-Oct.Code.Conversation.WhatElse=\\untranslated
+Oct.Code.Conversation.WhatElse=Що ще?
 
 \\\\
 \\
 \\	Oct.Code.Conversation.ShareAbout=Share information about
 \\
 \\\\
-Oct.Code.Conversation.ShareAbout=\\untranslated
+Oct.Code.Conversation.ShareAbout=Поділитися інформацією про
 
 \\\\
 \\
 \\	Oct.Code.Conversation.ShareAbout.First=Me
 \\
 \\\\
-Oct.Code.Conversation.ShareAbout.First=\\untranslated
+Oct.Code.Conversation.ShareAbout.First=Мене
 
 \\\\
 \\
 \\	Oct.Code.Conversation.ShareAbout.Second=Them
 \\
 \\\\
-Oct.Code.Conversation.ShareAbout.Second=\\untranslated
+Oct.Code.Conversation.ShareAbout.Second=Їх
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Trade=Trade with {faction}
 \\
 \\\\
-Oct.Code.Conversation.Trade=\\untranslated
+Oct.Code.Conversation.Trade=Торгувати з {fraction}
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Header=Conversation with {character}
 \\
 \\\\
-Oct.Code.Conversation.Header=\\untranslated
+Oct.Code.Conversation.Header=Розмовляти з {character}
 
 \\\\
 \\
 \\	Oct.Code.Conversation.Filter=Filter
 \\
 \\\\
-Oct.Code.Conversation.Filter=\\untranslated
+Oct.Code.Conversation.Filter=Фільтр
 
 \\\\
 \\
 \\	Oct.Code.Conversation.End=End Conversation
 \\
 \\\\
-Oct.Code.Conversation.End=\\untranslated
+Oct.Code.Conversation.End=Закінчити розмову
 
 \\\\
 \\
 \\	Oct.Code.Conversations.Topics.Advanced=Advanced Topics
 \\
 \\\\
-Oct.Code.Conversations.Topics.Advanced=\\untranslated
+Oct.Code.Conversations.Topics.Advanced=Розширені теми
 
 \\\\
 \\
 \\	oct.Code.DangerousAnimals.Notification.Reports.Single=A {type.singular} has been reported in the area
 \\
 \\\\
-oct.Code.DangerousAnimals.Notification.Reports.Single=\\untranslated
+oct.Code.DangerousAnimals.Notification.Reports.Single=Повідомлено про {type.singular} у цьому районі 
 
 \\\\
 \\
 \\	Oct.Code.DangerousAnimals.Notification.Discovered.Multiple={type.plural} spotted nearby!
 \\
 \\\\
-Oct.Code.DangerousAnimals.Notification.Discovered.Multiple=\\untranslated
+Oct.Code.DangerousAnimals.Notification.Discovered.Multiple={type.plural} помічено поблизу!
 
 \\\\
 \\
 \\	Oct.Code.DangerousAnimals.Notification.Discovered.Single=A {type.singular} has been spotted nearby!
 \\
 \\\\
-Oct.Code.DangerousAnimals.Notification.Discovered.Single=\\untranslated
+Oct.Code.DangerousAnimals.Notification.Discovered.Single=Поруч помічено {type.singular}!
 
 \\\\
 \\
 \\	Oct.Code.DangerousAnimals.Notification.Reports.Multiple=Reports of {type.plural} in the area
 \\
 \\\\
-Oct.Code.DangerousAnimals.Notification.Reports.Multiple=\\untranslated
+Oct.Code.DangerousAnimals.Notification.Reports.Multiple=Повідомлення про {type.plural} у цьому районі
 
 \\\\
 \\
@@ -15049,8 +15049,7 @@ Oct.Code.Demons.Artifact=\\untranslated
 \\	Oct.Code.Dig.RemoveCeiling=Remove Ceiling
 \\
 \\\\
-Oct.Code.Dig.RemoveCeiling=\\untranslated
-
+Oct.Code.Dig.RemoveCeiling=Зняти покриття
 \\\\
 \\
 \\	Oct.Code.Dispatch.ProbabilityOfSuccess.Low=Low
@@ -15315,28 +15314,28 @@ Oct.Code.Escapee.Incoming.Details=\\untranslated
 \\	Oct.Code.FamilyMember.Unknown=Unknown
 \\
 \\\\
-Oct.Code.FamilyMember.Unknown=\\untranslated
+Oct.Code.FamilyMember.Unknown=Невідомо
 
 \\\\
 \\
 \\	Oct.Code.FamilyTree.Controls=[L Click] Portrait: Select Mortal<br>[L Click] Selected: Cycle Entries
 \\
 \\\\
-Oct.Code.FamilyTree.Controls=\\untranslated
+Oct.Code.FamilyTree.Controls=[Клацніть ЛКМ] Портрет: обрати Смертного<br>[Клацніть ЛКМ] Обрано: Записи циклу
 
 \\\\
 \\
 \\	Oct.Code.FamilyTree.Header={family} Family Tree
 \\
 \\\\
-Oct.Code.FamilyTree.Header=\\untranslated
+Oct.Code.FamilyTree.Header=Сімейне дерево {family}
 
 \\\\
 \\
 \\	Oct.Code.FamilyTree.Member.Unknown=Unknown
 \\
 \\\\
-Oct.Code.FamilyTree.Member.Unknown=\\untranslated
+Oct.Code.FamilyTree.Member.Unknown=Невідомо
 
 \\\\
 \\
@@ -15588,42 +15587,42 @@ Oct.Code.Food.Remaining=\\untranslated
 \\	Oct.Code.FoodAndDrink.Header=Food And Drink
 \\
 \\\\
-Oct.Code.FoodAndDrink.Header=\\untranslated
+Oct.Code.FoodAndDrink.Header=Їжа та напої
 
 \\\\
 \\
 \\	Oct.Code.FoodAndDrink.Override=Override
 \\
 \\\\
-Oct.Code.FoodAndDrink.Override=\\untranslated
+Oct.Code.FoodAndDrink.Override=Перевизначити
 
 \\\\
 \\
 \\	Oct.Code.FoodAndDrink.Cook=Cook
 \\
 \\\\
-Oct.Code.FoodAndDrink.Cook=\\untranslated
+Oct.Code.FoodAndDrink.Cook=Готування
 
 \\\\
 \\
 \\	Oct.Code.FoodAndDrink.Sell=Sell
 \\
 \\\\
-Oct.Code.FoodAndDrink.Sell=\\untranslated
+Oct.Code.FoodAndDrink.Sell=Продаж
 
 \\\\
 \\
 \\	Oct.Code.FoodAndDrink.Markup=Markup
 \\
 \\\\
-Oct.Code.FoodAndDrink.Markup=\\untranslated
+Oct.Code.FoodAndDrink.Markup=Розмітка
 
 \\\\
 \\
 \\	Oct.Code.FoodAndDrink.Price=Price
 \\
 \\\\
-Oct.Code.FoodAndDrink.Price=\\untranslated
+Oct.Code.FoodAndDrink.Price=Ціна
 
 \\\\
 \\
@@ -22354,14 +22353,14 @@ Oct.Code.Props.Pipes.Connect.NegZ=\\untranslated
 \\	Oct.Code.Props.Pipes.Exhaust=Exhaust
 \\
 \\\\
-Oct.Code.Props.Pipes.Exhaust=\\untranslated
+Oct.Code.Props.Pipes.Exhaust=Витяжка
 
 \\\\
 \\
 \\	Oct.Code.Props.Pipes.Intake=Intake
 \\
 \\\\
-Oct.Code.Props.Pipes.Intake=\\untranslated
+Oct.Code.Props.Pipes.Intake=Втягування
 
 \\\\
 \\
@@ -23243,28 +23242,28 @@ Oct.Code.StackCharacterWant.Toast=\\untranslated
 \\	Oct.Code.Stats.Mobility=Mobility
 \\
 \\\\
-Oct.Code.Stats.Mobility=\\untranslated
+Oct.Code.Stats.Mobility=Мобільність
 
 \\\\
 \\
 \\	Oct.Code.Stats.Dexterity=Dexterity
 \\
 \\\\
-Oct.Code.Stats.Dexterity=\\untranslated
+Oct.Code.Stats.Dexterity=Спритність
 
 \\\\
 \\
 \\	Oct.Code.Stats.Reasoning=Reasoning
 \\
 \\\\
-Oct.Code.Stats.Reasoning=\\untranslated
+Oct.Code.Stats.Reasoning=Міркування
 
 \\\\
 \\
 \\	Oct.Code.Stats.Food=Food
 \\
 \\\\
-Oct.Code.Stats.Food=\\untranslated
+Oct.Code.Stats.Food=Їсть
 
 \\\\
 \\
@@ -23285,7 +23284,7 @@ Oct.Code.Stats.Sleep=\\untranslated
 \\	Oct.Code.Stats.Pain=Pain
 \\
 \\\\
-Oct.Code.Stats.Pain=\\untranslated
+Oct.Code.Stats.Pain=Мучить
 
 \\\\
 \\
@@ -23299,7 +23298,7 @@ Oct.Code.Stats.Comfort=\\untranslated
 \\	Oct.Code.Stats.Tolerance=Tolerance
 \\
 \\\\
-Oct.Code.Stats.Tolerance=\\untranslated
+Oct.Code.Stats.Tolerance=Толерантність
 
 \\\\
 \\
@@ -23712,84 +23711,84 @@ Oct.Code.ThirdPerson.CarriedItems=\\untranslated
 \\	Oct.Code.Time.TimeFrame.Months={count}m
 \\
 \\\\
-Oct.Code.Time.TimeFrame.Months=\\untranslated
+Oct.Code.Time.TimeFrame.Months={count}х
 
 \\\\
 \\
 \\	Oct.Code.Time.TimeFrame.Hours={count}h
 \\
 \\\\
-Oct.Code.Time.TimeFrame.Hours=\\untranslated
+Oct.Code.Time.TimeFrame.Hours={count}г
 
 \\\\
 \\
 \\	Oct.Code.Time.TimeFrame.Days={count}d
 \\
 \\\\
-Oct.Code.Time.TimeFrame.Days=\\untranslated
+Oct.Code.Time.TimeFrame.Days={count}д
 
 \\\\
 \\
 \\	Oct.Code.Time.TimeFrame.Years={count}y
 \\
 \\\\
-Oct.Code.Time.TimeFrame.Years=\\untranslated
+Oct.Code.Time.TimeFrame.Years={count}р
 
 \\\\
 \\
 \\	Oct.Code.Time.Cycle.ExtraShort=Extra Short Cycle
 \\
 \\\\
-Oct.Code.Time.Cycle.ExtraShort=\\untranslated
+Oct.Code.Time.Cycle.ExtraShort=Дуже короткий цикл
 
 \\\\
 \\
 \\	Oct.Code.Time.Cycle.ExtraShort.Details=Noberia's relationship with the Cosmos has triggered an Extra Short Cycle. Each Sizon will last 1 Yir.
 \\
 \\\\
-Oct.Code.Time.Cycle.ExtraShort.Details=\\untranslated
+Oct.Code.Time.Cycle.ExtraShort.Details=Відносини Ноберії з космосом запустили надкороткий цикл. Кожен сезон триватиме 1 рік.
 
 \\\\
 \\
 \\	Oct.Code.Time.Cycle.Short=Short Cycle
 \\
 \\\\
-Oct.Code.Time.Cycle.Short=\\untranslated
+Oct.Code.Time.Cycle.Short=Короткий цикл
 
 \\\\
 \\
 \\	Oct.Code.Time.Cycle.Short.Details=Noberia's relationship with the Cosmos has triggered a Short Cycle. Each Sizon will last 2 Yirs.
 \\
 \\\\
-Oct.Code.Time.Cycle.Short.Details=\\untranslated
+Oct.Code.Time.Cycle.Short.Details=Відносини Ноберії з космосом запустили короткий цикл. Кожен сезон триватиме 2 роки.
 
 \\\\
 \\
 \\	Oct.Code.Time.Cycle.Long=Long Cycle
 \\
 \\\\
-Oct.Code.Time.Cycle.Long=\\untranslated
+Oct.Code.Time.Cycle.Long=Довгий цикл
 
 \\\\
 \\
 \\	Oct.Code.Time.Cycle.Long.Details=Noberia's relationship with the Cosmos has triggered a Long Cycle. Each Sizon will last 4 Yirs.
 \\
 \\\\
-Oct.Code.Time.Cycle.Long.Details=\\untranslated
+Oct.Code.Time.Cycle.Long.Details=Відносини Ноберії з космосом запустили довгий цикл. Кожен сезон триватиме 4 роки.
 
 \\\\
 \\
 \\	Oct.Code.Time.Cycle.ExtraLong=Extra Long Cycle
 \\
 \\\\
-Oct.Code.Time.Cycle.ExtraLong=\\untranslated
+Oct.Code.Time.Cycle.ExtraLong=Наддовгий цикл
 
 \\\\
 \\
 \\	Oct.Code.Time.Cycle.ExtraLong.Details=Noberia's relationship with the Cosmos has triggered an Extra Long Cycle. Each Sizon will last 5 Yirs.
 \\
 \\\\
-Oct.Code.Time.Cycle.ExtraLong.Details=\\untranslated
+Oct.Code.Time.Cycle.ExtraLong.Details=Відносини Ноберії з космосом запустили наддовгий цикл. Кожен сезон триватиме 5 років.
 
 \\\\
 \\
@@ -23838,49 +23837,49 @@ Oct.Code.Time.Common.Remaining=\\untranslated
 \\	Oct.Code.Time.TogglePause.Tooltip=Toggle Pause
 \\
 \\\\
-Oct.Code.Time.TogglePause.Tooltip=\\untranslated
+Oct.Code.Time.TogglePause.Tooltip=Перемкнути паузу
 
 \\\\
 \\
 \\	Oct.Code.Time.SlowSpeed.Tooltip=Slow Speed
 \\
 \\\\
-Oct.Code.Time.SlowSpeed.Tooltip=\\untranslated
+Oct.Code.Time.SlowSpeed.Tooltip=Повільна швидкість
 
 \\\\
 \\
 \\	Oct.Code.Time.NormalSpeed.Tooltip=Normal Speed
 \\
 \\\\
-Oct.Code.Time.NormalSpeed.Tooltip=\\untranslated
+Oct.Code.Time.NormalSpeed.Tooltip=Нормальна швидкість
 
 \\\\
 \\
 \\	Oct.Code.Time.FastSpeed.Tooltip=Fast Speed
 \\
 \\\\
-Oct.Code.Time.FastSpeed.Tooltip=\\untranslated
+Oct.Code.Time.FastSpeed.Tooltip=Швидка швидкість
 
 \\\\
 \\
 \\	Oct.Code.Time.FastestSpeed.Tooltip=Fastest Speed
 \\
 \\\\
-Oct.Code.Time.FastestSpeed.Tooltip=\\untranslated
+Oct.Code.Time.FastestSpeed.Tooltip=Найшвидша швидкість
 
 \\\\
 \\
 \\	Oct.Code.Time.DayOf={numbered} Day of
 \\
 \\\\
-Oct.Code.Time.DayOf=\\untranslated
+Oct.Code.Time.DayOf={numbered} день
 
 \\\\
 \\
 \\	Oct.Code.Time.YirOf=Yir {number} of
 \\
 \\\\
-Oct.Code.Time.YirOf=\\untranslated
+Oct.Code.Time.YirOf=Рік {number} з
 
 \\\\
 \\
@@ -24209,77 +24208,77 @@ Oct.Code.UI.Rename.Done=Гаразд!
 \\	Oct.Code.UI.Visibility=Visibility
 \\
 \\\\
-Oct.Code.UI.Visibility=\\untranslated
+Oct.Code.UI.Visibility=Видимість
 
 \\\\
 \\
 \\	Oct.Code.UI.Layers.Layered=Layered
 \\
 \\\\
-Oct.Code.UI.Layers.Layered=\\untranslated
+Oct.Code.UI.Layers.Layered=Шари
 
 \\\\
 \\
 \\	Oct.Code.UI.Layers.Full=Full
 \\
 \\\\
-Oct.Code.UI.Layers.Full=\\untranslated
+Oct.Code.UI.Layers.Full=Повний
 
 \\\\
 \\
 \\	Oct.Code.UI.Layers.Layer=Layer
 \\
 \\\\
-Oct.Code.UI.Layers.Layer=\\untranslated
+Oct.Code.UI.Layers.Layer=Шар
 
 \\\\
 \\
 \\	Oct.Code.UI.Layers.Controls.Up=[L Click] Up
 \\
 \\\\
-Oct.Code.UI.Layers.Controls.Up=\\untranslated
+Oct.Code.UI.Layers.Controls.Up=[Натисніть ЛКМ] Вгору
 
 \\\\
 \\
 \\	Oct.Code.UI.Layers.Controls.Down=[R Click] Down
 \\
 \\\\
-Oct.Code.UI.Layers.Controls.Down=\\untranslated
+Oct.Code.UI.Layers.Controls.Down=[Натисніть ПКМ] Вниз
 
 \\\\
 \\
 \\	Oct.Code.UI.Layers.Navigate=Navigate
 \\
 \\\\
-Oct.Code.UI.Layers.Navigate=\\untranslated
+Oct.Code.UI.Layers.Navigate=Навігація
 
 \\\\
 \\
 \\	Oct.Code.UI.Roofs=Roofs
 \\
 \\\\
-Oct.Code.UI.Roofs=\\untranslated
+Oct.Code.UI.Roofs=З дахами
 
 \\\\
 \\
 \\	Oct.Code.UI.Roofs.No=No Roofs
 \\
 \\\\
-Oct.Code.UI.Roofs.No=\\untranslated
+Oct.Code.UI.Roofs.No=Без дахів
 
 \\\\
 \\
 \\	Oct.Code.UI.Temperature.Visible=Temperature Visible
 \\
 \\\\
-Oct.Code.UI.Temperature.Visible=\\untranslated
+Oct.Code.UI.Temperature.Visible=Температура видима
 
 \\\\
 \\
 \\	Oct.Code.UI.Temperature.Hidden=Temperature Hidden
 \\
 \\\\
-Oct.Code.UI.Temperature.Hidden=\\untranslated
+Oct.Code.UI.Temperature.Hidden=Температура прихована
 
 \\\\
 \\
@@ -24412,70 +24411,70 @@ Oct.Code.Visibility.Temperature=\\untranslated
 \\	Oct.Code.Visibility.Characters.Names=Names
 \\
 \\\\
-Oct.Code.Visibility.Characters.Names=\\untranslated
+Oct.Code.Visibility.Characters.Names=Імена
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Characters.Speech=Speech
 \\
 \\\\
-Oct.Code.Visibility.Characters.Speech=\\untranslated
+Oct.Code.Visibility.Characters.Speech=Виступ
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Characters.Health=Health
 \\
 \\\\
-Oct.Code.Visibility.Characters.Health=\\untranslated
+Oct.Code.Visibility.Characters.Health=Здоров'я
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Characters.Progress=Progress
 \\
 \\\\
-Oct.Code.Visibility.Characters.Progress=\\untranslated
+Oct.Code.Visibility.Characters.Progress=Прогрес
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Characters.Caps=Caps
 \\
 \\\\
-Oct.Code.Visibility.Characters.Caps=\\untranslated
+Oct.Code.Visibility.Characters.Caps=Капелюхи
 
 \\\\
 \\
 \\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
 \\
 \\\\
-Oct.Code.Visibility.Characters.AbilityTriggers=\\untranslated
+Oct.Code.Visibility.Characters.AbilityTriggers=Тригери здібностей
 
 \\\\
 \\
 \\	Oct.Code.Wanderer.WantsToJoin={pawn} wants to join
 \\
 \\\\
-Oct.Code.Wanderer.WantsToJoin=\\untranslated
+Oct.Code.Wanderer.WantsToJoin={pawn} хоче приєднатися
 
 \\\\
 \\
 \\	Oct.Code.Wanderers.Leaving={party} are leaving
 \\
 \\\\
-Oct.Code.Wanderers.Leaving=\\untranslated
+Oct.Code.Wanderers.Leaving={party} йдуть
 
 \\\\
 \\
 \\	Oct.Code.Wanderers.Visiting={party} are visiting
 \\
 \\\\
-Oct.Code.Wanderers.Visiting=\\untranslated
+Oct.Code.Wanderers.Visiting={party} в гостях
 
 \\\\
 \\
 \\	Oct.Code.Wanderers.Visiting.Details={party} are visiting to check out the colony.
 \\
 \\\\
-Oct.Code.Wanderers.Visiting.Details=\\untranslated
+Oct.Code.Wanderers.Visiting.Details={party} відвідали, щоб перевірити колонію.
 
 \\\\
 \\
@@ -35556,28 +35555,28 @@ Oct.Kingdoms.Beliefs.GrapplingHooksGood.description=\\untranslated
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.notification={from.kingdom} are visiting
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.notification=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.notification={from.kingdom} відвідують
 
 \\\\
 \\
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.details={from.kingdom} asked to visit to learn more about our people.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.details=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.details={from.kingdom} попросив відвідати, щоб дізнатися більше про наших людей.
 
 \\\\
 \\
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.caption=We rejected their visit.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.caption=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.RejectedVisitors.caption=Ми відхилили їхній візит.
 
 \\\\
 \\
 \\	Oct.Kingdoms.Diplomacy.RejectedVisitors.Information.information={to.kingdom} rejected visit from {from.kingdom}
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.RejectedVisitors.Information.information=\\untranslated
+Oct.Kingdoms.Diplomacy.RejectedVisitors.Information.information={to.kingdom} відхилив візит із {from.kingdom}
 
 \\\\
 \\
@@ -35588,7 +35587,9 @@ Oct.Kingdoms.Diplomacy.RejectedVisitors.Information.information=\\untranslated
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, I'm here from {pawn.kingdom}.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, я правитель {pawn.kingdom}.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, я тут від імені свого королівства, {pawn.kingdom}.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+={pawn.address}, я тут із {pawn.kingdom}.
 
 \\\\
 \\
@@ -35599,7 +35600,9 @@ Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.lines+=\\untr
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Uh huh.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Ласкаво просимо, {ruler.address}.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Ласкаво просимо до {ruler.kingdom}, {ruler.address}.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines+=Ага.
 
 \\\\
 \\
@@ -35612,7 +35615,11 @@ Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Intro.Welcome.lines
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=I like what you've done with the place.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Я тут, щоб дізнатися більше про ваше королівство.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Я хотів би покращити наші стосунки.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Я чув... Речі про ваше королівство.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Мені цікаво, що ти тут задумав.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=Мені подобається те, що ви зробили з цим місцем.
 
 \\\\
 \\
@@ -35624,21 +35631,24 @@ Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.lines+=\\unt
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Can we chat?
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Чи можу я залишитися на деякий час?
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Можна озирнутися?
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Можна тут трохи відпочити?
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.lines+=Ми можемо порозмовляти?
 
 \\\\
 \\
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.prompt=Allow {pawn.kingdom} to stay?
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.prompt=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.prompt=Дозволити {pawn.kingdom} залишитися?
 
 \\\\
 \\
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.caption=Yes
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.caption=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.caption=Так
 
 \\\\
 \\
@@ -35649,28 +35659,30 @@ Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Of course, make yourselves at home.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Так, будь ласка, приємного перебування.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Так, будь ласка, влаштуйтеся зручніше.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.Yes.step.lines+=Звичайно, почувайтеся як вдома.
 
 \\\\
 \\
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.caption=We allowed their visit.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.caption=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.AllowedVisitors.caption=Ми дозволили їм відвідати.
 
 \\\\
 \\
 \\	Oct.Kingdoms.Diplomacy.AllowedVisitors.Information.information={from.kingdom} visited {to.kingdom}
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.AllowedVisitors.Information.information=\\untranslated
+Oct.Kingdoms.Diplomacy.AllowedVisitors.Information.information={from.kingdom} відвідав {to.kingdom}
 
 \\\\
 \\
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.caption=No
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.caption=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.caption=Ні
 
 \\\\
 \\
@@ -35681,7 +35693,9 @@ Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=No, not at this time.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=Вибачте, зараз у нас немає часу розважатися.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=Зараз не вдалий час, спробуйте пізніше.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision.No.step.lines+=Ні, не зараз.
 
 \\\\
 \\
@@ -35692,7 +35706,9 @@ Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Finish.Ask.Decision
 \\	Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, I'm here from {pawn.kingdom}. {pawn.ruler} sent me.
 \\
 \\\\
-Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+=\\untranslated
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, я тут від імені {pawn.ruler} і {pawn.kingdom}.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, я тут для {pawn.ruler} і {pawn.kingdom}.
+Oct.Kingdoms.Diplomacy.ImproveRelations.Conversation.Generic.Detailed.lines+={pawn.address}, я тут із {pawn.kingdom}. {pawn.ruler} надіслав мене.
 
 \\\\
 \\
@@ -39302,56 +39318,56 @@ Oct.Moments.Mycologist.Recurring.Discovered.Conversation.Intro.lines+=\\untransl
 \\	Oct.Moments.Weather.Poor.Hot.notification=Heat Wave!
 \\
 \\\\
-Oct.Moments.Weather.Poor.Hot.notification=\\untranslated
+Oct.Moments.Weather.Poor.Hot.notification=Хвиля спеки!
 
 \\\\
 \\
 \\	Oct.Moments.Weather.Poor.Hot.notificationDetails=We are experiencing a Heat Wave!<br>Keep your Mortals Cool to keep them alive!
 \\
 \\\\
-Oct.Moments.Weather.Poor.Hot.notificationDetails=\\untranslated
+Oct.Moments.Weather.Poor.Hot.notificationDetails=Ми переживаємо хвилю спеки!<br>Тримайте своїх смертних у прохолоді, щоб вони вижили!
 
 \\\\
 \\
 \\	Oct.Moments.Weather.Poor.Warm.notification=Warm Weather
 \\
 \\\\
-Oct.Moments.Weather.Poor.Warm.notification=\\untranslated
+Oct.Moments.Weather.Poor.Warm.notification=Тепла погода
 
 \\\\
 \\
 \\	Oct.Moments.Weather.Poor.Warm.notificationDetails=We are experiencing warmer weather.<br>Keep your Mortals Cool to keep them happy.
 \\
 \\\\
-Oct.Moments.Weather.Poor.Warm.notificationDetails=\\untranslated
+Oct.Moments.Weather.Poor.Warm.notificationDetails=Ми переживаємо теплішу погоду.<br>Тримайте своїх смертних у прохолоді, щоб вони були щасливі.
 
 \\\\
 \\
 \\	Oct.Moments.Weather.Poor.Cool.notification=Cool Weather
 \\
 \\\\
-Oct.Moments.Weather.Poor.Cool.notification=\\untranslated
+Oct.Moments.Weather.Poor.Cool.notification=Прохолодна погода
 
 \\\\
 \\
 \\	Oct.Moments.Weather.Poor.Cool.notificationDetails=We are experiencing cooler weather.<br>Keep your Mortals Warm to keep them happy.
 \\
 \\\\
-Oct.Moments.Weather.Poor.Cool.notificationDetails=\\untranslated
+Oct.Moments.Weather.Poor.Cool.notificationDetails=Ми переживаємо прохолодну погоду.<br>Зігрійте своїх смертних, щоб вони були щасливі.
 
 \\\\
 \\
 \\	Oct.Moments.Weather.Poor.Cold.notification=Cold Snap!
 \\
 \\\\
-Oct.Moments.Weather.Poor.Cold.notification=\\untranslated
+Oct.Moments.Weather.Poor.Cold.notification=Похолодання!
 
 \\\\
 \\
 \\	Oct.Moments.Weather.Poor.Cold.notificationDetails=We are experiencing a Cold Snap!<br>Keep your Mortals Warm to keep them alive.
 \\
 \\\\
-Oct.Moments.Weather.Poor.Cold.notificationDetails=\\untranslated
+Oct.Moments.Weather.Poor.Cold.notificationDetails=Ми переживаємо різке похолодання!<br>Зігрійте своїх смертних, щоб вони вижили.
 
 \\\\
 \\
@@ -44516,21 +44532,21 @@ Oct.Props.Attached.FineStone.Spire.Mid.prefabs.2.name=\\untranslated
 \\	Oct.Props.BanditCage.name=Bandit Cage
 \\
 \\\\
-Oct.Props.BanditCage.name=\\untranslated
+Oct.Props.BanditCage.name=Бандитська клітка
 
 \\\\
 \\
 \\	Oct.Props.BanditCage.pluralName=Bandit Cages
 \\
 \\\\
-Oct.Props.BanditCage.pluralName=\\untranslated
+Oct.Props.BanditCage.pluralName=Бандитська клітка
 
 \\\\
 \\
 \\	Oct.Props.BanditCage.toolName=Cage
 \\
 \\\\
-Oct.Props.BanditCage.toolName=\\untranslated
+Oct.Props.BanditCage.toolName=Клітка
 
 \\\\
 \\
@@ -44656,21 +44672,21 @@ Oct.Props.BanditSkullLightDetail.colorSlots.1.name=Череп
 \\	Oct.Props.BanditSpike.SpikeThinSkull.name=Thin Spike Skull
 \\
 \\\\
-Oct.Props.BanditSpike.SpikeThinSkull.name=\\untranslated
+Oct.Props.BanditSpike.SpikeThinSkull.name=Тонкий черепо шип
 
 \\\\
 \\
 \\	Oct.Props.BanditSpike.SpikeThinSkull.pluralName=Thin Spikes
 \\
 \\\\
-Oct.Props.BanditSpike.SpikeThinSkull.pluralName=\\untranslated
+Oct.Props.BanditSpike.SpikeThinSkull.pluralName=Тонкий черепо шип
 
 \\\\
 \\
 \\	Oct.Props.BanditSpike.SpikeThinSkull.toolName=Thin Spike
 \\
 \\\\
-Oct.Props.BanditSpike.SpikeThinSkull.toolName=\\untranslated
+Oct.Props.BanditSpike.SpikeThinSkull.toolName=Тонкий шип
 
 \\\\
 \\
@@ -44698,21 +44714,21 @@ Oct.Props.BanditSpike.SpikeThinSkull.colorSlots.3.name=\\untranslated
 \\	Oct.Props.BanditSpike.Spike.name=Spike
 \\
 \\\\
-Oct.Props.BanditSpike.Spike.name=\\untranslated
+Oct.Props.BanditSpike.Spike.name=Шип
 
 \\\\
 \\
 \\	Oct.Props.BanditSpike.Spike.pluralName=Spikes
 \\
 \\\\
-Oct.Props.BanditSpike.Spike.pluralName=\\untranslated
+Oct.Props.BanditSpike.Spike.pluralName=Шип
 
 \\\\
 \\
 \\	Oct.Props.BanditSpike.Spike.toolName=Spike
 \\
 \\\\
-Oct.Props.BanditSpike.Spike.toolName=\\untranslated
+Oct.Props.BanditSpike.Spike.toolName=Шип
 
 \\\\
 \\
@@ -44873,21 +44889,21 @@ Oct.Props.Bedroll.prefabs.3.name=\\untranslated
 \\	Oct.Props.BoarTrophy.name=Boar Trophy
 \\
 \\\\
-Oct.Props.BoarTrophy.name=\\untranslated
+Oct.Props.BoarTrophy.name=Трофей кабана
 
 \\\\
 \\
 \\	Oct.Props.BoarTrophy.pluralName=Boar Trophies
 \\
 \\\\
-Oct.Props.BoarTrophy.pluralName=\\untranslated
+Oct.Props.BoarTrophy.pluralName=Трофей кабана
 
 \\\\
 \\
 \\	Oct.Props.BoarTrophy.toolName=Boar
 \\
 \\\\
-Oct.Props.BoarTrophy.toolName=\\untranslated
+Oct.Props.BoarTrophy.toolName=Кабан
 
 \\\\
 \\
@@ -44929,21 +44945,21 @@ Oct.Props.BoarTrophy.colorSlots.5.name=\\untranslated
 \\	Oct.Props.Bookshelf.name=Decorative Wooden Bookshelf
 \\
 \\\\
-Oct.Props.Bookshelf.name=\\untranslated
+Oct.Props.Bookshelf.name=Декоративна дерев'яна книжкова полиця
 
 \\\\
 \\
 \\	Oct.Props.Bookshelf.pluralName=Decorative Wooden Bookshelves
 \\
 \\\\
-Oct.Props.Bookshelf.pluralName=\\untranslated
+Oct.Props.Bookshelf.pluralName=Декоративна дерев'яна книжкова полиця
 
 \\\\
 \\
 \\	Oct.Props.Bookshelf.toolName=Bookshelf
 \\
 \\\\
-Oct.Props.Bookshelf.toolName=\\untranslated
+Oct.Props.Bookshelf.toolName=Книж полиця
 
 \\\\
 \\
@@ -46105,63 +46121,63 @@ Oct.Props.Bushes.Flower.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Bushes.Flower.Wide.name=Wide Bush
 \\
 \\\\
-Oct.Props.Bushes.Flower.Wide.name=\\untranslated
+Oct.Props.Bushes.Flower.Wide.name=Широкий кущ
 
 \\\\
 \\
 \\	Oct.Props.Bushes.Flower.Wide.pluralName=Wide Bushes
 \\
 \\\\
-Oct.Props.Bushes.Flower.Wide.pluralName=\\untranslated
+Oct.Props.Bushes.Flower.Wide.pluralName=Широкий кущ
 
 \\\\
 \\
 \\	Oct.Props.Bushes.Flower.Wide.toolName=Wide
 \\
 \\\\
-Oct.Props.Bushes.Flower.Wide.toolName=\\untranslated
+Oct.Props.Bushes.Flower.Wide.toolName=Широкий
 
 \\\\
 \\
 \\	Oct.Props.Bushes.Flower.Skinny.name=Skinny Bush
 \\
 \\\\
-Oct.Props.Bushes.Flower.Skinny.name=\\untranslated
+Oct.Props.Bushes.Flower.Skinny.name=Худий кущ
 
 \\\\
 \\
 \\	Oct.Props.Bushes.Flower.Skinny.pluralName=Skinny Bushes
 \\
 \\\\
-Oct.Props.Bushes.Flower.Skinny.pluralName=\\untranslated
+Oct.Props.Bushes.Flower.Skinny.pluralName=Худий кущ
 
 \\\\
 \\
 \\	Oct.Props.Bushes.Flower.Skinny.toolName=Skinny
 \\
 \\\\
-Oct.Props.Bushes.Flower.Skinny.toolName=\\untranslated
+Oct.Props.Bushes.Flower.Skinny.toolName=Худий
 
 \\\\
 \\
 \\	Oct.Props.Bushes.Heart.name=Heart Bush
 \\
 \\\\
-Oct.Props.Bushes.Heart.name=\\untranslated
+Oct.Props.Bushes.Heart.name=Серцевий кущ
 
 \\\\
 \\
 \\	Oct.Props.Bushes.Heart.pluralName=Heart Bushes
 \\
 \\\\
-Oct.Props.Bushes.Heart.pluralName=\\untranslated
+Oct.Props.Bushes.Heart.pluralName=Серцевий кущ
 
 \\\\
 \\
 \\	Oct.Props.Bushes.Heart.toolName=Heart Bush
 \\
 \\\\
-Oct.Props.Bushes.Heart.toolName=\\untranslated
+Oct.Props.Bushes.Heart.toolName=Серц кущ
 
 \\\\
 \\
@@ -46987,14 +47003,14 @@ Oct.Props.Categories.Decorations.Tabletop.Skulls.toolName=Черепа
 \\	Oct.Props.Categories.Hearths.name=Hearths
 \\
 \\\\
-Oct.Props.Categories.Hearths.name=Вогнища
+Oct.Props.Categories.Hearths.name=Коміни
 
 \\\\
 \\
 \\	Oct.Props.Categories.Hearths.toolName=Hearths
 \\
 \\\\
-Oct.Props.Categories.Hearths.toolName=Вогнища
+Oct.Props.Categories.Hearths.toolName=Коміни
 
 \\\\
 \\
@@ -47540,42 +47556,42 @@ Oct.Props.Chest.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Chest.Fancy.name=Fancy Chest
 \\
 \\\\
-Oct.Props.Chest.Fancy.name=\\untranslated
+Oct.Props.Chest.Fancy.name=Чудова скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Fancy.pluralName=Fancy Chests
 \\
 \\\\
-Oct.Props.Chest.Fancy.pluralName=\\untranslated
+Oct.Props.Chest.Fancy.pluralName=Чудова скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Fancy.toolName=Fancy Chest
 \\
 \\\\
-Oct.Props.Chest.Fancy.toolName=\\untranslated
+Oct.Props.Chest.Fancy.toolName=Чудова скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Basic.name=Basic Chest
 \\
 \\\\
-Oct.Props.Chest.Basic.name=\\untranslated
+Oct.Props.Chest.Basic.name=Базова скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Basic.pluralName=Basic Chests
 \\
 \\\\
-Oct.Props.Chest.Basic.pluralName=\\untranslated
+Oct.Props.Chest.Basic.pluralName=Базова скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Basic.toolName=Basic Chest
 \\
 \\\\
-Oct.Props.Chest.Basic.toolName=\\untranslated
+Oct.Props.Chest.Basic.toolName=Базова скриня
 
 \\\\
 \\
@@ -47596,21 +47612,21 @@ Oct.Props.Chest.Basic.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Chest.Fine.name=Fine Chest
 \\
 \\\\
-Oct.Props.Chest.Fine.name=\\untranslated
+Oct.Props.Chest.Fine.name=Гарна скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Fine.pluralName=Fine Chests
 \\
 \\\\
-Oct.Props.Chest.Fine.pluralName=\\untranslated
+Oct.Props.Chest.Fine.pluralName=Гарна скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Fine.toolName=Fine Chest
 \\
 \\\\
-Oct.Props.Chest.Fine.toolName=\\untranslated
+Oct.Props.Chest.Fine.toolName=Гарна скриня
 
 \\\\
 \\
@@ -47631,21 +47647,21 @@ Oct.Props.Chest.Fine.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Chest.Nice.name=Nice Chest
 \\
 \\\\
-Oct.Props.Chest.Nice.name=\\untranslated
+Oct.Props.Chest.Nice.name=Хороша скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Nice.pluralName=Nice Chests
 \\
 \\\\
-Oct.Props.Chest.Nice.pluralName=\\untranslated
+Oct.Props.Chest.Nice.pluralName=Хороша скриня
 
 \\\\
 \\
 \\	Oct.Props.Chest.Nice.toolName=Nice Chest
 \\
 \\\\
-Oct.Props.Chest.Nice.toolName=\\untranslated
+Oct.Props.Chest.Nice.toolName=Хороша скриня
 
 \\\\
 \\
@@ -47799,21 +47815,21 @@ Oct.Props.Chimney.FineStone.colorSlots.5.name=\\untranslated
 \\	Oct.Props.Cloth.Carpet.name=Cloth Carpet
 \\
 \\\\
-Oct.Props.Cloth.Carpet.name=\\untranslated
+Oct.Props.Cloth.Carpet.name=Тканинний килим
 
 \\\\
 \\
 \\	Oct.Props.Cloth.Carpet.pluralName=Cloth Carpets
 \\
 \\\\
-Oct.Props.Cloth.Carpet.pluralName=\\untranslated
+Oct.Props.Cloth.Carpet.pluralName=Тканинний килим
 
 \\\\
 \\
 \\	Oct.Props.Cloth.Carpet.toolName=Cloth
 \\
 \\\\
-Oct.Props.Cloth.Carpet.toolName=\\untranslated
+Oct.Props.Cloth.Carpet.toolName=Тканинний
 
 \\\\
 \\
@@ -48009,21 +48025,21 @@ Oct.Props.Crib.description=\\untranslated
 \\	Oct.Props.DeerTrophy.name=Deer Trophy
 \\
 \\\\
-Oct.Props.DeerTrophy.name=\\untranslated
+Oct.Props.DeerTrophy.name=Трофей оленя
 
 \\\\
 \\
 \\	Oct.Props.DeerTrophy.pluralName=Deer Trophies
 \\
 \\\\
-Oct.Props.DeerTrophy.pluralName=\\untranslated
+Oct.Props.DeerTrophy.pluralName=Трофей оленя
 
 \\\\
 \\
 \\	Oct.Props.DeerTrophy.toolName=Deer
 \\
 \\\\
-Oct.Props.DeerTrophy.toolName=\\untranslated
+Oct.Props.DeerTrophy.toolName=Олень
 
 \\\\
 \\
@@ -48051,14 +48067,14 @@ Oct.Props.DeerTrophy.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Details.Books.name=Books
 \\
 \\\\
-Oct.Props.Details.Books.name=\\untranslated
+Oct.Props.Details.Books.name=Книги
 
 \\\\
 \\
 \\	Oct.Props.Details.Books.toolName=Books
 \\
 \\\\
-Oct.Props.Details.Books.toolName=\\untranslated
+Oct.Props.Details.Books.toolName=Книги
 
 \\\\
 \\
@@ -48079,21 +48095,21 @@ Oct.Props.Details.Books.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Details.Books.pluralName=Books
 \\
 \\\\
-Oct.Props.Details.Books.pluralName=\\untranslated
+Oct.Props.Details.Books.pluralName=Книги
 
 \\\\
 \\
 \\	Oct.Props.Details.Bottles.name=Bottles
 \\
 \\\\
-Oct.Props.Details.Bottles.name=\\untranslated
+Oct.Props.Details.Bottles.name=Пляшки
 
 \\\\
 \\
 \\	Oct.Props.Details.Bottles.toolName=Bottles
 \\
 \\\\
-Oct.Props.Details.Bottles.toolName=\\untranslated
+Oct.Props.Details.Bottles.toolName=Пляшки
 
 \\\\
 \\
@@ -48107,28 +48123,28 @@ Oct.Props.Details.Bottles.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Details.Bottles.pluralName=Bottles
 \\
 \\\\
-Oct.Props.Details.Bottles.pluralName=\\untranslated
+Oct.Props.Details.Bottles.pluralName=Пляшки
 
 \\\\
 \\
 \\	Oct.Props.Details.Scroll.name=Scroll
 \\
 \\\\
-Oct.Props.Details.Scroll.name=\\untranslated
+Oct.Props.Details.Scroll.name=Сувій
 
 \\\\
 \\
 \\	Oct.Props.Details.Scroll.pluralName=Scrolls
 \\
 \\\\
-Oct.Props.Details.Scroll.pluralName=\\untranslated
+Oct.Props.Details.Scroll.pluralName=Сувій
 
 \\\\
 \\
 \\	Oct.Props.Details.Scroll.toolName=Scroll
 \\
 \\\\
-Oct.Props.Details.Scroll.toolName=\\untranslated
+Oct.Props.Details.Scroll.toolName=Сувій
 
 \\\\
 \\
@@ -48142,35 +48158,35 @@ Oct.Props.Details.Scroll.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Details.Skull.Real.name=Real Skull
 \\
 \\\\
-Oct.Props.Details.Skull.Real.name=\\untranslated
+Oct.Props.Details.Skull.Real.name=Справжній череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Real.pluralName=Real Skulls
 \\
 \\\\
-Oct.Props.Details.Skull.Real.pluralName=\\untranslated
+Oct.Props.Details.Skull.Real.pluralName=Справжній череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Real.toolName=Real
 \\
 \\\\
-Oct.Props.Details.Skull.Real.toolName=\\untranslated
+Oct.Props.Details.Skull.Real.toolName=Справжній
 
 \\\\
 \\
 \\	Oct.Props.Details.Cask.name=Mini Cask
 \\
 \\\\
-Oct.Props.Details.Cask.name=\\untranslated
+Oct.Props.Details.Cask.name=Міні діжка
 
 \\\\
 \\
 \\	Oct.Props.Details.Cask.toolName=Mini Cask
 \\
 \\\\
-Oct.Props.Details.Cask.toolName=\\untranslated
+Oct.Props.Details.Cask.toolName=Міні діжка
 
 \\\\
 \\
@@ -48198,35 +48214,35 @@ Oct.Props.Details.Cask.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Details.Cask.pluralName=Mini Cask
 \\
 \\\\
-Oct.Props.Details.Cask.pluralName=\\untranslated
+Oct.Props.Details.Cask.pluralName=Міні діжка
 
 \\\\
 \\
 \\	Oct.Props.Details.CardGame.name=Card Game
 \\
 \\\\
-Oct.Props.Details.CardGame.name=\\untranslated
+Oct.Props.Details.CardGame.name=Карткова гра
 
 \\\\
 \\
 \\	Oct.Props.Details.CardGame.toolName=Card Game
 \\
 \\\\
-Oct.Props.Details.CardGame.toolName=\\untranslated
+Oct.Props.Details.CardGame.toolName=Карткова гра
 
 \\\\
 \\
 \\	Oct.Props.Details.DiceGame.name=Dice Game
 \\
 \\\\
-Oct.Props.Details.DiceGame.name=\\untranslated
+Oct.Props.Details.DiceGame.name=Гра кубики
 
 \\\\
 \\
 \\	Oct.Props.Details.DiceGame.toolName=Dice Game
 \\
 \\\\
-Oct.Props.Details.DiceGame.toolName=\\untranslated
+Oct.Props.Details.DiceGame.toolName=Гра кубики
 
 \\\\
 \\
@@ -48254,7 +48270,7 @@ Oct.Props.Details.DiceGame.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Details.DiceGame.pluralName=Dice Game
 \\
 \\\\
-Oct.Props.Details.DiceGame.pluralName=\\untranslated
+Oct.Props.Details.DiceGame.pluralName=Гра кубики
 
 \\\\
 \\
@@ -48275,147 +48291,147 @@ Oct.Props.Details.CardGame.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Details.CardGame.pluralName=Card Game
 \\
 \\\\
-Oct.Props.Details.CardGame.pluralName=\\untranslated
+Oct.Props.Details.CardGame.pluralName=Карткова гра
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Stone.name=Stone Skull
 \\
 \\\\
-Oct.Props.Details.Skull.Stone.name=\\untranslated
+Oct.Props.Details.Skull.Stone.name=Кам'яний череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Stone.pluralName=Stone Skulls
 \\
 \\\\
-Oct.Props.Details.Skull.Stone.pluralName=\\untranslated
+Oct.Props.Details.Skull.Stone.pluralName=Кам'яний череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Stone.toolName=Stone
 \\
 \\\\
-Oct.Props.Details.Skull.Stone.toolName=\\untranslated
+Oct.Props.Details.Skull.Stone.toolName=Кам'яний
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Stone.colorSlots.1.name=Color
 \\
 \\\\
-Oct.Props.Details.Skull.Stone.colorSlots.1.name=\\untranslated
+Oct.Props.Details.Skull.Stone.colorSlots.1.name=Колір
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Bronze.name=Bronze Skull
 \\
 \\\\
-Oct.Props.Details.Skull.Bronze.name=\\untranslated
+Oct.Props.Details.Skull.Bronze.name=Бронзовий череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Bronze.pluralName=Bronze Skulls
 \\
 \\\\
-Oct.Props.Details.Skull.Bronze.pluralName=\\untranslated
+Oct.Props.Details.Skull.Bronze.pluralName=Бронзовий череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Bronze.toolName=Bronze
 \\
 \\\\
-Oct.Props.Details.Skull.Bronze.toolName=\\untranslated
+Oct.Props.Details.Skull.Bronze.toolName=Бронзовий
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Bronze.colorSlots.1.name=Color
 \\
 \\\\
-Oct.Props.Details.Skull.Bronze.colorSlots.1.name=\\untranslated
+Oct.Props.Details.Skull.Bronze.colorSlots.1.name=Колір
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Iron.name=Iron Skull
 \\
 \\\\
-Oct.Props.Details.Skull.Iron.name=\\untranslated
+Oct.Props.Details.Skull.Iron.name=Залізний череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Iron.pluralName=Iron Skulls
 \\
 \\\\
-Oct.Props.Details.Skull.Iron.pluralName=\\untranslated
+Oct.Props.Details.Skull.Iron.pluralName=Залізний череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Iron.toolName=Iron
 \\
 \\\\
-Oct.Props.Details.Skull.Iron.toolName=\\untranslated
+Oct.Props.Details.Skull.Iron.toolName=Залізний
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Iron.colorSlots.1.name=Color
 \\
 \\\\
-Oct.Props.Details.Skull.Iron.colorSlots.1.name=\\untranslated
+Oct.Props.Details.Skull.Iron.colorSlots.1.name=Колір
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Silver.name=Silver Skull
 \\
 \\\\
-Oct.Props.Details.Skull.Silver.name=\\untranslated
+Oct.Props.Details.Skull.Silver.name=Срібний череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Silver.pluralName=Silver Skulls
 \\
 \\\\
-Oct.Props.Details.Skull.Silver.pluralName=\\untranslated
+Oct.Props.Details.Skull.Silver.pluralName=Срібний череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Silver.toolName=Silver
 \\
 \\\\
-Oct.Props.Details.Skull.Silver.toolName=\\untranslated
+Oct.Props.Details.Skull.Silver.toolName=Срібний
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Silver.colorSlots.1.name=Color
 \\
 \\\\
-Oct.Props.Details.Skull.Silver.colorSlots.1.name=\\untranslated
+Oct.Props.Details.Skull.Silver.colorSlots.1.name=Колір
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Gold.name=Gold Skull
 \\
 \\\\
-Oct.Props.Details.Skull.Gold.name=\\untranslated
+Oct.Props.Details.Skull.Gold.name=Золотий череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Gold.pluralName=Gold Skulls
 \\
 \\\\
-Oct.Props.Details.Skull.Gold.pluralName=\\untranslated
+Oct.Props.Details.Skull.Gold.pluralName=Золотий череп
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Gold.toolName=Gold
 \\
 \\\\
-Oct.Props.Details.Skull.Gold.toolName=\\untranslated
+Oct.Props.Details.Skull.Gold.toolName=Золотий
 
 \\\\
 \\
 \\	Oct.Props.Details.Skull.Gold.colorSlots.1.name=Color
 \\
 \\\\
-Oct.Props.Details.Skull.Gold.colorSlots.1.name=\\untranslated
+Oct.Props.Details.Skull.Gold.colorSlots.1.name=Колір
 
 \\\\
 \\
@@ -48807,21 +48823,21 @@ Oct.Props.Doorway.FineStone.colorSlots.6.name=\\untranslated
 \\	Oct.Props.Drapes.Fine.name=Fine Cloth Drapes
 \\
 \\\\
-Oct.Props.Drapes.Fine.name=\\untranslated
+Oct.Props.Drapes.Fine.name=Штори з тонкої тканини
 
 \\\\
 \\
 \\	Oct.Props.Drapes.Fine.pluralName=Fine Cloth Drapes
 \\
 \\\\
-Oct.Props.Drapes.Fine.pluralName=\\untranslated
+Oct.Props.Drapes.Fine.pluralName=Штори з тонкої тканини
 
 \\\\
 \\
 \\	Oct.Props.Drapes.Fine.toolName=Fine Cloth
 \\
 \\\\
-Oct.Props.Drapes.Fine.toolName=\\untranslated
+Oct.Props.Drapes.Fine.toolName=Тонка тканина
 
 \\\\
 \\
@@ -48842,21 +48858,21 @@ Oct.Props.Drapes.Fine.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Drapes.Fur.name=Fine Fur Drapes
 \\
 \\\\
-Oct.Props.Drapes.Fur.name=\\untranslated
+Oct.Props.Drapes.Fur.name=Тонкі хутряні штори
 
 \\\\
 \\
 \\	Oct.Props.Drapes.Fur.pluralName=Fine Fur Drapes
 \\
 \\\\
-Oct.Props.Drapes.Fur.pluralName=\\untranslated
+Oct.Props.Drapes.Fur.pluralName=Тонкі хутряні штори
 
 \\\\
 \\
 \\	Oct.Props.Drapes.Fur.toolName=Fine Fur
 \\
 \\\\
-Oct.Props.Drapes.Fur.toolName=\\untranslated
+Oct.Props.Drapes.Fur.toolName=Тонке хутро
 
 \\\\
 \\
@@ -49402,14 +49418,14 @@ Oct.Props.FineWood.Wall.colorSlots.3.name=\\untranslated
 \\	Oct.Props.FirePit.name=Fire Pit
 \\
 \\\\
-Oct.Props.FirePit.name=\\untranslated
+Oct.Props.FirePit.name=Вогнище
 
 \\\\
 \\
 \\	Oct.Props.FirePit.pluralName=Fire Pits
 \\
 \\\\
-Oct.Props.FirePit.pluralName=\\untranslated
+Oct.Props.FirePit.pluralName=Вогнище
 
 \\\\
 \\
@@ -49535,28 +49551,28 @@ Oct.Props.Floor.FineStone.prefabs.2.name=\\untranslated
 \\	Oct.Props.FlowerVase.name=Flower Vase
 \\
 \\\\
-Oct.Props.FlowerVase.name=\\untranslated
+Oct.Props.FlowerVase.name=Ваза квітів
 
 \\\\
 \\
 \\	Oct.Props.FlowerVase.pluralName=Flower Vases
 \\
 \\\\
-Oct.Props.FlowerVase.pluralName=\\untranslated
+Oct.Props.FlowerVase.pluralName=Ваза квітів
 
 \\\\
 \\
 \\	Oct.Props.FlowerVase.toolName=Flower Vase
 \\
 \\\\
-Oct.Props.FlowerVase.toolName=\\untranslated
+Oct.Props.FlowerVase.toolName=Ваза квітів
 
 \\\\
 \\
 \\	Oct.Props.FlowerVase.colorSlots.1.name=Vase
 \\
 \\\\
-Oct.Props.FlowerVase.colorSlots.1.name=\\untranslated
+Oct.Props.FlowerVase.colorSlots.1.name=Ваза
 
 \\\\
 \\
@@ -49661,21 +49677,21 @@ Oct.Props.Foundry.colorSlots.2.name=\\untranslated
 \\	Oct.Props.GiftBasket.name=Gift Basket
 \\
 \\\\
-Oct.Props.GiftBasket.name=\\untranslated
+Oct.Props.GiftBasket.name=Подарунковий кошик
 
 \\\\
 \\
 \\	Oct.Props.GiftBasket.pluralName=Gift Baskets
 \\
 \\\\
-Oct.Props.GiftBasket.pluralName=\\untranslated
+Oct.Props.GiftBasket.pluralName=Подарунковий кошик
 
 \\\\
 \\
 \\	Oct.Props.GiftBasket.toolName=Gift Basket
 \\
 \\\\
-Oct.Props.GiftBasket.toolName=\\untranslated
+Oct.Props.GiftBasket.toolName=Подар кошик
 
 \\\\
 \\
@@ -49731,21 +49747,21 @@ Oct.Props.GiftBasket.colorSlots.7.name=\\untranslated
 \\	Oct.Props.GiftSingle.name=Gift
 \\
 \\\\
-Oct.Props.GiftSingle.name=\\untranslated
+Oct.Props.GiftSingle.name=Подарунок
 
 \\\\
 \\
 \\	Oct.Props.GiftSingle.pluralName=Gifts
 \\
 \\\\
-Oct.Props.GiftSingle.pluralName=\\untranslated
+Oct.Props.GiftSingle.pluralName=Подарунок
 
 \\\\
 \\
 \\	Oct.Props.GiftSingle.toolName=Gift
 \\
 \\\\
-Oct.Props.GiftSingle.toolName=\\untranslated
+Oct.Props.GiftSingle.toolName=Подарунок
 
 \\\\
 \\
@@ -49801,21 +49817,21 @@ Oct.Props.Grave.Basic.colorSlots.2.name=\\untranslated
 \\	Oct.Props.HangingPelt.name=Hanging Pelt
 \\
 \\\\
-Oct.Props.HangingPelt.name=\\untranslated
+Oct.Props.HangingPelt.name=Висяча шкіра
 
 \\\\
 \\
 \\	Oct.Props.HangingPelt.pluralName=Hanging Pelts
 \\
 \\\\
-Oct.Props.HangingPelt.pluralName=\\untranslated
+Oct.Props.HangingPelt.pluralName=Висяча шкіра
 
 \\\\
 \\
 \\	Oct.Props.HangingPelt.toolName=Pelt
 \\
 \\\\
-Oct.Props.HangingPelt.toolName=\\untranslated
+Oct.Props.HangingPelt.toolName=Шкіра
 
 \\\\
 \\
@@ -49857,21 +49873,21 @@ Oct.Props.HangingPelt.colorSlots.5.name=\\untranslated
 \\	Oct.Props.Hearth.FineStone.name=Fine Stone Hearth
 \\
 \\\\
-Oct.Props.Hearth.FineStone.name=\\untranslated
+Oct.Props.Hearth.FineStone.name=Камін з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.Hearth.FineStone.pluralName=Fine Stone Hearths
 \\
 \\\\
-Oct.Props.Hearth.FineStone.pluralName=\\untranslated
+Oct.Props.Hearth.FineStone.pluralName=Камін з тонкого каменю
 
 \\\\
 \\
 \\	Oct.Props.Hearth.FineStone.toolName=Fn Stn Hearth
 \\
 \\\\
-Oct.Props.Hearth.FineStone.toolName=\\untranslated
+Oct.Props.Hearth.FineStone.toolName=Кам тон каменю
 
 \\\\
 \\
@@ -49938,10 +49954,10 @@ Oct.Props.Keg.pluralName=Дерев'яна діжка
 
 \\\\
 \\
-\\	Oct.Props.Keg.toolName=Діжка
+\\	Oct.Props.Keg.toolName=Keg
 \\
 \\\\
-Oct.Props.Keg.toolName=\\untranslated
+Oct.Props.Keg.toolName=Діжка
 
 \\\\
 \\
@@ -50032,42 +50048,42 @@ Oct.Props.NewCandleDetail.colorSlots.1.name=Свічка
 \\	Oct.Props.Paths.Gravel.name=Gravel Path
 \\
 \\\\
-Oct.Props.Paths.Gravel.name=\\untranslated
+Oct.Props.Paths.Gravel.name=Доріжка з гравію
 
 \\\\
 \\
 \\	Oct.Props.Paths.Gravel.pluralName=Gravel Paths
 \\
 \\\\
-Oct.Props.Paths.Gravel.pluralName=\\untranslated
+Oct.Props.Paths.Gravel.pluralName=Доріжка з гравію
 
 \\\\
 \\
 \\	Oct.Props.Paths.Gravel.toolName=Gravel
 \\
 \\\\
-Oct.Props.Paths.Gravel.toolName=\\untranslated
+Oct.Props.Paths.Gravel.toolName=Гравій
 
 \\\\
 \\
 \\	Oct.Props.Paths.Wood.name=Wood Chip Path
 \\
 \\\\
-Oct.Props.Paths.Wood.name=\\untranslated
+Oct.Props.Paths.Wood.name=Доріжка із деревної стружки
 
 \\\\
 \\
 \\	Oct.Props.Paths.Wood.pluralName=Wood Chip Paths
 \\
 \\\\
-Oct.Props.Paths.Wood.pluralName=\\untranslated
+Oct.Props.Paths.Wood.pluralName=Доріжка із деревної стружки
 
 \\\\
 \\
 \\	Oct.Props.Paths.Wood.toolName=Wood Chip
 \\
 \\\\
-Oct.Props.Paths.Wood.toolName=\\untranslated
+Oct.Props.Paths.Wood.toolName=Дерев стружка
 
 \\\\
 \\
@@ -50130,21 +50146,21 @@ Oct.Props.Paths.Gravel.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Paths.StonePath.name=Stone Path
 \\
 \\\\
-Oct.Props.Paths.StonePath.name=\\untranslated
+Oct.Props.Paths.StonePath.name=Кам'яна доріжка
 
 \\\\
 \\
 \\	Oct.Props.Paths.StonePath.pluralName=Stone Paths
 \\
 \\\\
-Oct.Props.Paths.StonePath.pluralName=\\untranslated
+Oct.Props.Paths.StonePath.pluralName=Кам'яна доріжка
 
 \\\\
 \\
 \\	Oct.Props.Paths.StonePath.toolName=Stone
 \\
 \\\\
-Oct.Props.Paths.StonePath.toolName=\\untranslated
+Oct.Props.Paths.StonePath.toolName=Кам'яна
 
 \\\\
 \\
@@ -50235,14 +50251,14 @@ Oct.Props.Pipes.Straight1Port.name=\\untranslated
 \\	Oct.Props.Pipes.Intake.name=Intake
 \\
 \\\\
-Oct.Props.Pipes.Intake.name=\\untranslated
+Oct.Props.Pipes.Intake.name=Втягування
 
 \\\\
 \\
 \\	Oct.Props.Pipes.Exhaust.name=Exhaust
 \\
 \\\\
-Oct.Props.Pipes.Exhaust.name=\\untranslated
+Oct.Props.Pipes.Exhaust.name=Витяжка
 
 \\\\
 \\
@@ -50326,21 +50342,21 @@ Oct.Props.Portcullis.Steel.toolName=Сталевий порткуліс
 \\	Oct.Props.Potted Plant.name=Potted Plant
 \\
 \\\\
-Oct.Props.Potted Plant.name=\\untranslated
+Oct.Props.Potted Plant.name=Рослина в горщику
 
 \\\\
 \\
 \\	Oct.Props.Potted Plant.pluralName=Potted Plants
 \\
 \\\\
-Oct.Props.Potted Plant.pluralName=\\untranslated
+Oct.Props.Potted Plant.pluralName=Рослина в горщику
 
 \\\\
 \\
 \\	Oct.Props.Potted Plant.toolName=Plant
 \\
 \\\\
-Oct.Props.Potted Plant.toolName=\\untranslated
+Oct.Props.Potted Plant.toolName=Рослина
 
 \\\\
 \\
@@ -51012,21 +51028,21 @@ Oct.Props.Roof.DoubleConcavePrefab.name=\\untranslated
 \\	Oct.Props.Sculptures.WeddingSculpture.name=Wedding Sculpture
 \\
 \\\\
-Oct.Props.Sculptures.WeddingSculpture.name=\\untranslated
+Oct.Props.Sculptures.WeddingSculpture.name=Весільна скульптура
 
 \\\\
 \\
 \\	Oct.Props.Sculptures.WeddingSculpture.pluralName=Wedding Sculptures
 \\
 \\\\
-Oct.Props.Sculptures.WeddingSculpture.pluralName=\\untranslated
+Oct.Props.Sculptures.WeddingSculpture.pluralName=Весільна скульптура
 
 \\\\
 \\
 \\	Oct.Props.Sculptures.WeddingSculpture.toolName=Sculpture
 \\
 \\\\
-Oct.Props.Sculptures.WeddingSculpture.toolName=\\untranslated
+Oct.Props.Sculptures.WeddingSculpture.toolName=Скульптура
 
 \\\\
 \\
@@ -51089,21 +51105,21 @@ Oct.Props.Sculptures.WeddingSculpture.colorSlots.8.name=\\untranslated
 \\	Oct.Props.Seasonal.HolidayTree.name=Holiday Tree
 \\
 \\\\
-Oct.Props.Seasonal.HolidayTree.name=\\untranslated
+Oct.Props.Seasonal.HolidayTree.name=Святкове дерево
 
 \\\\
 \\
 \\	Oct.Props.Seasonal.HolidayTree.pluralName=Holiday Trees
 \\
 \\\\
-Oct.Props.Seasonal.HolidayTree.pluralName=\\untranslated
+Oct.Props.Seasonal.HolidayTree.pluralName=Святкове дерево
 
 \\\\
 \\
 \\	Oct.Props.Seasonal.HolidayTree.toolName=Tree
 \\
 \\\\
-Oct.Props.Seasonal.HolidayTree.toolName=\\untranslated
+Oct.Props.Seasonal.HolidayTree.toolName=Дерево
 
 \\\\
 \\
@@ -51117,21 +51133,21 @@ Oct.Props.Seasonal.HolidayTree.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Seasonal.Wreath.name=Holiday Wreath
 \\
 \\\\
-Oct.Props.Seasonal.Wreath.name=\\untranslated
+Oct.Props.Seasonal.Wreath.name=Святковий вінок
 
 \\\\
 \\
 \\	Oct.Props.Seasonal.Wreath.pluralName=Holiday Wreaths
 \\
 \\\\
-Oct.Props.Seasonal.Wreath.pluralName=\\untranslated
+Oct.Props.Seasonal.Wreath.pluralName=Святковий вінок
 
 \\\\
 \\
 \\	Oct.Props.Seasonal.Wreath.toolName=Wreath
 \\
 \\\\
-Oct.Props.Seasonal.Wreath.toolName=\\untranslated
+Oct.Props.Seasonal.Wreath.toolName=Вінок
 
 \\\\
 \\
@@ -51362,21 +51378,21 @@ Oct.Props.SmallWoodenTable.colorSlots.2.name=\\untranslated
 \\	Oct.Props.StandingFlag.name=Standing Banner
 \\
 \\\\
-Oct.Props.StandingFlag.name=\\untranslated
+Oct.Props.StandingFlag.name=Стоячий банер
 
 \\\\
 \\
 \\	Oct.Props.StandingFlag.pluralName=Standing Banners
 \\
 \\\\
-Oct.Props.StandingFlag.pluralName=\\untranslated
+Oct.Props.StandingFlag.pluralName=Стоячий банер
 
 \\\\
 \\
 \\	Oct.Props.StandingFlag.toolName=Banner
 \\
 \\\\
-Oct.Props.StandingFlag.toolName=\\untranslated
+Oct.Props.StandingFlag.toolName=Банер
 
 \\\\
 \\
@@ -51971,21 +51987,21 @@ Oct.Props.Stone.Fine.Crib.colorSlots.7.name=\\untranslated
 \\	Oct.Props.StoneChimney.name=Stone Chimney
 \\
 \\\\
-Oct.Props.StoneChimney.name=\\untranslated
+Oct.Props.StoneChimney.name=Кам'яний димохід
 
 \\\\
 \\
 \\	Oct.Props.StoneChimney.pluralName=Stone Chimneys
 \\
 \\\\
-Oct.Props.StoneChimney.pluralName=\\untranslated
+Oct.Props.StoneChimney.pluralName=Кам'яний димохід
 
 \\\\
 \\
 \\	Oct.Props.StoneChimney.toolName=Chimney
 \\
 \\\\
-Oct.Props.StoneChimney.toolName=\\untranslated
+Oct.Props.StoneChimney.toolName=Димохід
 
 \\\\
 \\
@@ -52076,21 +52092,21 @@ Oct.Props.StoneCuttingTable.colorSlots.4.name=\\untranslated
 \\	Oct.Props.StoneHearth.name=Stone Hearth
 \\
 \\\\
-Oct.Props.StoneHearth.name=\\untranslated
+Oct.Props.StoneHearth.name=Кам'яний камін
 
 \\\\
 \\
 \\	Oct.Props.StoneHearth.pluralName=Stone Hearths
 \\
 \\\\
-Oct.Props.StoneHearth.pluralName=\\untranslated
+Oct.Props.StoneHearth.pluralName=Кам'яний камін
 
 \\\\
 \\
 \\	Oct.Props.StoneHearth.toolName=Hearth
 \\
 \\\\
-Oct.Props.StoneHearth.toolName=\\untranslated
+Oct.Props.StoneHearth.toolName=Камін
 
 \\\\
 \\
@@ -52510,21 +52526,21 @@ Oct.Props.Table.Stone.Fine.colorSlots.6.name=\\untranslated
 \\	Oct.Props.Tabletop.Statue.Drink.Stone.name=Stone Drinking Statue
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Stone.name=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Stone.name=Кам'яна п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Stone.pluralName=Stone Drinking Statues
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Stone.pluralName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Stone.pluralName=Кам'яна п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Stone.toolName=Stone Drnk
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Stone.toolName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Stone.toolName=Кам'яна п'яна
 
 \\\\
 \\
@@ -52559,21 +52575,21 @@ Oct.Props.Tabletop.Statue.Drink.Stone.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Tabletop.Statue.Drink.Bronze.name=Bronze Drinking Statue
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Bronze.name=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Bronze.name=Бронзова п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Bronze.pluralName=Bronze Drinking Statues
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Bronze.pluralName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Bronze.pluralName=Бронзова п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Bronze.toolName=Brnz Drnk
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Bronze.toolName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Bronze.toolName=Брон п'яна
 
 \\\\
 \\
@@ -52608,21 +52624,21 @@ Oct.Props.Tabletop.Statue.Drink.Bronze.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Tabletop.Statue.Drink.Iron.name=Iron Drinking Statue
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Iron.name=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Iron.name=Залізна п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Iron.pluralName=Iron Drinking Statues
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Iron.pluralName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Iron.pluralName=Залізна п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Iron.toolName=Iron Drnk
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Iron.toolName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Iron.toolName=Залізна п'яна
 
 \\\\
 \\
@@ -52657,21 +52673,21 @@ Oct.Props.Tabletop.Statue.Drink.Iron.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Tabletop.Statue.Drink.Silver.name=Silver Drinking Statue
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Silver.name=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Silver.name=Срібна п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Silver.pluralName=Silver Drinking Statues
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Silver.pluralName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Silver.pluralName=Срібна п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Silver.toolName=Silver Drnk
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Silver.toolName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Silver.toolName=Срібна п'яна
 
 \\\\
 \\
@@ -52706,21 +52722,21 @@ Oct.Props.Tabletop.Statue.Drink.Silver.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Tabletop.Statue.Drink.Gold.name=Gold Drinking Statue
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Gold.name=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Gold.name=Золота п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Gold.pluralName=Gold Drinking Statues
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Gold.pluralName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Gold.pluralName=Золота п'яна статуя
 
 \\\\
 \\
 \\	Oct.Props.Tabletop.Statue.Drink.Gold.toolName=Gold Drnk
 \\
 \\\\
-Oct.Props.Tabletop.Statue.Drink.Gold.toolName=\\untranslated
+Oct.Props.Tabletop.Statue.Drink.Gold.toolName=Золота п'яна
 
 \\\\
 \\
@@ -53610,42 +53626,42 @@ Oct.Props.Wall.FineStone.colorSlots.7.name=\\untranslated
 \\	Oct.Props.Wall.Banner.Fancy.name=Fancy Banner
 \\
 \\\\
-Oct.Props.Wall.Banner.Fancy.name=\\untranslated
+Oct.Props.Wall.Banner.Fancy.name=Модний банер
 
 \\\\
 \\
 \\	Oct.Props.Wall.Banner.Fancy.pluralName=Fancy Banners
 \\
 \\\\
-Oct.Props.Wall.Banner.Fancy.pluralName=\\untranslated
+Oct.Props.Wall.Banner.Fancy.pluralName=Модний банер
 
 \\\\
 \\
 \\	Oct.Props.Wall.Banner.Fancy.toolName=Fancy
 \\
 \\\\
-Oct.Props.Wall.Banner.Fancy.toolName=\\untranslated
+Oct.Props.Wall.Banner.Fancy.toolName=Модний
 
 \\\\
 \\
 \\	Oct.Props.Wall.Banner.Basic.name=Basic Banner
 \\
 \\\\
-Oct.Props.Wall.Banner.Basic.name=\\untranslated
+Oct.Props.Wall.Banner.Basic.name=Базовий банер
 
 \\\\
 \\
 \\	Oct.Props.Wall.Banner.Basic.pluralName=Basic Banners
 \\
 \\\\
-Oct.Props.Wall.Banner.Basic.pluralName=\\untranslated
+Oct.Props.Wall.Banner.Basic.pluralName=Базовий банер
 
 \\\\
 \\
 \\	Oct.Props.Wall.Banner.Basic.toolName=Basic
 \\
 \\\\
-Oct.Props.Wall.Banner.Basic.toolName=\\untranslated
+Oct.Props.Wall.Banner.Basic.toolName=Базовий
 
 \\\\
 \\
@@ -53715,21 +53731,21 @@ Oct.Props.Wall.Banner.Fancy.colorSlots.5.name=\\untranslated
 \\	Oct.Props.Wall.Vines.name=Vines
 \\
 \\\\
-Oct.Props.Wall.Vines.name=\\untranslated
+Oct.Props.Wall.Vines.name=Лоза
 
 \\\\
 \\
 \\	Oct.Props.Wall.Vines.pluralName=Vines
 \\
 \\\\
-Oct.Props.Wall.Vines.pluralName=\\untranslated
+Oct.Props.Wall.Vines.pluralName=Лоза
 
 \\\\
 \\
 \\	Oct.Props.Wall.Vines.toolName=Vines
 \\
 \\\\
-Oct.Props.Wall.Vines.toolName=\\untranslated
+Oct.Props.Wall.Vines.toolName=Лоза
 
 \\\\
 \\
@@ -53757,21 +53773,21 @@ Oct.Props.Wall.Vines.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Wall.Sacks.name=Decorative Sack
 \\
 \\\\
-Oct.Props.Wall.Sacks.name=\\untranslated
+Oct.Props.Wall.Sacks.name=Декоративний мішок
 
 \\\\
 \\
 \\	Oct.Props.Wall.Sacks.pluralName=Decorative Sacks
 \\
 \\\\
-Oct.Props.Wall.Sacks.pluralName=\\untranslated
+Oct.Props.Wall.Sacks.pluralName=Декоративний мішок
 
 \\\\
 \\
 \\	Oct.Props.Wall.Sacks.toolName=Sacks
 \\
 \\\\
-Oct.Props.Wall.Sacks.toolName=\\untranslated
+Oct.Props.Wall.Sacks.toolName=Мішок
 
 \\\\
 \\
@@ -53792,21 +53808,21 @@ Oct.Props.Wall.Sacks.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wall.BanditSkull.name=Wall Skull
 \\
 \\\\
-Oct.Props.Wall.BanditSkull.name=\\untranslated
+Oct.Props.Wall.BanditSkull.name=Настінний череп
 
 \\\\
 \\
 \\	Oct.Props.Wall.BanditSkull.pluralName=Wall Skulls
 \\
 \\\\
-Oct.Props.Wall.BanditSkull.pluralName=\\untranslated
+Oct.Props.Wall.BanditSkull.pluralName=Настінний череп
 
 \\\\
 \\
 \\	Oct.Props.Wall.BanditSkull.toolName=Wall Skull
 \\
 \\\\
-Oct.Props.Wall.BanditSkull.toolName=\\untranslated
+Oct.Props.Wall.BanditSkull.toolName=Настін череп
 
 \\\\
 \\
@@ -53834,21 +53850,21 @@ Oct.Props.Wall.BanditSkull.colorSlots.3.name=\\untranslated
 \\	Oct.Props.Wall.Ribbons.Ribbon.name=Ribbon
 \\
 \\\\
-Oct.Props.Wall.Ribbons.Ribbon.name=\\untranslated
+Oct.Props.Wall.Ribbons.Ribbon.name=Стрічка
 
 \\\\
 \\
 \\	Oct.Props.Wall.Ribbons.Ribbon.pluralName=Ribbons
 \\
 \\\\
-Oct.Props.Wall.Ribbons.Ribbon.pluralName=\\untranslated
+Oct.Props.Wall.Ribbons.Ribbon.pluralName=Стрічка
 
 \\\\
 \\
 \\	Oct.Props.Wall.Ribbons.Ribbon.toolName=Ribbon
 \\
 \\\\
-Oct.Props.Wall.Ribbons.Ribbon.toolName=\\untranslated
+Oct.Props.Wall.Ribbons.Ribbon.toolName=Стрічка
 
 \\\\
 \\
@@ -53869,21 +53885,21 @@ Oct.Props.Wall.Ribbons.Ribbon.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wall.DecorativeFood.name=Decorative Food
 \\
 \\\\
-Oct.Props.Wall.DecorativeFood.name=\\untranslated
+Oct.Props.Wall.DecorativeFood.name=Декоративна їжа
 
 \\\\
 \\
 \\	Oct.Props.Wall.DecorativeFood.pluralName=Decorative Foods
 \\
 \\\\
-Oct.Props.Wall.DecorativeFood.pluralName=\\untranslated
+Oct.Props.Wall.DecorativeFood.pluralName=Декоративна їжа
 
 \\\\
 \\
 \\	Oct.Props.Wall.DecorativeFood.toolName=Food Decor
 \\
 \\\\
-Oct.Props.Wall.DecorativeFood.toolName=\\untranslated
+Oct.Props.Wall.DecorativeFood.toolName=Декор їжа
 
 \\\\
 \\
@@ -53918,21 +53934,21 @@ Oct.Props.Wall.DecorativeFood.colorSlots.4.name=\\untranslated
 \\	Oct.Props.Wall.BanditArt.name=Bandit Art
 \\
 \\\\
-Oct.Props.Wall.BanditArt.name=\\untranslated
+Oct.Props.Wall.BanditArt.name=Бандитське мистецтво
 
 \\\\
 \\
 \\	Oct.Props.Wall.BanditArt.pluralName=Bandit Art
 \\
 \\\\
-Oct.Props.Wall.BanditArt.pluralName=\\untranslated
+Oct.Props.Wall.BanditArt.pluralName=Бандитське мистецтво
 
 \\\\
 \\
 \\	Oct.Props.Wall.BanditArt.toolName=Bandit
 \\
 \\\\
-Oct.Props.Wall.BanditArt.toolName=\\untranslated
+Oct.Props.Wall.BanditArt.toolName=Бандитське
 
 \\\\
 \\
@@ -53974,21 +53990,21 @@ Oct.Props.Wall.Dishes.colorSlots.1.name=\\untranslated
 \\	Oct.Props.Wall.Dishes.Bronze.name=Bronze Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Bronze.name=\\untranslated
+Oct.Props.Wall.Dishes.Bronze.name=Бронзовий посуд
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dishes.Bronze.pluralName=Bronze Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Bronze.pluralName=\\untranslated
+Oct.Props.Wall.Dishes.Bronze.pluralName=Бронзовий посуд
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dishes.Bronze.toolName=Brz Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Bronze.toolName=\\untranslated
+Oct.Props.Wall.Dishes.Bronze.toolName=Брон посуд
 
 \\\\
 \\
@@ -54009,21 +54025,21 @@ Oct.Props.Wall.Dishes.Bronze.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wall.Dishes.Steel.name=Steel Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Steel.name=\\untranslated
+Oct.Props.Wall.Dishes.Steel.name=Сталевий посуд
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dishes.Steel.pluralName=Steel Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Steel.pluralName=\\untranslated
+Oct.Props.Wall.Dishes.Steel.pluralName=Сталевий посуд
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dishes.Steel.toolName=Stl Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Steel.toolName=\\untranslated
+Oct.Props.Wall.Dishes.Steel.toolName=Стал посуд
 
 \\\\
 \\
@@ -54044,21 +54060,21 @@ Oct.Props.Wall.Dishes.Steel.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wall.Dishes.Silver.name=Silver Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Silver.name=\\untranslated
+Oct.Props.Wall.Dishes.Silver.name=Срібний посуд
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dishes.Silver.pluralName=Silver Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Silver.pluralName=\\untranslated
+Oct.Props.Wall.Dishes.Silver.pluralName=Срібний посуд
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dishes.Silver.toolName=Slv Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Silver.toolName=\\untranslated
+Oct.Props.Wall.Dishes.Silver.toolName=Сріб посуд
 
 \\\\
 \\
@@ -54079,21 +54095,21 @@ Oct.Props.Wall.Dishes.Silver.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wall.Dishes.Gold.name=Gold Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Gold.name=\\untranslated
+Oct.Props.Wall.Dishes.Gold.name=Золотий посуд
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dishes.Gold.pluralName=Gold Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Gold.pluralName=\\untranslated
+Oct.Props.Wall.Dishes.Gold.pluralName=Золотий посуд
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dishes.Gold.toolName=Gld Dishes
 \\
 \\\\
-Oct.Props.Wall.Dishes.Gold.toolName=\\untranslated
+Oct.Props.Wall.Dishes.Gold.toolName=Зол посуд
 
 \\\\
 \\
@@ -54114,21 +54130,21 @@ Oct.Props.Wall.Dishes.Gold.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wall.Dwarf.name=Wall Dwarf Statue
 \\
 \\\\
-Oct.Props.Wall.Dwarf.name=\\untranslated
+Oct.Props.Wall.Dwarf.name=Статуя настінного гнома
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dwarf.pluralName=Wall Dwarf Statues
 \\
 \\\\
-Oct.Props.Wall.Dwarf.pluralName=\\untranslated
+Oct.Props.Wall.Dwarf.pluralName=Статуя настінного гнома
 
 \\\\
 \\
 \\	Oct.Props.Wall.Dwarf.toolName=Dwarf
 \\
 \\\\
-Oct.Props.Wall.Dwarf.toolName=\\untranslated
+Oct.Props.Wall.Dwarf.toolName=Гном
 
 \\\\
 \\
@@ -54177,28 +54193,28 @@ Oct.Props.Wall.Dwarf.colorSlots.6.name=\\untranslated
 \\	Oct.Props.Wall.Pipes.Copper.name=Bronze Exhaust Pipe
 \\
 \\\\
-Oct.Props.Wall.Pipes.Copper.name=\\untranslated
+Oct.Props.Wall.Pipes.Copper.name=Бронзова витяжна труба
 
 \\\\
 \\
 \\	Oct.Props.Wall.Pipes.Copper.pluralName=Bronze Exhaust Pipes
 \\
 \\\\
-Oct.Props.Wall.Pipes.Copper.pluralName=\\untranslated
+Oct.Props.Wall.Pipes.Copper.pluralName=Бронзова витяжна труба
 
 \\\\
 \\
 \\	Oct.Props.Wall.Pipes.Copper.toolName=Exhaust
 \\
 \\\\
-Oct.Props.Wall.Pipes.Copper.toolName=\\untranslated
+Oct.Props.Wall.Pipes.Copper.toolName=Витяжка
 
 \\\\
 \\
 \\	Oct.Props.Wall.Pipes.Copper.description=Route Smoke through tight spaces without any temperature loss using this Dwarven Invention.
 \\
 \\\\
-Oct.Props.Wall.Pipes.Copper.description=\\untranslated
+Oct.Props.Wall.Pipes.Copper.description=Проведіть дим через тісні простори без втрати температури за допомогою цього гномського винаходу.
 
 \\\\
 \\
@@ -54219,21 +54235,21 @@ Oct.Props.Wall.Pipes.Copper.colorSlots.2.name=\\untranslated
 \\	Oct.Props.Wall.WallFlower.name=Wall Flower
 \\
 \\\\
-Oct.Props.Wall.WallFlower.name=\\untranslated
+Oct.Props.Wall.WallFlower.name=Настінна квітка
 
 \\\\
 \\
 \\	Oct.Props.Wall.WallFlower.pluralName=Wall Flowers
 \\
 \\\\
-Oct.Props.Wall.WallFlower.pluralName=\\untranslated
+Oct.Props.Wall.WallFlower.pluralName=Настінна квітка
 
 \\\\
 \\
 \\	Oct.Props.Wall.WallFlower.toolName=Wall Flower
 \\
 \\\\
-Oct.Props.Wall.WallFlower.toolName=\\untranslated
+Oct.Props.Wall.WallFlower.toolName=Наст квітка
 
 \\\\
 \\
@@ -54296,7 +54312,7 @@ Oct.Props.Wall.BanditArt.prefabs.2.name=\\untranslated
 \\	Oct.Props.Wall.Banner.Basic.prefabs.1.name=Basic Banner
 \\
 \\\\
-Oct.Props.Wall.Banner.Basic.prefabs.1.name=\\untranslated
+Oct.Props.Wall.Banner.Basic.prefabs.1.name=Базовий банер
 
 \\\\
 \\
@@ -54310,7 +54326,7 @@ Oct.Props.Wall.Banner.Basic.prefabs.2.name=\\untranslated
 \\	Oct.Props.Wall.Banner.Basic.prefabs.3.name=Thin Banner
 \\
 \\\\
-Oct.Props.Wall.Banner.Basic.prefabs.3.name=\\untranslated
+Oct.Props.Wall.Banner.Basic.prefabs.3.name=Тонкий банер
 
 \\\\
 \\
@@ -54513,21 +54529,21 @@ Oct.Props.Wall.BanditSkull.prefabs.2.name=\\untranslated
 \\	Oct.Props.WallFlag.name=Flag
 \\
 \\\\
-Oct.Props.WallFlag.name=\\untranslated
+Oct.Props.WallFlag.name=Прапор
 
 \\\\
 \\
 \\	Oct.Props.WallFlag.pluralName=Flags
 \\
 \\\\
-Oct.Props.WallFlag.pluralName=\\untranslated
+Oct.Props.WallFlag.pluralName=Прапор
 
 \\\\
 \\
 \\	Oct.Props.WallFlag.toolName=Flag
 \\
 \\\\
-Oct.Props.WallFlag.toolName=\\untranslated
+Oct.Props.WallFlag.toolName=Прапор
 
 \\\\
 \\
@@ -55094,7 +55110,7 @@ Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.pluralName=Гарний шип�
 \\	Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.toolName=Spiked
 \\
 \\\\
-Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.toolName=\\untranslated
+Oct.Props.WallPost.FineStone.ColumnTopper.Spikes.toolName=Шипований
 
 \\\\
 \\
@@ -55381,14 +55397,14 @@ Oct.Props.WallSconce.Gold.colorSlots.1.name=Метал
 \\	Oct.Props.WallTargetKnives.name=Throwing Knives
 \\
 \\\\
-Oct.Props.WallTargetKnives.name=\\untranslated
+Oct.Props.WallTargetKnives.name=Метальня ножів
 
 \\\\
 \\
 \\	Oct.Props.WallTargetKnives.toolName=Throw Knvs
 \\
 \\\\
-Oct.Props.WallTargetKnives.toolName=\\untranslated
+Oct.Props.WallTargetKnives.toolName=Метал ножів
 
 \\\\
 \\
@@ -55423,7 +55439,7 @@ Oct.Props.WallTargetKnives.colorSlots.4.name=\\untranslated
 \\	Oct.Props.WallTargetKnives.pluralName=Throwing Knives
 \\
 \\\\
-Oct.Props.WallTargetKnives.pluralName=\\untranslated
+Oct.Props.WallTargetKnives.pluralName=Метальня ножів
 
 \\\\
 \\
@@ -55451,14 +55467,14 @@ Oct.Props.WallTorch.toolName=Смолоскип
 \\	Oct.Props.WallWeaponHolder.name=Weapon Holder
 \\
 \\\\
-Oct.Props.WallWeaponHolder.name=\\untranslated
+Oct.Props.WallWeaponHolder.name=Тримач зброї
 
 \\\\
 \\
 \\	Oct.Props.WallWeaponHolder.toolName=Wpn Holder
 \\
 \\\\
-Oct.Props.WallWeaponHolder.toolName=\\untranslated
+Oct.Props.WallWeaponHolder.toolName=Трим зброї
 
 \\\\
 \\
@@ -55472,28 +55488,28 @@ Oct.Props.WallWeaponHolder.colorSlots.1.name=\\untranslated
 \\	Oct.Props.WallWeaponHolder.pluralName=Weapon Holder
 \\
 \\\\
-Oct.Props.WallWeaponHolder.pluralName=\\untranslated
+Oct.Props.WallWeaponHolder.pluralName=Тримач зброї
 
 \\\\
 \\
 \\	Oct.Props.WeaponRack.name=Weapon Rack
 \\
 \\\\
-Oct.Props.WeaponRack.name=\\untranslated
+Oct.Props.WeaponRack.name=Стійка для зброї
 
 \\\\
 \\
 \\	Oct.Props.WeaponRack.pluralName=Weapon Racks
 \\
 \\\\
-Oct.Props.WeaponRack.pluralName=\\untranslated
+Oct.Props.WeaponRack.pluralName=Стійка для зброї
 
 \\\\
 \\
 \\	Oct.Props.WeaponRack.toolName=Wpn Rack
 \\
 \\\\
-Oct.Props.WeaponRack.toolName=\\untranslated
+Oct.Props.WeaponRack.toolName=Стій зброї
 
 \\\\
 \\
@@ -55528,21 +55544,21 @@ Oct.Props.WeaponRack.colorSlots.4.name=\\untranslated
 \\	Oct.Props.WeddingCake.name=Wedding Cake
 \\
 \\\\
-Oct.Props.WeddingCake.name=\\untranslated
+Oct.Props.WeddingCake.name=Весільний торт
 
 \\\\
 \\
 \\	Oct.Props.WeddingCake.pluralName=Wedding Cakes
 \\
 \\\\
-Oct.Props.WeddingCake.pluralName=\\untranslated
+Oct.Props.WeddingCake.pluralName=Весільний торт
 
 \\\\
 \\
 \\	Oct.Props.WeddingCake.toolName=Cake
 \\
 \\\\
-Oct.Props.WeddingCake.toolName=\\untranslated
+Oct.Props.WeddingCake.toolName=Торт
 
 \\\\
 \\
@@ -56777,7 +56793,7 @@ Oct.Research.Building.Winery.name=\\untranslated
 \\	Oct.Research.Building.Decoration.WallWeaponHolder.name=Weapon Holders
 \\
 \\\\
-Oct.Research.Building.Decoration.WallWeaponHolder.name=\\untranslated
+Oct.Research.Building.Decoration.WallWeaponHolder.name=Тримачі зброї
 
 \\\\
 \\
@@ -56798,14 +56814,14 @@ Oct.Research.Building.Decoration.name=\\untranslated
 \\	Oct.Research.Building.Decoration.WeaponRack.name=Weapon Racks
 \\
 \\\\
-Oct.Research.Building.Decoration.WeaponRack.name=\\untranslated
+Oct.Research.Building.Decoration.WeaponRack.name=Стійки для зброї
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Standing.name=Standing
 \\
 \\\\
-Oct.Research.Building.Decoration.Standing.name=\\untranslated
+Oct.Research.Building.Decoration.Standing.name=Стоячі
 
 \\\\
 \\
@@ -57288,14 +57304,14 @@ Oct.Research.Building.WallPost.FineStone.name=Гарна кам'яна коло�
 \\	Oct.Research.Building.Decoration.WallBanner.Fancy.name=Fancy Banners
 \\
 \\\\
-Oct.Research.Building.Decoration.WallBanner.Fancy.name=\\untranslated
+Oct.Research.Building.Decoration.WallBanner.Fancy.name=Модні банери
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.WallBanner.name=Basic Banners
 \\
 \\\\
-Oct.Research.Building.Decoration.WallBanner.name=\\untranslated
+Oct.Research.Building.Decoration.WallBanner.name=Базові банери
 
 \\\\
 \\
@@ -57365,42 +57381,42 @@ Oct.Research.Building.Roofs.FineStone.name=Гарні кам'яні дахи
 \\	Oct.Research.Building.Decoration.Trophies.Deer.name=Deer Trophies
 \\
 \\\\
-Oct.Research.Building.Decoration.Trophies.Deer.name=\\untranslated
+Oct.Research.Building.Decoration.Trophies.Deer.name=Трофеї оленів
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Wall.Sacks.name=Decorative Sacks
 \\
 \\\\
-Oct.Research.Building.Decoration.Wall.Sacks.name=\\untranslated
+Oct.Research.Building.Decoration.Wall.Sacks.name=Декоративні мішки
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Bandit.Skull.name=Wall Skulls
 \\
 \\\\
-Oct.Research.Building.Decoration.Bandit.Skull.name=\\untranslated
+Oct.Research.Building.Decoration.Bandit.Skull.name=Настінні черепа
 
 \\\\
 \\
 \\	Oct.Research.Building.Lighting.StandingSkullLight.name=Standing Skull Lights
 \\
 \\\\
-Oct.Research.Building.Lighting.StandingSkullLight.name=\\untranslated
+Oct.Research.Building.Lighting.StandingSkullLight.name=Стоячі світла черепа
 
 \\\\
 \\
 \\	Oct.Research.Building.Lighting.StandingTorch.name=Standing Torch
 \\
 \\\\
-Oct.Research.Building.Lighting.StandingTorch.name=Стоячий смолоскип
+Oct.Research.Building.Lighting.StandingTorch.name=Стоячі смолоскипи
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Books.name=Books
 \\
 \\\\
-Oct.Research.Building.Decoration.Books.name=\\untranslated
+Oct.Research.Building.Decoration.Books.name=Книги
 
 \\\\
 \\
@@ -57414,14 +57430,14 @@ Oct.Research.Building.Decoration.Tabletop.name=\\untranslated
 \\	Oct.Research.Building.Decoration.Bottles.name=Bottles
 \\
 \\\\
-Oct.Research.Building.Decoration.Bottles.name=\\untranslated
+Oct.Research.Building.Decoration.Bottles.name=Пляшки
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Scrolls.name=Scrolls
 \\
 \\\\
-Oct.Research.Building.Decoration.Scrolls.name=\\untranslated
+Oct.Research.Building.Decoration.Scrolls.name=Сувої
 
 \\\\
 \\
@@ -57435,14 +57451,14 @@ Oct.Research.Building.Stairs.Stone.Corner.name=Вигнуті кам'яні сх
 \\	Oct.Research.Building.Decoration.PottedPlant.name=Potted Plants
 \\
 \\\\
-Oct.Research.Building.Decoration.PottedPlant.name=\\untranslated
+Oct.Research.Building.Decoration.PottedPlant.name=Рослини в горщиках
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Skulls.Real.name=Real Skulls
 \\
 \\\\
-Oct.Research.Building.Decoration.Skulls.Real.name=\\untranslated
+Oct.Research.Building.Decoration.Skulls.Real.name=Справжні черепа
 
 \\\\
 \\
@@ -57463,7 +57479,7 @@ Oct.Research.Building.Decoration.Wall.Ribbons.name=\\untranslated
 \\	Oct.Research.Building.Decoration.Cask.name=Mini Casks
 \\
 \\\\
-Oct.Research.Building.Decoration.Cask.name=\\untranslated
+Oct.Research.Building.Decoration.Cask.name=Міні діжки
 
 \\\\
 \\
@@ -57505,7 +57521,7 @@ Oct.Research.Building.Stairs.Wood.Corner.name=Вигнуті дерев'яні �
 \\	Oct.Research.Building.Decoration.Cloth.name=Cloth Carpets
 \\
 \\\\
-Oct.Research.Building.Decoration.Cloth.name=\\untranslated
+Oct.Research.Building.Decoration.Cloth.name=Тканинні килими
 
 \\\\
 \\
@@ -57519,42 +57535,42 @@ Oct.Research.Building.Decoration.Floor.name=\\untranslated
 \\	Oct.Research.Building.Decoration.Chest.Fancy.name=Fancy Chests
 \\
 \\\\
-Oct.Research.Building.Decoration.Chest.Fancy.name=\\untranslated
+Oct.Research.Building.Decoration.Chest.Fancy.name=Чудові скрині
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Chest.Nice.name=Nice Chests
 \\
 \\\\
-Oct.Research.Building.Decoration.Chest.Nice.name=\\untranslated
+Oct.Research.Building.Decoration.Chest.Nice.name=Хороші скрині
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Chest.Fine.name=Fine Chests
 \\
 \\\\
-Oct.Research.Building.Decoration.Chest.Fine.name=\\untranslated
+Oct.Research.Building.Decoration.Chest.Fine.name=Гарні скрині
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Chest.Basic.name=Basic Chests
 \\
 \\\\
-Oct.Research.Building.Decoration.Chest.Basic.name=\\untranslated
+Oct.Research.Building.Decoration.Chest.Basic.name=Базові скрині
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Wall.Food.name=Decorative Foods
 \\
 \\\\
-Oct.Research.Building.Decoration.Wall.Food.name=\\untranslated
+Oct.Research.Building.Decoration.Wall.Food.name=Декоративна їжа
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Drapes.name=Fine ClothDrapes
 \\
 \\\\
-Oct.Research.Building.Decoration.Drapes.name=\\untranslated
+Oct.Research.Building.Decoration.Drapes.name=Штори з тонкої тканини
 
 \\\\
 \\
@@ -57589,7 +57605,7 @@ Oct.Research.Building.Tactical.Cheval.name=Їжаки
 \\	Oct.Research.Building.Decoration.Standing.HangingPelt.name=Hanging Pelts
 \\
 \\\\
-Oct.Research.Building.Decoration.Standing.HangingPelt.name=\\untranslated
+Oct.Research.Building.Decoration.Standing.HangingPelt.name=Висячі шкіри
 
 \\\\
 \\
@@ -57603,42 +57619,42 @@ Oct.Research.Building.TrainingDummy.name=Тренувальні манекени
 \\	Oct.Research.Building.Decoration.StandingBanner.name=Standing Banners
 \\
 \\\\
-Oct.Research.Building.Decoration.StandingBanner.name=\\untranslated
+Oct.Research.Building.Decoration.StandingBanner.name=Стоячі банери
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Bandit.BanditArt.name=Bandit Art
 \\
 \\\\
-Oct.Research.Building.Decoration.Bandit.BanditArt.name=\\untranslated
+Oct.Research.Building.Decoration.Bandit.BanditArt.name=Бандитське мистецтво
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Bandit.BanditCages.name=Bandit Cages
 \\
 \\\\
-Oct.Research.Building.Decoration.Bandit.BanditCages.name=\\untranslated
+Oct.Research.Building.Decoration.Bandit.BanditCages.name=Бандитські клітки
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Bandit.SpikeThinSkull.name=Thin Spikes
 \\
 \\\\
-Oct.Research.Building.Decoration.Bandit.SpikeThinSkull.name=\\untranslated
+Oct.Research.Building.Decoration.Bandit.SpikeThinSkull.name=Тонкі шипи
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Bandit.Spike.name=Spikes
 \\
 \\\\
-Oct.Research.Building.Decoration.Bandit.Spike.name=\\untranslated
+Oct.Research.Building.Decoration.Bandit.Spike.name=Шипи
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Trophies.Boar.name=Boar Trophies
 \\
 \\\\
-Oct.Research.Building.Decoration.Trophies.Boar.name=\\untranslated
+Oct.Research.Building.Decoration.Trophies.Boar.name=Трофеї кабана
 
 \\\\
 \\
@@ -57659,14 +57675,14 @@ Oct.Research.Building.Lighting.Brazier.Gold.name=\\untranslated
 \\	Oct.Research.Building.Decoration.CardGame.name=Card Games
 \\
 \\\\
-Oct.Research.Building.Decoration.CardGame.name=\\untranslated
+Oct.Research.Building.Decoration.CardGame.name=Карткові ігри
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.DiceGame.name=Dice Games
 \\
 \\\\
-Oct.Research.Building.Decoration.DiceGame.name=\\untranslated
+Oct.Research.Building.Decoration.DiceGame.name=Гра кубики
 
 \\\\
 \\
@@ -57708,28 +57724,28 @@ Oct.Research.Building.Furniture.Usable.Cornucopia.name=Роги достатку
 \\	Oct.Research.Building.Decoration.Dishes.Bronze.name=Bronze Dishes
 \\
 \\\\
-Oct.Research.Building.Decoration.Dishes.Bronze.name=\\untranslated
+Oct.Research.Building.Decoration.Dishes.Bronze.name=Бронзовий посуд
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Dishes.Steel.name=Steel Dishes
 \\
 \\\\
-Oct.Research.Building.Decoration.Dishes.Steel.name=\\untranslated
+Oct.Research.Building.Decoration.Dishes.Steel.name=Сталевий посуд
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Dishes.Silver.name=Silver Dishes
 \\
 \\\\
-Oct.Research.Building.Decoration.Dishes.Silver.name=\\untranslated
+Oct.Research.Building.Decoration.Dishes.Silver.name=Срібний посуд
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Dishes.Gold.name=Gold Dishes
 \\
 \\\\
-Oct.Research.Building.Decoration.Dishes.Gold.name=\\untranslated
+Oct.Research.Building.Decoration.Dishes.Gold.name=Золотий посуд
 
 \\\\
 \\
@@ -57778,35 +57794,35 @@ Oct.Research.Building.Lighting.Candelabra.Gold.name=\\untranslated
 \\	Oct.Research.Building.Decoration.Skulls.Stone.name=Stone Skulls
 \\
 \\\\
-Oct.Research.Building.Decoration.Skulls.Stone.name=\\untranslated
+Oct.Research.Building.Decoration.Skulls.Stone.name=Кам'яні черепи
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Skulls.Bronze.name=Bronze Skulls
 \\
 \\\\
-Oct.Research.Building.Decoration.Skulls.Bronze.name=\\untranslated
+Oct.Research.Building.Decoration.Skulls.Bronze.name=Бронзові черепа
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Skulls.Iron.name=Iron Skulls
 \\
 \\\\
-Oct.Research.Building.Decoration.Skulls.Iron.name=\\untranslated
+Oct.Research.Building.Decoration.Skulls.Iron.name=Залізні черепа
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Skulls.Silver.name=Silver Skulls
 \\
 \\\\
-Oct.Research.Building.Decoration.Skulls.Silver.name=\\untranslated
+Oct.Research.Building.Decoration.Skulls.Silver.name=Срібні черепа
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Skulls.Gold.name=Gold Skulls
 \\
 \\\\
-Oct.Research.Building.Decoration.Skulls.Gold.name=\\untranslated
+Oct.Research.Building.Decoration.Skulls.Gold.name=Золоті черепа
 
 \\\\
 \\
@@ -57890,7 +57906,7 @@ Oct.Research.Building.Portcullis.Steel.name=Сталеві порткуліси
 \\	Oct.Research.Building.Decoration.Drapes.Fur.name=Fine Fur Drapes
 \\
 \\\\
-Oct.Research.Building.Decoration.Drapes.Fur.name=\\untranslated
+Oct.Research.Building.Decoration.Drapes.Fur.name=Тонкі хутряні штори
 
 \\\\
 \\
@@ -57904,35 +57920,35 @@ Oct.Research.Building.Furniture.Crib.Stone.Fine.name=Гарні кам'яні л
 \\	Oct.Research.Building.Decoration.DrinkingStatue.Stone.name=Stone Drinking Statues
 \\
 \\\\
-Oct.Research.Building.Decoration.DrinkingStatue.Stone.name=\\untranslated
+Oct.Research.Building.Decoration.DrinkingStatue.Stone.name=Кам'яні п'яні статуї
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.DrinkingStatue.Bronze.name=Bronze Drinking Statues
 \\
 \\\\
-Oct.Research.Building.Decoration.DrinkingStatue.Bronze.name=\\untranslated
+Oct.Research.Building.Decoration.DrinkingStatue.Bronze.name=Бронзові п'яні статуї
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.DrinkingStatue.Iron.name=Iron Drinking Statues
 \\
 \\\\
-Oct.Research.Building.Decoration.DrinkingStatue.Iron.name=\\untranslated
+Oct.Research.Building.Decoration.DrinkingStatue.Iron.name=Залізні п'яні статуї
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.DrinkingStatue.Silver.name=Silver Drinking Statues
 \\
 \\\\
-Oct.Research.Building.Decoration.DrinkingStatue.Silver.name=\\untranslated
+Oct.Research.Building.Decoration.DrinkingStatue.Silver.name=Срібні п'яні статуї
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.DrinkingStatue.Gold.name=Gold Drinking Statues
 \\
 \\\\
-Oct.Research.Building.Decoration.DrinkingStatue.Gold.name=\\untranslated
+Oct.Research.Building.Decoration.DrinkingStatue.Gold.name=Золоті п'яні статуї
 
 \\\\
 \\
@@ -57960,21 +57976,21 @@ Oct.Research.Building.Decoration.Wall.Statue.Dwarf.name=\\untranslated
 \\	Oct.Research.Building.Decoration.Paths.Gravel.name=Gravel Paths
 \\
 \\\\
-Oct.Research.Building.Decoration.Paths.Gravel.name=\\untranslated
+Oct.Research.Building.Decoration.Paths.Gravel.name=Доріжки з гравію
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Paths.Wood.name=Wood Chip Paths
 \\
 \\\\
-Oct.Research.Building.Decoration.Paths.Wood.name=\\untranslated
+Oct.Research.Building.Decoration.Paths.Wood.name=Доріжки із деревної стружки
 
 \\\\
 \\
 \\	Oct.Research.Building.Decoration.Paths.Stone.name=Stone Paths
 \\
 \\\\
-Oct.Research.Building.Decoration.Paths.Stone.name=\\untranslated
+Oct.Research.Building.Decoration.Paths.Stone.name=Кам'яні доріжки
 
 \\\\
 \\
@@ -57995,14 +58011,14 @@ Oct.Research.Building.Decoration.Seasonal.name=\\untranslated
 \\	Oct.Research.Building.Seasonal.HolidayTree.name=Holiday Trees
 \\
 \\\\
-Oct.Research.Building.Seasonal.HolidayTree.name=\\untranslated
+Oct.Research.Building.Seasonal.HolidayTree.name=Святкові дерева
 
 \\\\
 \\
 \\	Oct.Research.Building.Seasonal.Wreath.name=Holiday Wreaths
 \\
 \\\\
-Oct.Research.Building.Seasonal.Wreath.name=\\untranslated
+Oct.Research.Building.Seasonal.Wreath.name=Святкові віночки
 
 \\\\
 \\
@@ -58345,56 +58361,56 @@ Oct.Research.Crafting.ShortBow.Fine.name=\\untranslated
 \\	Oct.Research.Decoration.FlowerVase.name=Flower Vase
 \\
 \\\\
-Oct.Research.Decoration.FlowerVase.name=\\untranslated
+Oct.Research.Decoration.FlowerVase.name=Ваза квітів
 
 \\\\
 \\
 \\	Oct.Research.Decoration.Bushes.Wide.name=Wide Bushes
 \\
 \\\\
-Oct.Research.Decoration.Bushes.Wide.name=\\untranslated
+Oct.Research.Decoration.Bushes.Wide.name=Широкі кущі
 
 \\\\
 \\
 \\	Oct.Research.Decoration.Bushes.Skinny.name=Skinny Bushes
 \\
 \\\\
-Oct.Research.Decoration.Bushes.Skinny.name=\\untranslated
+Oct.Research.Decoration.Bushes.Skinny.name=Худі кущі
 
 \\\\
 \\
 \\	Oct.Research.Decoration.BushHeart.name=Heart Bushes
 \\
 \\\\
-Oct.Research.Decoration.BushHeart.name=\\untranslated
+Oct.Research.Decoration.BushHeart.name=Серцеві кущі
 
 \\\\
 \\
 \\	Oct.Research.Decoration.Cake.name=Wedding Cakes
 \\
 \\\\
-Oct.Research.Decoration.Cake.name=\\untranslated
+Oct.Research.Decoration.Cake.name=Весільні торти
 
 \\\\
 \\
 \\	Oct.Research.Decoration.Tabletop.Gifts.name=Gifts
 \\
 \\\\
-Oct.Research.Decoration.Tabletop.Gifts.name=\\untranslated
+Oct.Research.Decoration.Tabletop.Gifts.name=Подарунки
 
 \\\\
 \\
 \\	Oct.Research.Decoration.GiftBasket.name=Gift Baskets
 \\
 \\\\
-Oct.Research.Decoration.GiftBasket.name=\\untranslated
+Oct.Research.Decoration.GiftBasket.name=Подарункові кошики
 
 \\\\
 \\
 \\	Oct.Research.Decoration.WeddingSculpture.name=Wedding Sculptures
 \\
 \\\\
-Oct.Research.Decoration.WeddingSculpture.name=\\untranslated
+Oct.Research.Decoration.WeddingSculpture.name=Весільні скульптури
 
 \\\\
 \\
@@ -59052,7 +59068,7 @@ Oct.Rooms.Contents.Work.name=\\untranslated
 \\	Oct.Rooms.Contents.FirePit.name=Fire Pit
 \\
 \\\\
-Oct.Rooms.Contents.FirePit.name=\\untranslated
+Oct.Rooms.Contents.FirePit.name=Вогнище
 
 \\\\
 \\
@@ -59115,14 +59131,14 @@ Oct.Rooms.Contents.Storage.name=\\untranslated
 \\	Oct.Rooms.Contents.WeaponHolder.name=Weapon Holder
 \\
 \\\\
-Oct.Rooms.Contents.WeaponHolder.name=\\untranslated
+Oct.Rooms.Contents.WeaponHolder.name=Тримач зброї
 
 \\\\
 \\
 \\	Oct.Rooms.Contents.WeaponRack.name=Weapon Rack
 \\
 \\\\
-Oct.Rooms.Contents.WeaponRack.name=\\untranslated
+Oct.Rooms.Contents.WeaponRack.name=Стійка для зброї
 
 \\\\
 \\
@@ -61022,42 +61038,42 @@ Oct.Settings.Global.Controls.Camera.Zoom.defaultValue=\\untranslated
 \\	Oct.Settings.Global.Controls.Time.name=Time
 \\
 \\\\
-Oct.Settings.Global.Controls.Time.name=\\untranslated
+Oct.Settings.Global.Controls.Time.name=Час
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Time.Pause.name=Toggle Pause
 \\
 \\\\
-Oct.Settings.Global.Controls.Time.Pause.name=\\untranslated
+Oct.Settings.Global.Controls.Time.Pause.name=Перемкнути паузу
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Time.Slow.name=.5x Speed
 \\
 \\\\
-Oct.Settings.Global.Controls.Time.Slow.name=\\untranslated
+Oct.Settings.Global.Controls.Time.Slow.name=.5x швидкість
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Time.Normal.name=1x Speed
 \\
 \\\\
-Oct.Settings.Global.Controls.Time.Normal.name=\\untranslated
+Oct.Settings.Global.Controls.Time.Normal.name=1x швидкість
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Time.Fast.name=3x Speed
 \\
 \\\\
-Oct.Settings.Global.Controls.Time.Fast.name=\\untranslated
+Oct.Settings.Global.Controls.Time.Fast.name=3x швидкість
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Time.VeryFast.name=10x Speed
 \\
 \\\\
-Oct.Settings.Global.Controls.Time.VeryFast.name=\\untranslated
+Oct.Settings.Global.Controls.Time.VeryFast.name=10x швидкість
 
 \\\\
 \\
@@ -63029,28 +63045,28 @@ Oct.Terrain.Gatherables.Stalagmite.name=\\untranslated
 \\	Oct.Time.Manager.seasonNames.1=Spring
 \\
 \\\\
-Oct.Time.Manager.seasonNames.1=\\untranslated
+Oct.Time.Manager.seasonNames.1=Весна
 
 \\\\
 \\
 \\	Oct.Time.Manager.seasonNames.2=Summer
 \\
 \\\\
-Oct.Time.Manager.seasonNames.2=\\untranslated
+Oct.Time.Manager.seasonNames.2=Літо
 
 \\\\
 \\
 \\	Oct.Time.Manager.seasonNames.3=Fall
 \\
 \\\\
-Oct.Time.Manager.seasonNames.3=\\untranslated
+Oct.Time.Manager.seasonNames.3=Осінь
 
 \\\\
 \\
 \\	Oct.Time.Manager.seasonNames.4=Winter
 \\
 \\\\
-Oct.Time.Manager.seasonNames.4=\\untranslated
+Oct.Time.Manager.seasonNames.4=Зима
 
 \\\\
 \\
